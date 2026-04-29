@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Writing — Eshaan Sharma</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=JetBrains+Mono:wght@400;500&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=27">
+</head>
+<body>
+<main>
+  <section style="padding: 160px var(--gutter) 40px 24px;">
+    <div class="shell" style="text-align: center;">
+      <h1 style="font-family: var(--font-sans); font-weight: 500; font-size: clamp(28px, 3.4vw, 40px); line-height: 1.1; letter-spacing: -0.01em; margin-bottom: 18px;">Writing on the work.</h1>
+      <p class="lead" style="max-width: 60ch; margin: 0 auto;">Short pieces on system design, latency, and the small operational decisions that turn out to matter.</p>
+    </div>
+  </section>
+
+  <div class="section-divider" aria-hidden="true">
+    <span class="section-divider__count">recent notes</span>
+  </div>
+
+  <section style="padding: 32px var(--gutter) var(--section);">
+    <div class="shell shell--narrow">
+      <div class="reveal" id="notes"></div>
+    </div>
+  </section>
+</main>
+
+<script src="data.js?v=27"></script>
+<script src="layout.js?v=27"></script>
+<script>
+  document.getElementById('notes').innerHTML = window.PORTFOLIO.notes.map(n => `
+    <a class="note" href="#${n.slug}">
+      <div class="note__date">${n.date}</div>
+      <div>
+        <div class="note__title serif">${n.title}</div>
+        <div class="note__excerpt">${n.excerpt}</div>
+        <div class="note__kind">${n.kind}</div>
+      </div>
+      <div class="note__reading">${n.reading}</div>
+    </a>
+  `).join('');
+</script>
+</body>
+</html>

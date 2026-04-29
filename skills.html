@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Skills — Eshaan Sharma</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=JetBrains+Mono:wght@400;500&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=27">
+</head>
+<body>
+<main>
+  <section style="padding: 160px var(--gutter) 40px 24px;">
+    <div class="shell" style="text-align: center;">
+      <h1 style="font-family: var(--font-sans); font-weight: 500; font-size: clamp(28px, 3.4vw, 40px); line-height: 1.1; letter-spacing: -0.01em; margin-bottom: 18px;">Skills &amp; stack.</h1>
+      <p class="lead" style="max-width: 60ch; margin: 0 auto;">Everything below is something I have shipped with, not watched a tutorial on. Grouped by purpose.</p>
+    </div>
+  </section>
+
+  <div class="section-divider" aria-hidden="true">
+    <span class="section-divider__count">by purpose</span>
+  </div>
+
+  <section style="padding: 32px var(--gutter) var(--section);">
+    <div class="shell shell--narrow">
+      <div class="skill-stack reveal" id="stack"></div>
+    </div>
+  </section>
+</main>
+
+<script src="data.js?v=27"></script>
+<script src="layout.js?v=27"></script>
+<script>
+  document.getElementById('stack').innerHTML = window.PORTFOLIO.skills.map(g => `
+    <div class="skill-block">
+      <div class="skill-block__name serif">${g.group}</div>
+      <div class="skill-block__items">
+        ${g.items.map(it => `<span class="tag">${it}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+</script>
+</body>
+</html>

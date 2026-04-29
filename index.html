@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eshaan Sharma — Algo Trading & Low-Latency Systems</title>
+<meta name="description" content="Freelance algorithmic trading developer. Low-latency Python systems for real-time markets." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=JetBrains+Mono:wght@400;500&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=27">
+</head>
+<body>
+
+<main>
+  <section class="home-hero">
+    <div class="shell shell--narrow">
+      <div class="home-hero__eyebrow"><span class="eyebrow">Available for work · 2026</span></div>
+      <h1 class="display-xl home-hero__name" style="font-family: var(--font-sans); font-weight: 400; font-size: clamp(36px, 5.5vw, 72px); line-height: 1.05; letter-spacing: -0.02em;">
+        <span class="first">Eshaan</span> <span class="last" style="color: var(--ink);">Sharma</span>
+      </h1>
+      <div class="home-hero__role">
+        Algorithmic Trading <span class="dot">·</span> Low-Latency Systems <span class="dot">·</span> Python Backend
+      </div>
+      <p class="lead home-hero__intro" id="intro-line"></p>
+      <div class="home-hero__skills" id="hero-skills"></div>
+    </div>
+    <div class="home-hero__scroll" id="hero-scroll" hidden>
+      <span class="line"></span>
+    </div>
+  </section>
+</main>
+
+<script src="data.js?v=27"></script>
+<script src="layout.js?v=27"></script>
+<script>
+  document.getElementById('intro-line').textContent = window.PORTFOLIO.hero.intro;
+  document.getElementById('hero-skills').innerHTML = window.PORTFOLIO.skillIcons.map(s => `
+    <span class="skill-pill">
+      ${window.skillIcon(s.svg)}
+      <span>${s.name}</span>
+    </span>
+  `).join('');
+</script>
+
+</body>
+</html>
