@@ -1,0 +1,140 @@
+/* ------------------------------------------------------------------
+   One presence, two states of matter.
+   NIGHT — the void: blue-black, lit by cold white light (LED). Accent = brightness.
+   INK   — the fog behind glass: cold mineral grey, blue-black ink. Accent = indigo ink.
+   Shared secret: a violet aether that is almost never consciously seen.
+   ------------------------------------------------------------------ */
+:root {
+  /* Night primitives */
+  --void-950: #040509;
+  --night-900: #07080d;
+  --night-850: #0b0d14;
+  --night-800: #10131c;
+  --night-750: #161a25;
+  --night-700: #1f2432;
+  --light-50: #f4f7ff;
+  --light-100: #eef0f5;
+  --light-300: #c9cfdc;
+  --light-400: #b4bac7;
+  --light-500: #969dad;
+  --light-700: #3d4351;
+
+  /* Ink primitives */
+  --fog-0: #f7f8f9;
+  --fog-50: #eff1f3;
+  --fog-100: #e6e9ec;
+  --fog-200: #d9dde2;
+  --fog-300: #c6ccd3;
+  --ink-950: #0c0e14;
+  --ink-700: #2a2f3a;
+  --ink-600: #323741;
+  --ink-500: #444b57;
+  --ink-300: #979ea9;
+  --indigo-300: #7d82c4;
+  --indigo-500: #3b3f7a;
+  --indigo-600: #2c2f63;
+
+  /* The aether (shared, near-invisible) */
+  --aether-300: #b4a8ff;
+  --aether-500: #6f5cff;
+
+  /* Signal hues */
+  --green-night: #7fd1b0;
+  --red-night: #f0909c;
+  --amber-night: #d9d494;
+  --blue-night: #9ab8ff;
+  --green-ink: #1f6b52;
+  --red-ink: #a3343f;
+  --amber-ink: #6a6214;
+  --blue-ink: #2f4f94;
+}
+
+@property --bg { syntax: "<color>"; inherits: true; initial-value: #07080d; }
+@property --surface-1 { syntax: "<color>"; inherits: true; initial-value: #0b0d14; }
+@property --surface-2 { syntax: "<color>"; inherits: true; initial-value: #10131c; }
+@property --text-1 { syntax: "<color>"; inherits: true; initial-value: #eef0f5; }
+@property --text-2 { syntax: "<color>"; inherits: true; initial-value: #b4bac7; }
+@property --text-3 { syntax: "<color>"; inherits: true; initial-value: #969dad; }
+@property --line { syntax: "<color>"; inherits: true; initial-value: transparent; }
+@property --line-strong { syntax: "<color>"; inherits: true; initial-value: transparent; }
+@property --accent { syntax: "<color>"; inherits: true; initial-value: #f4f7ff; }
+@property --fill-strong { syntax: "<color>"; inherits: true; initial-value: #eef0f5; }
+@property --on-fill-strong { syntax: "<color>"; inherits: true; initial-value: #07080d; }
+
+/* Semantic — Night (default) */
+:root, [data-theme="night"] {
+  color-scheme: dark;
+  --bg: var(--night-900);
+  --bg-sunken: var(--void-950);
+  --surface-1: var(--night-850);
+  --surface-2: var(--night-800);
+  --surface-3: var(--night-750);
+  --line: rgba(206, 218, 255, 0.09);
+  --line-strong: rgba(206, 218, 255, 0.17);
+  --text-1: var(--light-100);
+  --text-2: var(--light-400);
+  --text-3: var(--light-500);
+  --text-4: var(--light-700);
+  --accent: var(--light-50);
+  --accent-strong: #ffffff;
+  --accent-dim: rgba(214, 224, 255, 0.09);
+  --accent-line: rgba(214, 224, 255, 0.34);
+  --on-accent: var(--night-900);
+  --fill-strong: var(--light-100);
+  --on-fill-strong: var(--night-900);
+  --positive: var(--green-night);
+  --negative: var(--red-night);
+  --caution: var(--amber-night);
+  --info: var(--blue-night);
+  --focus: var(--light-50);
+  --selection: rgba(190, 205, 255, 0.24);
+  --scrim: rgba(7, 8, 13, 0.84);
+  --shadow-1: inset 0 1px 0 rgba(255, 255, 255, 0.035); /* @kind shadow */
+  --shadow-2: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 0 0 1px rgba(206, 218, 255, 0.06); /* @kind shadow */
+  --shadow-pop: 0 24px 60px -24px rgba(0, 0, 0, 0.75); /* @kind shadow */
+  --glow: 0 0 0 1px rgba(214, 224, 255, 0.22), 0 0 24px rgba(190, 205, 255, 0.2); /* @kind shadow */
+  --node-glow: 0 0 10px rgba(220, 230, 255, 0.85); /* @kind shadow */
+  --mark-halo: rgba(150, 130, 255, 0.22);
+  --mark-lit: var(--light-50);
+  --sigil-line: rgba(206, 218, 255, 0.32);
+  --sigil-width: 0.8px; /* @kind other */
+}
+
+/* Semantic — Ink */
+[data-theme="ink"] {
+  color-scheme: light;
+  --bg: var(--fog-100);
+  --bg-sunken: var(--fog-200);
+  --surface-1: var(--fog-0);
+  --surface-2: var(--fog-50);
+  --surface-3: #ffffff;
+  --line: rgba(12, 14, 20, 0.10);
+  --line-strong: rgba(12, 14, 20, 0.19);
+  --text-1: var(--ink-950);
+  --text-2: var(--ink-600);
+  --text-3: var(--ink-500);
+  --text-4: var(--ink-300);
+  --accent: var(--indigo-500);
+  --accent-strong: var(--indigo-600);
+  --accent-dim: rgba(59, 63, 122, 0.09);
+  --accent-line: rgba(59, 63, 122, 0.34);
+  --on-accent: var(--fog-0);
+  --fill-strong: var(--ink-950);
+  --on-fill-strong: var(--fog-0);
+  --positive: var(--green-ink);
+  --negative: var(--red-ink);
+  --caution: var(--amber-ink);
+  --info: var(--blue-ink);
+  --focus: var(--indigo-500);
+  --selection: rgba(59, 63, 122, 0.16);
+  --scrim: rgba(230, 233, 236, 0.86);
+  --shadow-1: 0 1px 2px rgba(12, 14, 20, 0.05); /* @kind shadow */
+  --shadow-2: 0 1px 2px rgba(12, 14, 20, 0.06), 0 14px 32px -16px rgba(12, 14, 20, 0.24); /* @kind shadow */
+  --shadow-pop: 0 24px 60px -24px rgba(12, 14, 20, 0.3); /* @kind shadow */
+  --glow: 0 0 0 1px rgba(12, 14, 20, 0.1), 0 10px 26px -12px rgba(12, 14, 20, 0.4); /* @kind shadow */
+  --node-glow: 0 0 0 3px rgba(59, 63, 122, 0.14); /* @kind shadow */
+  --mark-halo: rgba(59, 63, 122, 0.12);
+  --mark-lit: var(--indigo-500);
+  --sigil-line: rgba(12, 14, 20, 0.5);
+  --sigil-width: 1.3px; /* @kind other */
+}

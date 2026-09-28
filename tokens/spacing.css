@@ -1,0 +1,36 @@
+:root {
+  /* 4px base */
+  --space-0: 2px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 32px;
+  --space-8: 40px;
+  --space-9: 48px;
+  --space-10: 64px;
+  --space-11: 80px;
+  --space-12: 96px;
+  --space-13: 128px;
+  --space-14: 160px;
+
+  /* Layout */
+  --page-max: 1240px; /* @kind spacing */
+  --page-margin: clamp(20px, 5vw, 64px); /* @kind spacing */
+  --grid-gap: clamp(16px, 2vw, 24px); /* @kind spacing */
+  --section-gap: clamp(72px, 10vw, 136px); /* @kind spacing */
+  --measure: 66ch; /* @kind spacing */
+  --header-h: 64px; /* @kind spacing */
+
+  /* Radius — soft, never bubbly */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  --border-hair: 1px; /* @kind other */
+  --blur-bar: 14px; /* @kind other */
+}
