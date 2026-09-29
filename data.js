@@ -1,24 +1,21 @@
-// Content for the portfolio UI kit — facts from the source repo (Yokai-2510/website-portfolio data.js), restructured.
+// Content for the portfolio UI kit. Project facts come from the source repo (Yokai-2510/website-portfolio).
+// Anything marked "Placeholder" is waiting for real content.
 window.ES_DATA = {
   identity: {
     name: 'Eshaan Sharma',
-    role: 'Algorithmic trading & low-latency systems',
+    role: 'Algorithmic trading and low-latency systems developer',
     location: 'Gurgaon, India',
+    timezone: 'UTC+05:30',
     email: 'ethanarkham@gmail.com',
     github: 'https://github.com/Yokai-2510',
     linkedin: 'https://linkedin.com/in/eshaansharma2510',
+    discord: { handle: 'Placeholder handle', url: '#' },
+    youtube: { handle: 'Placeholder channel', url: '#' },
+    availability: 'Open to contract and full-time roles',
   },
   hero: {
-    status: 'Available for contract work · 2026',
-    title: 'I build low-latency systems for real-time markets.',
-    lede: 'Freelance algorithmic-trading developer. Event-driven order pipelines, market-data infrastructure, and the deterministic state machines that sit between signal and execution.',
+    summary: 'Algorithmic trading and low-latency systems developer. I build production trading infrastructure: market-data pipelines, signal engines and deterministic order execution.',
   },
-  proof: [
-    { value: '<10', unit: 'ms', label: 'Internal hop latency, end to end', note: 'rank-displacement' },
-    { value: '8', label: 'Independent engines over Redis Streams', note: 'rank-displacement' },
-    { value: '<5', unit: 's', label: 'To flatten every broker position', note: 'kill switch' },
-    { value: '3', unit: 'yrs', label: 'Production trading infrastructure', note: 'since 2023' },
-  ],
   work: [
     { slug: 'rank-displacement', weight: 'lg', title: 'Rank-Displacement Options Trading System', domain: 'Trading', year: '2025', role: 'Architecture, build, live operations', status: 'Live',
       summary: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.',
@@ -53,80 +50,49 @@ window.ES_DATA = {
       points: ['Scheduled NSE delivery ingestion', 'Rolling avg / min / max delivery %', 'Live charts in Google Sheets'],
       stack: ['Python', 'Google Sheets API', 'pandas'], metric: null, metrics: [] },
   ],
-  writing: [
-    { slug: 'single-writer', title: 'Single-writer ownership in Redis', kind: 'architecture', date: '2026.03', reading: '4 min', excerpt: 'If two processes can write to the same key, you’ve already lost. The discipline I use to keep ownership obvious across an eight-engine system.' },
-    { slug: 'redis-streams', title: 'Redis Streams as a transport, not a queue', kind: 'architecture', date: '2026.02', reading: '6 min', excerpt: 'Streams give you fan-out, replay, and consumer groups in one primitive. Stop reaching for Kafka by reflex.' },
-    { slug: 'ten-ms-budget', title: 'Spending a 10ms latency budget', kind: 'post-mortem', date: '2025.11', reading: '8 min', excerpt: 'A line-by-line walk through where the milliseconds actually go between tick and order submit.' },
-    { slug: 'broker-ws', title: 'Stop polling broker portfolios', kind: 'field note', date: '2025.09', reading: '3 min', excerpt: 'If the broker exposes a portfolio WebSocket, the polling loop in your code is just bandwidth waste.' },
-    { slug: 'deterministic-orders', title: 'Why order execution should be a flowchart', kind: 'architecture', date: '2025.07', reading: '5 min', excerpt: 'Replayable, testable, debuggable. A clever algorithm you can’t audit is worse than a boring one you can.' },
-  ],
-  lab: [
-    { title: 'The Field', kind: 'experiment', note: 'The canvas behind this site — one system, two media.', seed: 'field' },
-    { title: 'Ink studies', kind: 'experiment', note: 'Sketches for the Ink medium: diffusion, filaments, logograms.', seed: 'ink-studies' },
-    { title: 'Hobby', kind: 'placeholder', empty: 'Drop an image', note: 'Space for interests outside the work.' },
-    { title: 'Interest', kind: 'placeholder', empty: 'Drop an image', note: 'Reading, making, collecting — whatever belongs here.' },
-  ],
-
-  // Products: the systems people use day to day. User counts are illustrative — replace with real ones.
+  // Products: software I build and maintain; each `slug` opens its case study under work. Add real user counts as users + usersLabel.
   products: [
-    { name: 'Rank-Displacement Options System', tagline: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.', status: 'Live', users: '14', usersLabel: 'trading desks', metric: { value: '50ms', label: 'leaderboard cycle' }, since: '2025', platform: ['Desktop', 'AWS'], seed: 'rank-displacement',
+    { name: 'Rank-Displacement Options System', tagline: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.', status: 'Live', metric: { value: '50ms', label: 'leaderboard cycle' }, since: '2025', platform: ['Desktop', 'AWS'], slug: 'rank-displacement', seed: 'rank-displacement',
       description: 'Eight independent engines coordinating over Redis Streams, a deterministic order-execution flowchart, and a self-healing 24×7 lifecycle.', features: ['Eight engines, one transport', 'Single-writer state', 'Self-healing 24×7', 'Tauri desk app'] },
-    { name: 'Strategy Builder', tagline: 'Build strategies, run them live, and backtest on demand — with bit-for-bit live/backtest parity.', status: 'In use', users: '230+', usersLabel: 'active users', metric: { value: '1:1', label: 'live / backtest parity' }, since: '2024', platform: ['Web', 'API'], seed: 'strategy-builder',
+    { name: 'Strategy Builder', tagline: 'Build strategies, run them live, and backtest on demand — with bit-for-bit live/backtest parity.', status: 'In use', metric: { value: '1:1', label: 'live / backtest parity' }, since: '2024', platform: ['Web', 'API'], slug: 'strategy-builder', seed: 'strategy-builder',
       description: 'A management API, a live trading engine and an on-demand backtester sharing one indicator library, so what you test is what runs.', features: ['Eleven shared indicators', 'Parallel evaluation', 'Mongo + Redis state'] },
-    { name: 'Kill Switch for Kotak Neo', tagline: 'Desktop risk manager that flattens every broker position in under five seconds.', status: 'In use', users: '1,100+', usersLabel: 'installs', metric: { value: '<5s', label: 'to flat' }, since: '2024', platform: ['Desktop'], seed: 'kill-switch',
+    { name: 'Kill Switch for Kotak Neo', tagline: 'Desktop risk manager that flattens every broker position in under five seconds.', status: 'In use', metric: { value: '<5s', label: 'to flat' }, since: '2024', platform: ['Desktop'], slug: 'kill-switch', seed: 'kill-switch',
       description: 'Traders compose click-step sequences for their broker portal without code; Gmail tripwires trigger the flatten. Ships as a single binary.', features: ['No-code sequences', 'Gmail tripwires', 'Single binary'] },
   ],
-  craft: {
-    focus: [
-      { title: 'Market-data ingestion', note: 'WebSocket and Protobuf pipelines that keep only what matters in view.' },
-      { title: 'Signal computation', note: 'Composite scanners and one indicator library shared by live and backtest.' },
-      { title: 'Deterministic order routing', note: 'Order execution as an auditable flowchart: replayable, testable, boring.' },
-      { title: 'Observability', note: 'Prometheus, Grafana and OpenTelemetry on systems that run 24×7.' },
+  writing: [
+    { slug: 'single-writer', interest: 'quant-dev', title: 'Single-writer ownership in Redis', kind: 'architecture', date: '2026.03', reading: '4 min', excerpt: 'If two processes can write to the same key, you’ve already lost. The discipline I use to keep ownership obvious across an eight-engine system.' },
+    { slug: 'redis-streams', interest: 'quant-dev', title: 'Redis Streams as a transport, not a queue', kind: 'architecture', date: '2026.02', reading: '6 min', excerpt: 'Streams give you fan-out, replay, and consumer groups in one primitive. Stop reaching for Kafka by reflex.' },
+    { slug: 'ten-ms-budget', interest: 'quant-dev', title: 'Spending a 10ms latency budget', kind: 'post-mortem', date: '2025.11', reading: '8 min', excerpt: 'A line-by-line walk through where the milliseconds actually go between tick and order submit.' },
+    { slug: 'broker-ws', interest: 'quant-dev', title: 'Stop polling broker portfolios', kind: 'field note', date: '2025.09', reading: '3 min', excerpt: 'If the broker exposes a portfolio WebSocket, the polling loop in your code is just bandwidth waste.' },
+    { slug: 'deterministic-orders', interest: 'quant-dev', title: 'Why order execution should be a flowchart', kind: 'architecture', date: '2025.07', reading: '5 min', excerpt: 'Replayable, testable, debuggable. A clever algorithm you can’t audit is worse than a boring one you can.' },
+  ],
+  about: {
+    intro: [
+      'Freelance algorithmic trading and low-latency software developer with three years of experience building production trading infrastructure for independent operators and small prop desks, covering architecture, deployment and live operations.',
+      'Focus areas: market-data ingestion, signal computation, deterministic order routing and observability. I own systems end to end, from low-level networking to dashboards.',
     ],
-    credentials: [
-      { year: '2022–25', title: 'Bachelor of Computer Applications (BCA)', issuer: 'IGNOU · distance programme, completed while freelancing full-time on production trading systems' },
+    facts: [
+      { label: 'Based in', value: 'Gurgaon, India' },
+      { label: 'Time zone', value: 'UTC+05:30, flexible' },
+      { label: 'Experience', value: '3 years, production trading systems' },
+      { label: 'Open to', value: 'Contract and full-time roles' },
+    ],
+    experience: [
+      { period: '2023 – present', title: 'Freelance algorithmic trading developer', org: 'Independent operators and small prop desks', points: [
+        'Rank-displacement options platform: eight engines over Redis Streams, live 24×7 on AWS EC2 (2025).',
+        'Strategy builder with bit-for-bit live/backtest parity; Kotak Neo kill switch; Nifty 500 signal engine (2024).',
+        'Option-chain WebSocket pipeline with Protobuf decoding; NSE delivery analytics screener (2023).',
+      ] },
+    ],
+    education: [
+      { year: '2022–25', title: 'Bachelor of Computer Applications (BCA)', issuer: 'IGNOU', note: 'Distance programme, completed while freelancing full-time on production trading systems.' },
+    ],
+    certifications: [
       { year: '2024', title: 'Google Cloud Computing Foundations', issuer: 'Google Cloud Skills Boost' },
-      { year: '2024', title: 'Problem Solving (Advanced)', issuer: 'HackerRank · data structures and algorithms' },
+      { year: '2024', title: 'Problem Solving (Advanced)', issuer: 'HackerRank', note: 'Data structures and algorithms.' },
       { year: '2023', title: 'Scientific Computing with Python', issuer: 'freeCodeCamp' },
     ],
-    experiments: [
-      { title: 'The Field', kind: 'experiment', note: 'The canvas behind this site — one system, two media.', seed: 'field' },
-      { title: 'Ink studies', kind: 'experiment', note: 'Smoke and release: two ways for ink to answer.', seed: 'ink-studies' },
-    ],
   },
-  aboutMe: {
-    title: 'Who I am, beyond the systems.',
-    intro: [
-      'Freelance algorithmic trading and low-latency software developer. Three years of experience building production trading infrastructure for independent operators and small prop desks — architecture, deployment, and live operations.',
-      'Comfortable owning systems end to end, from low-level networking to dashboards.',
-      'Outside markets I explore everything — design, UI and UX, films, video games — and I believe it makes the engineering better. I am drawn to dystopias and cyberpunk, to Scandinavian culture, and to the mystique of the cosmos and the edges of what we can know. It shapes how I build: quiet on the surface, a great deal happening underneath.',
-    ],
-    principles: [
-      { title: 'One writer per piece of state.', note: 'If two processes can write the same key, you have already lost. Ownership stays obvious.' },
-      { title: 'Boring and auditable beats clever.', note: 'Replayable, testable, debuggable. I would rather ship a flowchart than a mystery.' },
-      { title: 'Own it end to end.', note: 'Architecture, deployment and live operations — the pager included.' },
-    ],
-    interests: [
-      { title: 'Design, UI & UX', kind: 'exploring', note: 'How things look, feel and behave — it makes the engineering better.', seed: 'design' },
-      { title: 'Films & video games', kind: 'exploring', note: 'Dystopias and cyberpunk: worlds that ask what technology does to people.', seed: 'cyberpunk' },
-      { title: 'The mystique', kind: 'reading', note: 'The cosmos, consciousness, and what we cannot yet measure.', seed: 'mystique' },
-      { title: 'Scandinavian culture', kind: 'interest', note: 'Its myths, its restraint, its landscapes.', seed: 'nordic' },
-      { title: 'Trekking', kind: 'hobby', note: 'Long walks up high, far from a screen.', seed: 'trekking' },
-      { title: 'Cooking', kind: 'hobby', note: 'Another place where process and taste meet.', seed: 'cooking' },
-    ],
-    timeline: [
-      { year: '2023', title: 'First production systems', note: 'Option-chain WebSocket pipeline and an NSE delivery screener.' },
-      { year: '2024', title: 'Platforms and tools', note: 'Strategy builder with live/backtest parity, the Kotak Neo kill switch, the Nifty 500 signal engine.' },
-      { year: '2025', title: 'Rank-displacement system', note: 'Eight engines over Redis Streams, live 24×7.' },
-      { year: '2026', title: 'Writing, and taking new work', note: 'Available for contract and full-time engagements.' },
-    ],
-  },
-  homeAbout: 'Based in Gurgaon, working anywhere. I own systems end to end — from low-level networking to dashboards.',
-  about: [
-    'Freelance algorithmic trading and low-latency software developer. Three years of experience building production trading infrastructure for independent operators and small prop desks — architecture, deployment, and live operations.',
-    'Focus areas: market-data ingestion, signal computation, deterministic order routing, and observability. Comfortable owning systems end-to-end, from low-level networking to dashboards.',
-    'Available for contract and full-time engagements. Time-zone flexible.',
-  ],
   skills: [
     { group: 'Languages', items: ['Python', 'TypeScript', 'SQL', 'Rust (familiar)'] },
     { group: 'Markets', items: ['NSE/BSE equities', 'Options (F&O)', 'Order books', 'Market microstructure'] },
@@ -135,4 +101,32 @@ window.ES_DATA = {
     { group: 'Ops', items: ['AWS EC2', 'systemd', 'Prometheus', 'Grafana', 'OpenTelemetry'] },
     { group: 'Frontend', items: ['React', 'Next.js', 'Tauri'] },
   ],
+  // Personal: an introduction, then one mini page per interest (writing, images, links, optional projects).
+  // Writing entries belong to an interest via `interest`. Add media per interest when you have it:
+  //   images: ['images/game-dev-1.jpg', ...]   links: [{ label: 'itch.io', href: 'https://…', note: 'Jam games' }]
+  personal: {
+    intro: [
+      'Outside markets I explore everything: design, UI and UX, films, video games. I believe it makes the engineering better.',
+      'I am drawn to dystopias and cyberpunk, to Scandinavian culture, and to the mystique of the cosmos and the edges of what we can know. It shapes how I build: quiet on the surface, a great deal happening underneath.',
+    ],
+    interests: [
+      { id: 'quant-dev', title: 'Quant dev', note: 'Research and tooling outside client work: market structure, backtesting, latency.' },
+      { id: 'game-dev', title: 'Game dev', note: 'Placeholder. What you build, with which engine, and why.' },
+      { id: 'design', title: 'Design, UI and UX', note: 'How things look, feel and behave. It makes the engineering better.',
+        projects: [
+          { title: 'The Field', kind: 'experiment', note: 'The canvas behind this site: one system, two media.', seed: 'field' },
+          { title: 'Ink studies', kind: 'experiment', note: 'Smoke and release: two ways for ink to answer.', seed: 'ink-studies' },
+        ] },
+      { id: 'media', title: 'Media', note: 'Dystopian and cyberpunk worlds across video games, films, anime and fiction: stories that ask what technology does to people.' },
+      { id: 'elder-scrolls', title: 'The Elder Scrolls', note: 'The fantasy world of Tamriel: its lore, histories, factions and unreliable narrators.' },
+      { id: 'music', title: 'Music', note: 'Placeholder. What you listen to, play or make.' },
+    ],
+  },
 };
+
+// Placeholder until real writing exists: one note per interest that has none.
+(function (D) {
+  D.personal.interests.forEach((x) => {
+    if (!D.writing.some((n) => n.interest === x.id)) D.writing.push({ slug: x.id + '-note', interest: x.id, placeholder: true, title: 'Placeholder note on ' + x.title.toLowerCase(), kind: 'note', date: '2026.—', reading: '— min', excerpt: 'Placeholder. Replace with a real piece of writing.' });
+  });
+})(window.ES_DATA);

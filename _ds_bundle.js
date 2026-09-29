@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"EshaanSharmaDesignSystem_4751b7","components":[{"name":"Field","sourcePath":"components/brand/Field.jsx"},{"name":"Lockup","sourcePath":"components/brand/Lockup.jsx"},{"name":"Mark","sourcePath":"components/brand/Mark.jsx"},{"name":"Sigil","sourcePath":"components/brand/Sigil.jsx"},{"name":"ThemeSwitch","sourcePath":"components/brand/ThemeSwitch.jsx"},{"name":"MARK","sourcePath":"components/brand/fieldEngine.js"},{"name":"INK_STYLES","sourcePath":"components/brand/fieldEngine.js"},{"name":"EntryRow","sourcePath":"components/content/EntryRow.jsx"},{"name":"LabTile","sourcePath":"components/content/LabTile.jsx"},{"name":"Metric","sourcePath":"components/content/Metric.jsx"},{"name":"SectionHeader","sourcePath":"components/content/SectionHeader.jsx"},{"name":"WorkCard","sourcePath":"components/content/WorkCard.jsx"},{"name":"Button","sourcePath":"components/core/Button.jsx"},{"name":"Chip","sourcePath":"components/core/Chip.jsx"},{"name":"IconButton","sourcePath":"components/core/IconButton.jsx"},{"name":"SegmentedControl","sourcePath":"components/core/SegmentedControl.jsx"},{"name":"Tag","sourcePath":"components/core/Tag.jsx"},{"name":"TextField","sourcePath":"components/forms/TextField.jsx"},{"name":"ICON_NAMES","sourcePath":"components/icons/Icon.jsx"},{"name":"Icon","sourcePath":"components/icons/Icon.jsx"},{"name":"Footer","sourcePath":"components/navigation/Footer.jsx"},{"name":"NAV","sourcePath":"components/navigation/TopBar.jsx"},{"name":"TopBar","sourcePath":"components/navigation/TopBar.jsx"},{"name":"ProductCard","sourcePath":"components/showcase/ProductCard.jsx"},{"name":"ProjectRow","sourcePath":"components/showcase/ProjectRow.jsx"}],"sourceHashes":{"components/brand/Field.jsx":"f900aaa75c22","components/brand/Lockup.jsx":"e9ff8f228fa0","components/brand/Mark.jsx":"db1e91564d4b","components/brand/Sigil.jsx":"1a8f79be03cc","components/brand/ThemeSwitch.jsx":"0580e35e3d33","components/brand/fieldEngine.js":"61b7e0f1dd22","components/brand/fieldFluid.js":"0e2c94fbad98","components/content/EntryRow.jsx":"4b28eb9d55c5","components/content/LabTile.jsx":"a389b17281f6","components/content/Metric.jsx":"5d6259b9e29a","components/content/SectionHeader.jsx":"2df2b1d06792","components/content/WorkCard.jsx":"3820a863006f","components/core/Button.jsx":"5bf51220d5b5","components/core/Chip.jsx":"a750e417387e","components/core/IconButton.jsx":"b185302aeb96","components/core/SegmentedControl.jsx":"d7650404c392","components/core/Tag.jsx":"c40fc0fd1763","components/forms/TextField.jsx":"528d6a5f46de","components/icons/Icon.jsx":"654723adecd8","components/navigation/Footer.jsx":"7a3a22257fde","components/navigation/TopBar.jsx":"f95ad23a44cf","components/showcase/ProductCard.jsx":"1952f4b8ff8f","components/showcase/ProjectRow.jsx":"10d4f07691ac","source/layout.js":"a72303896a76","ui_kits/portfolio/About.jsx":"107a4b276600","ui_kits/portfolio/Home.jsx":"2beccc192545","ui_kits/portfolio/Products.jsx":"b08f04f9d5eb","ui_kits/portfolio/Work.jsx":"71a6e2c3d4ea","ui_kits/portfolio/Writing.jsx":"2bbaa385a032","ui_kits/portfolio/data.js":"8df3c8140b57","ui_kits/portfolio/tweaks-panel.jsx":"d259e3a86f73"},"inlinedExternals":[],"unexposedExports":[{"name":"createField","sourcePath":"components/brand/fieldEngine.js"},{"name":"makeFluid","sourcePath":"components/brand/fieldFluid.js"},{"name":"requestTheme","sourcePath":"components/brand/ThemeSwitch.jsx"},{"name":"useTheme","sourcePath":"components/brand/ThemeSwitch.jsx"}]} */
+/* @ds-bundle: {"format":4,"namespace":"EshaanSharmaDesignSystem_4751b7","components":[{"name":"Field","sourcePath":"components/brand/Field.jsx"},{"name":"Lockup","sourcePath":"components/brand/Lockup.jsx"},{"name":"Mark","sourcePath":"components/brand/Mark.jsx"},{"name":"Sigil","sourcePath":"components/brand/Sigil.jsx"},{"name":"ThemeSwitch","sourcePath":"components/brand/ThemeSwitch.jsx"},{"name":"MARK","sourcePath":"components/brand/fieldEngine.js"},{"name":"INK_STYLES","sourcePath":"components/brand/fieldEngine.js"},{"name":"EntryRow","sourcePath":"components/content/EntryRow.jsx"},{"name":"LabTile","sourcePath":"components/content/LabTile.jsx"},{"name":"Metric","sourcePath":"components/content/Metric.jsx"},{"name":"SectionHeader","sourcePath":"components/content/SectionHeader.jsx"},{"name":"WorkCard","sourcePath":"components/content/WorkCard.jsx"},{"name":"Button","sourcePath":"components/core/Button.jsx"},{"name":"Chip","sourcePath":"components/core/Chip.jsx"},{"name":"IconButton","sourcePath":"components/core/IconButton.jsx"},{"name":"SegmentedControl","sourcePath":"components/core/SegmentedControl.jsx"},{"name":"Tag","sourcePath":"components/core/Tag.jsx"},{"name":"TextField","sourcePath":"components/forms/TextField.jsx"},{"name":"ICON_NAMES","sourcePath":"components/icons/Icon.jsx"},{"name":"Icon","sourcePath":"components/icons/Icon.jsx"},{"name":"Footer","sourcePath":"components/navigation/Footer.jsx"},{"name":"NAV","sourcePath":"components/navigation/TopBar.jsx"},{"name":"TopBar","sourcePath":"components/navigation/TopBar.jsx"},{"name":"ProductCard","sourcePath":"components/showcase/ProductCard.jsx"},{"name":"ProjectRow","sourcePath":"components/showcase/ProjectRow.jsx"}],"sourceHashes":{"components/brand/Field.jsx":"cf085cf9d526","components/brand/Lockup.jsx":"e9ff8f228fa0","components/brand/Mark.jsx":"33340d851434","components/brand/Sigil.jsx":"1a8f79be03cc","components/brand/ThemeSwitch.jsx":"744b482ddba5","components/brand/fieldEngine.js":"3868eead2680","components/brand/fieldFluid.js":"0e2c94fbad98","components/content/EntryRow.jsx":"4b28eb9d55c5","components/content/LabTile.jsx":"a389b17281f6","components/content/Metric.jsx":"5d6259b9e29a","components/content/SectionHeader.jsx":"fdac6609a1c5","components/content/WorkCard.jsx":"3820a863006f","components/core/Button.jsx":"5bf51220d5b5","components/core/Chip.jsx":"a750e417387e","components/core/IconButton.jsx":"b185302aeb96","components/core/SegmentedControl.jsx":"d7650404c392","components/core/Tag.jsx":"c40fc0fd1763","components/forms/TextField.jsx":"528d6a5f46de","components/icons/Icon.jsx":"03943c9727cb","components/navigation/Footer.jsx":"6ea58e29fedf","components/navigation/TopBar.jsx":"bfcafc3472e7","components/showcase/ProductCard.jsx":"9fd156cb198e","components/showcase/ProjectRow.jsx":"10d4f07691ac","deploy/data.js":"b8e03d38c04c","deploy/image-slot.js":"fff26d081c8d","deploy/screens/about.jsx":"2202b94b6608","deploy/screens/contact.jsx":"11bf6bba7bf2","deploy/screens/home.jsx":"2ac1bf6a523f","deploy/screens/personal.jsx":"c0de4d81ab3b","deploy/screens/work.jsx":"aced44ec8113","deploy/tweaks-panel.jsx":"d259e3a86f73","source/layout.js":"a72303896a76","ui_kits/portfolio/About.jsx":"d385a88a3416","ui_kits/portfolio/Contact.jsx":"3701b2d7da80","ui_kits/portfolio/Home.jsx":"2ac1bf6a523f","ui_kits/portfolio/Personal.jsx":"c0de4d81ab3b","ui_kits/portfolio/Work.jsx":"aced44ec8113","ui_kits/portfolio/data.js":"3e6848b725c2","ui_kits/portfolio/image-slot.js":"fff26d081c8d","ui_kits/portfolio/tweaks-panel.jsx":"d259e3a86f73"},"inlinedExternals":[],"unexposedExports":[{"name":"createField","sourcePath":"components/brand/fieldEngine.js"},{"name":"makeFluid","sourcePath":"components/brand/fieldFluid.js"},{"name":"replayMark","sourcePath":"components/brand/Mark.jsx"},{"name":"requestTheme","sourcePath":"components/brand/ThemeSwitch.jsx"},{"name":"useTheme","sourcePath":"components/brand/ThemeSwitch.jsx"}]} */
 
 (() => {
 
@@ -133,7 +133,7 @@ const {
   useRef,
   useState
 } = React;
-const read = () => document.documentElement.dataset.theme === 'ink' ? 'ink' : 'night';
+const read = () => document.documentElement.dataset.theme === 'ink' ? 'ink' : 'aether';
 
 // Request a change of state. A mounted page Field performs the transformation and swaps
 // html[data-theme] at the midpoint (when the light crosses); otherwise the swap is direct.
@@ -168,7 +168,7 @@ function useTheme() {
   return [theme, set];
 }
 
-// Night: a point of light held in a thin orbit. Ink: the orbit is written — an open ring of ink, the light gone.
+// Aether: a point of light held in a thin orbit. Ink: the orbit is written — an open ring of ink, the light gone.
 function ThemeSwitch({
   showLabel = false
 }) {
@@ -176,14 +176,14 @@ function ThemeSwitch({
   const [target, setTarget] = useState(theme);
   const ref = useRef(null);
   useEffect(() => setTarget(theme), [theme]);
-  const next = target === 'ink' ? 'night' : 'ink';
+  const next = target === 'ink' ? 'aether' : 'ink';
   return /*#__PURE__*/React.createElement("button", {
     ref: ref,
     type: "button",
     className: 'theme-switch' + (showLabel ? '' : ' theme-switch--icon') + (target === 'ink' ? ' is-ink' : ''),
-    "aria-label": `Switch to ${next === 'ink' ? 'Ink (light)' : 'Night (dark)'} theme`,
+    "aria-label": `Switch to ${next === 'ink' ? 'Ink (light)' : 'Aether (dark)'} theme`,
     "aria-pressed": target === 'ink',
-    title: next === 'ink' ? 'Ink' : 'Night',
+    title: next === 'ink' ? 'Ink' : 'Aether',
     onClick: () => {
       setTarget(next);
       requestTheme(next, ref.current);
@@ -212,9 +212,14 @@ function ThemeSwitch({
     cx: "10",
     cy: "10",
     r: "1.9"
+  }), /*#__PURE__*/React.createElement("circle", {
+    className: "ts-moon",
+    cx: "10",
+    cy: "3",
+    r: "0.9"
   })), showLabel && /*#__PURE__*/React.createElement("span", {
     className: "theme-switch__label"
-  }, target === 'ink' ? 'Ink' : 'Night'));
+  }, target === 'ink' ? 'Ink' : 'Aether'));
 }
 Object.assign(__ds_scope, { requestTheme, useTheme, ThemeSwitch });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/brand/ThemeSwitch.jsx", error: String((e && e.message) || e) }); }
@@ -598,7 +603,7 @@ Object.assign(__ds_scope, { makeFluid });
 // components/brand/fieldEngine.js
 try { (() => {
 // The Field — one presence, two states of matter.
-// Night: the original constellation, lit like white LEDs over a near-invisible violet aether.
+// Aether: the original constellation, lit like white LEDs over a near-invisible violet nebula.
 // Ink:   cold fog behind glass; the same points hang as ink specks. They are the focus points. Two behaviours:
 //          smoke    — a real fluid: the specks near you stream smoke toward the cursor and it turns around you.
 //          release  — like an octopus: move toward a speck and it jets ink along your trail, in pulses; it rolls and billows.
@@ -762,7 +767,7 @@ function createField(canvas, opts = {}) {
     time = Math.random() * 100,
     fn = 0;
   let pts = [];
-  let theme = opts.theme === 'ink' ? 'ink' : 'night';
+  let theme = opts.theme === 'ink' ? 'ink' : 'aether';
   let style = INK_STYLES.includes(opts.inkStyle) ? opts.inkStyle : 'smoke';
   let L = theme === 'ink' ? 1 : 0,
     drift = theme === 'ink' ? INK_DRIFT : 1,
@@ -1108,7 +1113,7 @@ function createField(canvas, opts = {}) {
     }
   }
 
-  // Night, hovering work: the stars around its edges twinkle, very slightly. That is all.
+  // Aether, hovering work: the stars around its edges twinkle, very slightly. That is all.
   function glintNear() {
     const on = hov.s > 0.01 && hov.el && hov.el.isConnected && L < 0.6,
       R = on ? local(hov.el.getBoundingClientRect()) : null;
@@ -1228,7 +1233,7 @@ function createField(canvas, opts = {}) {
       if (sp > 3) ink.armed = true;
     } else if (!overContent) {
       if (!ink.still) ink.still = now;
-      if (now - ink.still > 1150 && ink.armed && now - ink.lastBloom > 5000) {
+      if (now - ink.still > 1150 && ink.armed && now - ink.lastBloom > 9000) {
         smokeBloom(cx, cy, 1, now);
         ink.lastBloom = now;
         ink.armed = false;
@@ -1270,7 +1275,7 @@ function createField(canvas, opts = {}) {
         uy = ey / el;
       const vel = (0.7 + 1.1 * pr) * (0.8 + 0.2 * move),
         beat = 0.5 + 0.5 * Math.sin(time * 4.3 + p.s * 1.7 + p.thr * 40);
-      const dye = 0.95 * Math.pow(pr, 1.3) * (0.35 + 0.65 * p.charge) * move * (0.45 + 0.55 * beat) * k;
+      const dye = 0.68 * Math.pow(pr, 1.3) * (0.35 + 0.65 * p.charge) * move * (0.45 + 0.55 * beat) * k;
       fluid.splat(p.dx + ux * 3, p.dy + uy * 3, ux * vel, uy * vel, dye, 3.5 + p.r * 1.5, 0.28);
       p.charge = Math.max(0, p.charge - dye * 0.02);
     }
@@ -1556,7 +1561,7 @@ function createField(canvas, opts = {}) {
       ink.armed = true;
     } else if (!fluid.blocked(cx, cy)) {
       if (!ink.still) ink.still = now;
-      if (now - ink.still > 1200 && ink.armed && now - ink.lastBloom > 6000) {
+      if (now - ink.still > 1200 && ink.armed && now - ink.lastBloom > 10000) {
         smokeBloom(cx, cy, 1, now);
         ink.lastBloom = now;
         ink.armed = false;
@@ -1576,7 +1581,7 @@ function createField(canvas, opts = {}) {
         d = Math.hypot(dx, dy);
       if (d > TRIG || fluid.blocked(p.dx, p.dy)) continue;
       const toward = (dx * mvx + dy * mvy) / (d * ml + 1e-3);
-      if (Math.random() < Math.pow(1 - d / TRIG, 1.6) * 0.1 * dt * (1 + 0.9 * Math.max(0, toward))) {
+      if (Math.random() < Math.pow(1 - d / TRIG, 1.6) * 0.07 * dt * (1 + 0.9 * Math.max(0, toward))) {
         emit(p, now);
         if (++live >= MAX_FOLLOW) break;
       }
@@ -1624,9 +1629,9 @@ function createField(canvas, opts = {}) {
     hx.drawImage(inkC, 0, 0, inkH.width, inkH.height);
     ctx.imageSmoothingEnabled = true;
     ctx.imageSmoothingQuality = 'high';
-    ctx.globalAlpha = 0.22 * vis;
+    ctx.globalAlpha = 0.15 * vis;
     ctx.drawImage(inkH, -cs, -cs, w, h);
-    ctx.globalAlpha = vis;
+    ctx.globalAlpha = 0.72 * vis;
     ctx.drawImage(inkC, -cs, -cs, w, h);
     ctx.globalAlpha = 1;
   }
@@ -1638,7 +1643,7 @@ function createField(canvas, opts = {}) {
     fluid.reset();
   }
 
-  // ---------- The aether, the glass ----------
+  // ---------- The nebula, the glass ----------
   function paintPlasma() {
     const w = pl.width,
       h = pl.height,
@@ -1753,7 +1758,7 @@ function createField(canvas, opts = {}) {
     for (const p of pts) p.side = L > p.thr ? 1 : 0;
     ink.px = -1e4;
     ink.still = 0;
-    if (to === 'night') clearInk();
+    if (to === 'aether') clearInk();
   }
   function begin(to, dur) {
     tr = {
@@ -1874,7 +1879,7 @@ function createField(canvas, opts = {}) {
         ring: 30,
         orbit: 0.8 * ink.dir
       } : null;
-      fluid.step(Math.min(dt, 2), Math.pow(tr && tr.to === 'night' ? 0.93 : style === 'release' ? 0.9965 : 0.9925, dt), Math.pow(0.985, dt), style === 'release' ? 0.5 : 0.32, time, att);
+      fluid.step(Math.min(dt, 2), Math.pow(tr && tr.to === 'aether' ? 0.93 : style === 'release' ? 0.9965 : 0.9925, dt), Math.pow(0.985, dt), style === 'release' ? 0.5 : 0.32, time, att);
     }
     if (fn % 2 === 0 || tr) paintPlasma();
     render(dt, k, gz, now);
@@ -1985,7 +1990,7 @@ function createField(canvas, opts = {}) {
       clearInk();
     },
     setTheme(to, o = {}) {
-      to = to === 'ink' ? 'ink' : 'night';
+      to = to === 'ink' ? 'ink' : 'aether';
       if (tr) {
         tr.next = to === tr.to ? null : to;
         return;
@@ -2054,7 +2059,7 @@ function Field({
       contained,
       demo,
       inkStyle: inkStyle || root.dataset.ink || 'smoke',
-      theme: theme || root.dataset.theme || 'night',
+      theme: theme || root.dataset.theme || 'aether',
       onSwap: to => {
         if (!owns) return;
         root.dataset.theme = to;
@@ -2077,7 +2082,7 @@ function Field({
       window.__esField = (window.__esField || 0) + 1;
       window.addEventListener('field:theme', onReq);
     } else if (theme == null) {
-      mo = new MutationObserver(() => e.setTheme(root.dataset.theme || 'night'));
+      mo = new MutationObserver(() => e.setTheme(root.dataset.theme || 'aether'));
       mo.observe(root, {
         attributes: true,
         attributeFilter: ['data-theme']
@@ -2158,10 +2163,59 @@ function useMedium(medium) {
   return t;
 }
 
+// Replay is one page-wide signal: every live mark folds away and redraws itself. TopBar sends it on each page change.
+const REPLAY = 'mark:replay';
+function replayMark() {
+  if (typeof window !== 'undefined') window.dispatchEvent(new CustomEvent(REPLAY));
+}
+
+// Idle: after 45–90s without pointer, key, wheel, scroll or touch input the mark redraws, then again after a new
+// random gap, until input resumes. One watcher per page, shared by every mounted mark.
+let idleUsers = 0,
+  idleStop = null;
+function watchIdle() {
+  if (typeof window === 'undefined') return () => {};
+  if (idleUsers++ === 0) {
+    let timer = 0,
+      last = 0;
+    const arm = () => {
+      clearTimeout(timer);
+      timer = setTimeout(fire, 45000 + Math.random() * 45000);
+    };
+    const fire = () => {
+      if (!document.hidden) replayMark();
+      arm();
+    };
+    const act = () => {
+      const n = Date.now();
+      if (n - last > 400) {
+        last = n;
+        arm();
+      }
+    };
+    const evs = ['pointermove', 'pointerdown', 'keydown', 'wheel', 'scroll', 'touchstart'];
+    evs.forEach(e => addEventListener(e, act, {
+      passive: true
+    }));
+    arm();
+    idleStop = () => {
+      clearTimeout(timer);
+      evs.forEach(e => removeEventListener(e, act));
+    };
+  }
+  return () => {
+    if (--idleUsers === 0 && idleStop) {
+      idleStop();
+      idleStop = null;
+    }
+  };
+}
+
 // The mark: a symmetric figure of seven limbs on 360/7 spacing, one faint pair of antennae,
 // and a single lit limb — the only thing that breaks the symmetry.
 // Alive: it emerges on mount (core, then the limbs in symmetric pairs, the light last), breathes at rest,
-// sends a slow pulse down the lit limb every few seconds, and reaches out a little when you hover it.
+// sends a slow pulse down the lit limb every few seconds, reaches out a little when you hover it,
+// and redraws on replay (page changes, long idle).
 function Mark({
   size = 28,
   medium,
@@ -2169,6 +2223,7 @@ function Mark({
   weight,
   title = 'Eshaan Sharma',
   animate = true,
+  replay = true,
   className,
   style
 }) {
@@ -2177,6 +2232,27 @@ function Mark({
   const id = useId().replace(/[^a-zA-Z0-9]/g, '');
   const [still] = useState(() => typeof matchMedia !== 'undefined' && matchMedia('(prefers-reduced-motion: reduce)').matches);
   const live = animate && !still;
+  const [run, setRun] = useState(0);
+  const [out, setOut] = useState(false);
+  useEffect(() => {
+    if (!live || !replay) return;
+    let tm = 0;
+    const on = () => {
+      clearTimeout(tm);
+      setOut(true);
+      tm = setTimeout(() => {
+        setOut(false);
+        setRun(r => r + 1);
+      }, 240);
+    };
+    addEventListener(REPLAY, on);
+    const stop = watchIdle();
+    return () => {
+      removeEventListener(REPLAY, on);
+      clearTimeout(tm);
+      stop();
+    };
+  }, [live, replay]);
   const sw = (weight || (size < 40 ? 1.5 : size < 96 ? 1.1 : 0.8)) * (1 + 0.35 * t);
   const [cx, cy] = __ds_scope.MARK.core;
   const tip = r => [cx + Math.cos(r.a) * r.len, cy + Math.sin(r.a) * r.len];
@@ -2187,7 +2263,7 @@ function Mark({
     viewBox: "0 0 48 48",
     width: size,
     height: size,
-    className: 'mark' + (live ? ' mark--live' : '') + (className ? ' ' + className : ''),
+    className: 'mark' + (live ? ' mark--live' : '') + (out ? ' mark--out' : '') + (className ? ' ' + className : ''),
     style: style,
     role: "img",
     "aria-label": title || undefined,
@@ -2217,6 +2293,9 @@ function Mark({
   }))), /*#__PURE__*/React.createElement("g", {
     strokeLinecap: "round",
     filter: organic ? `url(#ik${id})` : undefined
+  }, /*#__PURE__*/React.createElement("g", {
+    key: run,
+    className: "mark__body"
   }, /*#__PURE__*/React.createElement("g", {
     className: "mark__limbs"
   }, __ds_scope.MARK.faint.map((r, i) => {
@@ -2291,7 +2370,7 @@ function Mark({
     cy: cy,
     r: 2.5 + 0.5 * t,
     fill: "var(--mark-lit)"
-  }), live && size >= 20 && /*#__PURE__*/React.createElement("circle", {
+  })), live && size >= 20 && /*#__PURE__*/React.createElement("circle", {
     r: sw * 0.95,
     fill: "var(--mark-lit)",
     opacity: "0"
@@ -2312,7 +2391,7 @@ function Mark({
     keyTimes: "0;0.8;0.84;0.9;1"
   }))));
 }
-Object.assign(__ds_scope, { Mark });
+Object.assign(__ds_scope, { replayMark, Mark });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/brand/Mark.jsx", error: String((e && e.message) || e) }); }
 
 // components/brand/Lockup.jsx
@@ -2461,17 +2540,17 @@ Object.assign(__ds_scope, { Metric });
 
 // components/content/SectionHeader.jsx
 try { (() => {
+// Names the section plainly. No numbered eyebrow, no rule: space above it does the separating.
 function SectionHeader({
-  index,
   title,
   description,
-  action
+  action,
+  id
 }) {
   return /*#__PURE__*/React.createElement("header", {
-    className: "section-head"
-  }, index && /*#__PURE__*/React.createElement("div", {
-    className: "section-head__index"
-  }, index), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h2", {
+    className: "section-head",
+    id: id
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h2", {
     className: "section-head__title"
   }, title), description && /*#__PURE__*/React.createElement("p", {
     className: "section-head__desc"
@@ -2711,7 +2790,9 @@ const P = {
   layers: '<path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65"/><path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"/>',
   'book-open': '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>',
   send: '<path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/>',
-  globe: '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>'
+  globe: '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>',
+  message: '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>',
+  youtube: '<path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17"/><path d="m10 15 5-3-5-3z"/>'
 };
 const ICON_NAMES = Object.keys(P);
 function Icon({
@@ -2817,15 +2898,17 @@ const {
   useEffect,
   useState
 } = React;
+// Closing band: name, role and email; the page index; outside links; local time.
 function Footer({
   onNavigate,
+  name = 'Eshaan Sharma',
+  role = 'Algorithmic trading and low-latency systems',
   email = 'ethanarkham@gmail.com',
   github = 'https://github.com/Yokai-2510',
   linkedin = 'https://linkedin.com/in/eshaansharma2510',
   location = 'Gurgaon, India',
   timeZone = 'Asia/Kolkata',
-  line = 'Available for contract and full-time engagements. Time-zone flexible.',
-  index = ['Work', 'Products', 'Writing', 'Craft', 'About', 'Contact']
+  index = ['Home', 'Work', 'About', 'Personal', 'Connect']
 }) {
   const [now, setNow] = useState(() => new Date());
   useEffect(() => {
@@ -2851,14 +2934,16 @@ function Footer({
     className: "footer__grid"
   }, /*#__PURE__*/React.createElement("div", {
     className: "footer__lead"
-  }, /*#__PURE__*/React.createElement("p", null, line), /*#__PURE__*/React.createElement(__ds_scope.Button, {
-    variant: "primary",
-    iconTrail: "arrow-right",
-    href: onNavigate ? '#' : 'mailto:' + email,
-    onClick: onNavigate ? nav('Contact') : undefined
-  }, "Start a conversation")), /*#__PURE__*/React.createElement("div", {
+  }, /*#__PURE__*/React.createElement("p", {
+    className: "footer__name"
+  }, name), /*#__PURE__*/React.createElement("p", {
+    className: "footer__role"
+  }, role), /*#__PURE__*/React.createElement("a", {
+    className: "footer__email",
+    href: 'mailto:' + email
+  }, email)), /*#__PURE__*/React.createElement("div", {
     className: "footer__col"
-  }, /*#__PURE__*/React.createElement("h4", null, "Index"), index.map(p => /*#__PURE__*/React.createElement("a", {
+  }, /*#__PURE__*/React.createElement("h4", null, "Pages"), index.map(p => /*#__PURE__*/React.createElement("a", {
     key: p,
     href: "#",
     onClick: nav(p)
@@ -2876,13 +2961,9 @@ function Footer({
     rel: "noreferrer"
   }, "LinkedIn ", /*#__PURE__*/React.createElement(__ds_scope.Icon, {
     name: "arrow-up-right"
-  })), /*#__PURE__*/React.createElement("a", {
-    href: 'mailto:' + email
-  }, "Email ", /*#__PURE__*/React.createElement(__ds_scope.Icon, {
-    name: "arrow-up-right"
   })))), /*#__PURE__*/React.createElement("div", {
     className: "footer__base"
-  }, /*#__PURE__*/React.createElement("span", null, "\xA9 ", now.getFullYear(), " Eshaan Sharma"), /*#__PURE__*/React.createElement("span", null, location, " \xB7 ", time, " IST"))));
+  }, /*#__PURE__*/React.createElement("span", null, "\xA9 ", now.getFullYear(), " ", name), /*#__PURE__*/React.createElement("span", null, location, " \xB7 ", time, " IST"))));
 }
 Object.assign(__ds_scope, { Footer });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/navigation/Footer.jsx", error: String((e && e.message) || e) }); }
@@ -2895,15 +2976,16 @@ const {
   useRef,
   useState
 } = React;
-const NAV = ['Work', 'Products', 'Writing', 'Craft', 'About'];
+const NAV = ['Work', 'About', 'Personal'];
 
-// The current page is marked by a short bar of light (Night) or ink (Ink) — never a dot: dots belong to the Field.
-// Hover another item and the bar reaches a little toward it.
+// The current page is marked by a short bar of light (Aether) or ink (Ink) — never a dot: dots belong to the Field.
+// Hover another item and the bar reaches a little toward it. The mark redraws whenever `route` (default: active) changes.
 function TopBar({
   items = NAV,
   active,
+  route,
   onNavigate,
-  cta = 'Contact',
+  cta = 'Connect',
   onCta,
   fixed = true,
   scrolled: forced
@@ -2914,6 +2996,14 @@ function TopBar({
   const [cx, setCx] = useState({});
   const [ready, setReady] = useState(false);
   const nav = useRef(null);
+  const page = route ?? active,
+    seen = useRef(page);
+  useEffect(() => {
+    if (seen.current !== page) {
+      seen.current = page;
+      __ds_scope.replayMark();
+    }
+  }, [page]);
   useEffect(() => {
     if (!fixed) return;
     const f = () => setScrolled(window.scrollY > 12);
@@ -2998,14 +3088,14 @@ function TopBar({
     "aria-hidden": "true"
   })), /*#__PURE__*/React.createElement("div", {
     className: "topbar__actions"
-  }, /*#__PURE__*/React.createElement(__ds_scope.ThemeSwitch, null), cta && /*#__PURE__*/React.createElement("span", {
+  }, cta && /*#__PURE__*/React.createElement("span", {
     className: "topbar__cta"
   }, /*#__PURE__*/React.createElement(__ds_scope.Button, {
     size: "sm",
     variant: "secondary",
     className: active === cta ? 'is-current' : undefined,
     onClick: () => onCta ? onCta() : go(cta)
-  }, cta)), /*#__PURE__*/React.createElement("span", {
+  }, cta)), /*#__PURE__*/React.createElement(__ds_scope.ThemeSwitch, null), /*#__PURE__*/React.createElement("span", {
     className: "topbar__menu"
   }, /*#__PURE__*/React.createElement(__ds_scope.IconButton, {
     icon: "menu",
@@ -3036,7 +3126,7 @@ function TopBar({
       e.preventDefault();
       go(it);
     }
-  }, /*#__PURE__*/React.createElement("span", null, String(i).padStart(2, '0')), it)))));
+  }, it)))));
 }
 Object.assign(__ds_scope, { NAV, TopBar });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/navigation/TopBar.jsx", error: String((e && e.message) || e) }); }
@@ -3112,11 +3202,11 @@ function ProductCard({
   }, /*#__PURE__*/React.createElement("b", null, proof.value), /*#__PURE__*/React.createElement("span", null, proof.label)), /*#__PURE__*/React.createElement(__ds_scope.Button, {
     size: "sm",
     variant: "secondary",
-    iconTrail: "arrow-up-right",
+    iconTrail: href ? 'arrow-up-right' : 'arrow-right',
     href: href,
     target: href ? '_blank' : undefined,
     onClick: href ? undefined : onOpen
-  }, "Visit")), /*#__PURE__*/React.createElement("span", {
+  }, href ? 'Visit' : 'Case study')), /*#__PURE__*/React.createElement("span", {
     className: "node",
     "data-node-dot": true,
     "aria-hidden": "true"
@@ -3240,6 +3330,2924 @@ function ProjectRow({
 }
 Object.assign(__ds_scope, { ProjectRow });
 })(); } catch (e) { __ds_ns.__errors.push({ path: "components/showcase/ProjectRow.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/data.js
+try { (() => {
+// Content for the portfolio UI kit. Project facts come from the source repo (Yokai-2510/website-portfolio).
+// Anything marked "Placeholder" is waiting for real content.
+window.ES_DATA = {
+  identity: {
+    name: 'Eshaan Sharma',
+    role: 'Algorithmic trading and low-latency systems developer',
+    location: 'Gurgaon, India',
+    timezone: 'UTC+05:30',
+    email: 'ethanarkham@gmail.com',
+    github: 'https://github.com/Yokai-2510',
+    linkedin: 'https://linkedin.com/in/eshaansharma2510',
+    discord: {
+      handle: 'Placeholder handle',
+      url: '#'
+    },
+    availability: 'Open to contract and full-time roles'
+  },
+  hero: {
+    summary: 'Algorithmic trading and low-latency systems developer. I build production trading infrastructure: market-data pipelines, signal engines and deterministic order execution.'
+  },
+  work: [{
+    slug: 'rank-displacement',
+    weight: 'lg',
+    title: 'Rank-Displacement Options Trading System',
+    domain: 'Trading',
+    year: '2025',
+    role: 'Architecture, build, live operations',
+    status: 'Live',
+    summary: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.',
+    body: 'Multi-process, event-driven architecture with eight independent engines coordinating exclusively over Redis Streams. Single source of truth for state, a deterministic order-execution flowchart, and a full 24×7 lifecycle with self-healing.',
+    points: ['Eight engines, one transport: Redis Streams for fan-out, replay and consumer groups', 'Single-writer ownership of every key — state has exactly one author', 'Order execution modelled as an auditable flowchart, not an algorithm', 'Self-healing 24×7 lifecycle on AWS EC2 under systemd'],
+    stack: ['Python 3.12', 'FastAPI', 'Redis Streams', 'PostgreSQL', 'TimescaleDB', 'Tauri', 'React', 'AWS EC2'],
+    metric: {
+      value: '50ms',
+      label: 'leaderboard cycle'
+    },
+    metrics: [{
+      value: '50',
+      unit: 'ms',
+      label: 'Leaderboard cycle'
+    }, {
+      value: '8',
+      label: 'Engines'
+    }, {
+      value: '<10',
+      unit: 'ms',
+      label: 'Internal hop latency'
+    }]
+  }, {
+    slug: 'strategy-builder',
+    weight: 'lg',
+    title: 'Strategy Builder & Live Execution Platform',
+    domain: 'Trading',
+    year: '2024',
+    role: 'Architecture, build',
+    status: 'Delivered',
+    summary: 'Management API, live engine and on-demand backtester — with bit-for-bit live/backtest parity.',
+    body: 'Multi-process Python platform supporting parallel strategy evaluation across stocks and options sets. Hybrid storage: Mongo as source of truth for definitions and history, Redis as the high-speed state machine. Eleven indicators shared between live and backtest.',
+    points: ['Three domains: management API, live trading engine, backtester', 'Mongo for definitions and history; Redis as the hot state machine', 'One indicator library shared by live and backtest — no drift'],
+    stack: ['Python', 'FastAPI', 'Next.js', 'Redis', 'MongoDB Atlas', 'Multiprocessing'],
+    metric: {
+      value: '11',
+      label: 'shared indicators'
+    },
+    metrics: [{
+      value: '3',
+      label: 'Domains'
+    }, {
+      value: '11',
+      label: 'Shared indicators'
+    }, {
+      value: '1:1',
+      label: 'Live / backtest parity'
+    }]
+  }, {
+    slug: 'option-chain',
+    weight: 'md',
+    title: 'Option Chain WebSocket Pipeline',
+    domain: 'Engineering',
+    year: '2023',
+    role: 'Build',
+    status: 'Delivered',
+    summary: 'Reactive WebSocket pipeline with Protobuf decoding and dynamic strike subscription from live spot.',
+    body: 'Live option-chain ingestion that subscribes and unsubscribes dynamically to hold ATM±N strikes, decoded via Protobuf and surfaced to Google Sheets in real time.',
+    points: ['Dynamic subscribe/unsubscribe keeps ATM±N strikes in view', 'Protobuf decoding on the hot path', 'Real-time surface in Google Sheets'],
+    stack: ['Python', 'Protobuf', 'WebSockets', 'Google Sheets API'],
+    metric: {
+      value: 'ATM±N',
+      label: 'live strikes'
+    },
+    metrics: []
+  }, {
+    slug: 'kill-switch',
+    weight: 'md',
+    title: 'Kotak Neo Automated Kill Switch',
+    domain: 'Tools',
+    year: '2024',
+    role: 'Build',
+    status: 'Delivered',
+    summary: 'Desktop risk manager that auto-flattens broker positions in under five seconds.',
+    body: 'Single-binary desktop tool where traders compose click-step sequences for their broker portal without touching code. Listens to Gmail for tripwires, then drives the portal via Playwright to flatten everything.',
+    points: ['Traders compose portal click-sequences without code', 'Gmail tripwires trigger the flatten', 'Ships as a single PyInstaller binary'],
+    stack: ['Python', 'CustomTkinter', 'Playwright', 'Gmail API', 'PyInstaller', 'SQLite'],
+    metric: {
+      value: '<5s',
+      label: 'to flat'
+    },
+    metrics: []
+  }, {
+    slug: 'signal-engine',
+    weight: 'sm',
+    title: 'Nifty 500 / F&O Signal Engine',
+    domain: 'Trading',
+    year: '2024',
+    role: 'Build',
+    status: 'Delivered',
+    summary: 'Ten-point composite technical scanner across the Nifty 500 and F&O universe, with delivery-percentage logic.',
+    body: 'Composite scoring across moving averages, momentum, volume and Bhavcopy delivery percentage. Nightly ingestion pipeline; a morning surface for actionable signals.',
+    points: ['Ten-point composite score', 'Nightly Bhavcopy ingestion', 'Morning surface of actionable signals'],
+    stack: ['Python', 'CustomTkinter', 'pandas-ta'],
+    metric: {
+      value: '10',
+      label: 'point composite'
+    },
+    metrics: []
+  }, {
+    slug: 'delivery-screener',
+    weight: 'sm',
+    title: 'NSE Delivery Analytics Screener',
+    domain: 'Tools',
+    year: '2023',
+    role: 'Build',
+    status: 'Delivered',
+    summary: 'Fetches NSE delivery data on a schedule and surfaces rolling delivery statistics with live charts.',
+    body: 'Pulls NSE delivery data on a schedule, computes rolling average, min and max delivery percentages, and pushes a live screener with charts to Google Sheets.',
+    points: ['Scheduled NSE delivery ingestion', 'Rolling avg / min / max delivery %', 'Live charts in Google Sheets'],
+    stack: ['Python', 'Google Sheets API', 'pandas'],
+    metric: null,
+    metrics: []
+  }],
+  // Products: software I build and maintain; each `slug` opens its case study under work. Add real user counts as users + usersLabel.
+  products: [{
+    name: 'Rank-Displacement Options System',
+    tagline: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.',
+    status: 'Live',
+    metric: {
+      value: '50ms',
+      label: 'leaderboard cycle'
+    },
+    since: '2025',
+    platform: ['Desktop', 'AWS'],
+    slug: 'rank-displacement',
+    seed: 'rank-displacement',
+    description: 'Eight independent engines coordinating over Redis Streams, a deterministic order-execution flowchart, and a self-healing 24×7 lifecycle.',
+    features: ['Eight engines, one transport', 'Single-writer state', 'Self-healing 24×7', 'Tauri desk app']
+  }, {
+    name: 'Strategy Builder',
+    tagline: 'Build strategies, run them live, and backtest on demand — with bit-for-bit live/backtest parity.',
+    status: 'In use',
+    metric: {
+      value: '1:1',
+      label: 'live / backtest parity'
+    },
+    since: '2024',
+    platform: ['Web', 'API'],
+    slug: 'strategy-builder',
+    seed: 'strategy-builder',
+    description: 'A management API, a live trading engine and an on-demand backtester sharing one indicator library, so what you test is what runs.',
+    features: ['Eleven shared indicators', 'Parallel evaluation', 'Mongo + Redis state']
+  }, {
+    name: 'Kill Switch for Kotak Neo',
+    tagline: 'Desktop risk manager that flattens every broker position in under five seconds.',
+    status: 'In use',
+    metric: {
+      value: '<5s',
+      label: 'to flat'
+    },
+    since: '2024',
+    platform: ['Desktop'],
+    slug: 'kill-switch',
+    seed: 'kill-switch',
+    description: 'Traders compose click-step sequences for their broker portal without code; Gmail tripwires trigger the flatten. Ships as a single binary.',
+    features: ['No-code sequences', 'Gmail tripwires', 'Single binary']
+  }],
+  writing: [{
+    slug: 'single-writer',
+    interest: 'quant-dev',
+    title: 'Single-writer ownership in Redis',
+    kind: 'architecture',
+    date: '2026.03',
+    reading: '4 min',
+    excerpt: 'If two processes can write to the same key, you’ve already lost. The discipline I use to keep ownership obvious across an eight-engine system.'
+  }, {
+    slug: 'redis-streams',
+    interest: 'quant-dev',
+    title: 'Redis Streams as a transport, not a queue',
+    kind: 'architecture',
+    date: '2026.02',
+    reading: '6 min',
+    excerpt: 'Streams give you fan-out, replay, and consumer groups in one primitive. Stop reaching for Kafka by reflex.'
+  }, {
+    slug: 'ten-ms-budget',
+    interest: 'quant-dev',
+    title: 'Spending a 10ms latency budget',
+    kind: 'post-mortem',
+    date: '2025.11',
+    reading: '8 min',
+    excerpt: 'A line-by-line walk through where the milliseconds actually go between tick and order submit.'
+  }, {
+    slug: 'broker-ws',
+    interest: 'quant-dev',
+    title: 'Stop polling broker portfolios',
+    kind: 'field note',
+    date: '2025.09',
+    reading: '3 min',
+    excerpt: 'If the broker exposes a portfolio WebSocket, the polling loop in your code is just bandwidth waste.'
+  }, {
+    slug: 'deterministic-orders',
+    interest: 'quant-dev',
+    title: 'Why order execution should be a flowchart',
+    kind: 'architecture',
+    date: '2025.07',
+    reading: '5 min',
+    excerpt: 'Replayable, testable, debuggable. A clever algorithm you can’t audit is worse than a boring one you can.'
+  }],
+  about: {
+    intro: ['Freelance algorithmic trading and low-latency software developer with three years of experience building production trading infrastructure for independent operators and small prop desks, covering architecture, deployment and live operations.', 'Focus areas: market-data ingestion, signal computation, deterministic order routing and observability. I own systems end to end, from low-level networking to dashboards.'],
+    facts: [{
+      label: 'Based in',
+      value: 'Gurgaon, India'
+    }, {
+      label: 'Time zone',
+      value: 'UTC+05:30, flexible'
+    }, {
+      label: 'Experience',
+      value: '3 years, production trading systems'
+    }, {
+      label: 'Open to',
+      value: 'Contract and full-time roles'
+    }],
+    experience: [{
+      period: '2023 – present',
+      title: 'Freelance algorithmic trading developer',
+      org: 'Independent operators and small prop desks',
+      points: ['Rank-displacement options platform: eight engines over Redis Streams, live 24×7 on AWS EC2 (2025).', 'Strategy builder with bit-for-bit live/backtest parity; Kotak Neo kill switch; Nifty 500 signal engine (2024).', 'Option-chain WebSocket pipeline with Protobuf decoding; NSE delivery analytics screener (2023).']
+    }],
+    education: [{
+      year: '2022–25',
+      title: 'Bachelor of Computer Applications (BCA)',
+      issuer: 'IGNOU',
+      note: 'Distance programme, completed while freelancing full-time on production trading systems.'
+    }],
+    certifications: [{
+      year: '2024',
+      title: 'Google Cloud Computing Foundations',
+      issuer: 'Google Cloud Skills Boost'
+    }, {
+      year: '2024',
+      title: 'Problem Solving (Advanced)',
+      issuer: 'HackerRank',
+      note: 'Data structures and algorithms.'
+    }, {
+      year: '2023',
+      title: 'Scientific Computing with Python',
+      issuer: 'freeCodeCamp'
+    }]
+  },
+  skills: [{
+    group: 'Languages',
+    items: ['Python', 'TypeScript', 'SQL', 'Rust (familiar)']
+  }, {
+    group: 'Markets',
+    items: ['NSE/BSE equities', 'Options (F&O)', 'Order books', 'Market microstructure']
+  }, {
+    group: 'Backend',
+    items: ['FastAPI', 'asyncio', 'uvloop', 'WebSockets', 'Protobuf']
+  }, {
+    group: 'Data',
+    items: ['Redis Streams', 'PostgreSQL', 'TimescaleDB', 'MongoDB']
+  }, {
+    group: 'Ops',
+    items: ['AWS EC2', 'systemd', 'Prometheus', 'Grafana', 'OpenTelemetry']
+  }, {
+    group: 'Frontend',
+    items: ['React', 'Next.js', 'Tauri']
+  }],
+  // Personal: an introduction, then one mini page per interest (writing, images, links, optional projects).
+  // Writing entries belong to an interest via `interest`. Add media per interest when you have it:
+  //   images: ['images/game-dev-1.jpg', ...]   links: [{ label: 'itch.io', href: 'https://…', note: 'Jam games' }]
+  personal: {
+    intro: ['Outside markets I explore everything: design, UI and UX, films, video games. I believe it makes the engineering better.', 'I am drawn to dystopias and cyberpunk, to Scandinavian culture, and to the mystique of the cosmos and the edges of what we can know. It shapes how I build: quiet on the surface, a great deal happening underneath.'],
+    interests: [{
+      id: 'quant-dev',
+      title: 'Quant dev',
+      note: 'Research and tooling outside client work: market structure, backtesting, latency.'
+    }, {
+      id: 'game-dev',
+      title: 'Game dev',
+      note: 'Placeholder. What you build, with which engine, and why.'
+    }, {
+      id: 'design',
+      title: 'Design, UI and UX',
+      note: 'How things look, feel and behave. It makes the engineering better.',
+      projects: [{
+        title: 'The Field',
+        kind: 'experiment',
+        note: 'The canvas behind this site: one system, two media.',
+        seed: 'field'
+      }, {
+        title: 'Ink studies',
+        kind: 'experiment',
+        note: 'Smoke and release: two ways for ink to answer.',
+        seed: 'ink-studies'
+      }]
+    }, {
+      id: 'media',
+      title: 'Media',
+      note: 'Dystopian and cyberpunk worlds across video games, films, anime and fiction: stories that ask what technology does to people.'
+    }, {
+      id: 'cosmos',
+      title: 'The cosmos',
+      note: 'Deep space, consciousness, and the edges of what we can know.'
+    }, {
+      id: 'music',
+      title: 'Music',
+      note: 'Placeholder. What you listen to, play or make.'
+    }]
+  }
+};
+
+// Placeholder until real writing exists: one note per interest that has none.
+(function (D) {
+  D.personal.interests.forEach(x => {
+    if (!D.writing.some(n => n.interest === x.id)) D.writing.push({
+      slug: x.id + '-note',
+      interest: x.id,
+      placeholder: true,
+      title: 'Placeholder note on ' + x.title.toLowerCase(),
+      kind: 'note',
+      date: '2026.—',
+      reading: '— min',
+      excerpt: 'Placeholder. Replace with a real piece of writing.'
+    });
+  });
+})(window.ES_DATA);
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/data.js", error: String((e && e.message) || e) }); }
+
+// deploy/image-slot.js
+try { (() => {
+// @ds-adherence-ignore -- omelette starter scaffold (raw elements/hex/px by design)
+// Copied omelette starter. Re-running copy_starter_component with this kind overwrites this file with the latest version (page content is unaffected).
+/* BEGIN USAGE */
+/**
+ * <image-slot> — user-fillable image placeholder.
+ *
+ * Drop this into a deck, mockup, or page wherever a design needs an image.
+ * You control the slot's shape; it sizes to its container by default. When the search_stock_photos tool
+ * is available, prefill the slot by default — write the photo's URL into
+ * src (with credit/credit-href); the user can still fill or replace it
+ * by dragging an image file onto it (or clicking to browse). The dropped
+ * image persists across reloads via a .image-slots.state.json sidecar —
+ * same read-via-fetch / write-via-window.omelette pattern as
+ * design_canvas.jsx, so the filled slot shows on share links, downloaded
+ * zips, and PPTX export. Outside the omelette runtime the slot is read-only.
+ *
+ * The sidecar is a SIBLING of the HTML file that uses this component: the
+ * read is a document-relative fetch, and the host resolves the bridge's
+ * sidecar writes into the previewed file's directory to match (same
+ * contract as design_canvas.jsx). Pages in the same directory share one
+ * sidecar; keep slot ids distinct across them.
+ *
+ * Attributes:
+ *   id           Persistence key. REQUIRED for the drop to survive reload —
+ *                every slot on the page needs a distinct id.
+ *   shape        'rect' | 'rounded' | 'circle' | 'pill'   (default 'rounded')
+ *                'circle' applies 50% border-radius; on a non-square slot
+ *                that's an ellipse — set equal width and height for a true
+ *                circle.
+ *   radius       Corner radius in px for 'rounded'.       (default 12)
+ *   mask         Any CSS clip-path value. Overrides `shape` — use this for
+ *                hexagons, blobs, arbitrary polygons.
+ *   fit          Initial framing baseline: cover | contain.   (default 'cover')
+ *                cover starts the image filling the frame (overflow cropped);
+ *                contain starts it fully visible (letterboxed). Either way the
+ *                user can always pan/scale from there — double-click, or the
+ *                Edit control, enters reframe mode (drag to move, scroll or
+ *                corner-handles to scale; Escape / click-out commits). The
+ *                crop persists alongside the image in the sidecar.
+ *   placeholder  Empty-state caption.                      (default 'Drop an image')
+ *   src          Optional initial/fallback image URL. Prefill it with a real
+ *                photo via search_stock_photos when that tool is available
+ *                (set credit/credit-href from the result). A user drop
+ *                overrides it; clearing the drop reveals src again.
+ *   credit       Attribution text shown as a small overlay at the
+ *                bottom-left of the filled slot. REQUIRED whenever src
+ *                points at any Unsplash host (images.unsplash.com,
+ *                plus.unsplash.com, …): an Unsplash src with no credit
+ *                renders an error tile INSTEAD of the photo (Unsplash
+ *                terms forbid showing their photos unattributed). Use the
+ *                exact form 'Photo by {photographer name} on Unsplash' —
+ *                the overlay then links the name to credit-href and
+ *                'Unsplash' to the Unsplash homepage, and links back to
+ *                unsplash.com automatically get the required utm referral
+ *                params appended at render time. The credit belongs to
+ *                the src image, so it only shows while src is what's
+ *                displayed — a user-dropped image hides it.
+ *   credit-href  Link for the photographer's name in the credit overlay
+ *                (their Unsplash profile URL from the stock-photo search
+ *                results). http(s) URLs only — anything else renders the
+ *                name as plain text.
+ *
+ * Sizing: the slot fills its container by default (width/height 100%).
+ * Put it in a sized wrapper — absolutely positioned, a grid cell, a fixed
+ * frame — and it takes exactly that box. When the parent's height is
+ * indefinite (ordinary flow), it falls back to full width at a 3:2 aspect
+ * ratio instead of collapsing. In a shrink-to-fit parent (a float,
+ * width:max-content, an unsized absolute wrapper), percentages have
+ * nothing to resolve against — size the slot or its wrapper explicitly
+ * there. For a fixed-size slot, set
+ * width/height on the element itself (inline style), which overrides the
+ * default. When
+ * layering content above a slot (full-bleed layouts), make the overlay
+ * click-through — pointer-events: none on scrims/text plates, re-enabled
+ * on interactive children — so the slot's hover controls stay reachable.
+ * Keep the slot's bottom-left corner visually clear as well: the credit
+ * overlay renders there, and a dark fade or text plate covering it hides
+ * the attribution Unsplash's terms require — end the fade above that
+ * corner, or keep it nearly transparent where the credit sits.
+ *
+ * Usage:
+ *   <div style="position:relative;width:100%;height:100%">      <!-- full-bleed: -->
+ *     <image-slot id="bg" shape="rect"></image-slot>            <!-- fills the wrapper -->
+ *   </div>
+ *   <image-slot id="hero"   style="width:800px;height:450px" shape="rounded" radius="20"
+ *               placeholder="Drop a hero image"></image-slot>
+ *   <image-slot id="avatar" style="width:120px;height:120px" shape="circle"></image-slot>
+ *   <image-slot id="kite"   style="width:300px;height:300px"
+ *               mask="polygon(50% 0, 100% 50%, 50% 100%, 0 50%)"></image-slot>
+ */
+/* END USAGE */
+
+(() => {
+  const STATE_FILE = '.image-slots.state.json';
+
+  // Unsplash terms require visible attribution wherever their photos
+  // display, and every link back to unsplash.com must carry utm referral
+  // params. Two render-time rules enforce that here:
+  //  - an Unsplash-src slot with NO credit attribute renders an error
+  //    tile INSTEAD of the photo (an uncredited Unsplash photo on screen
+  //    is itself the terms violation, so it never renders bare);
+  //  - rendered credit links pointing at unsplash.com get the referral
+  //    params appended when absent (credit-href values live in page
+  //    content that can't be edited after the fact).
+  // Keep the utm_source value in sync with UTM_SOURCE in
+  // platform/web-agent/unsplash.ts — this file is a project-local
+  // artifact and cannot import it (equality is pinned by tests).
+  const UNSPLASH_HOMEPAGE_HREF = 'https://unsplash.com/?utm_source=claude_design&utm_medium=referral';
+  // Host rule mirrors the hotlink validator that admits Unsplash srcs into
+  // pages in the first place (cdn$ in unsplash.ts: apex or any subdomain)
+  // — Unsplash+ results serve from plus.unsplash.com, not just images.*,
+  // and an admitted-but-uncredited photo must error whatever unsplash
+  // host it rides on.
+  // Trailing-dot FQDNs (images.unsplash.com.) are the same host to the
+  // browser but would miss the regex — strip one dot so the check fails
+  // CLOSED (unrecognized-but-real Unsplash srcs must error, not render).
+  const isUnsplashHost = u => {
+    try {
+      return /(^|\.)unsplash\.com$/.test(new URL(u, document.baseURI).hostname.replace(/\.$/, ''));
+    } catch {
+      return false;
+    }
+  };
+  // Render-time referral normalization for links back to Unsplash:
+  // appends utm_source/utm_medium when absent, preserves every existing
+  // query param, never overwrites an existing utm_source, and passes
+  // non-Unsplash URLs through untouched. Input is an ABSOLUTE validated
+  // http(s) URL (the credit render funnel resolves + validates first).
+  const withReferral = href => {
+    try {
+      const u = new URL(href);
+      if (!/(^|\.)unsplash\.com$/.test(u.hostname.replace(/\.$/, ''))) {
+        return href;
+      }
+      if (!u.searchParams.has('utm_source')) {
+        u.searchParams.set('utm_source', 'claude_design');
+      }
+      if (!u.searchParams.has('utm_medium')) {
+        u.searchParams.set('utm_medium', 'referral');
+      }
+      return u.toString();
+    } catch (e) {
+      return href;
+    }
+  };
+  // 2× a ~600px slot in a 1920-wide deck — retina-sharp without making the
+  // sidecar enormous. A 1200px WebP at q=0.85 is ~150-300KB.
+  const MAX_DIM = 1200;
+  // Raster formats only. SVG is excluded (can carry script; createImageBitmap
+  // on SVG blobs is inconsistent). GIF is excluded because the canvas
+  // re-encode keeps only the first frame, so an animated GIF would silently
+  // go still — better to reject than surprise.
+  const ACCEPT = ['image/png', 'image/jpeg', 'image/webp', 'image/avif'];
+
+  // ── Shared sidecar store ────────────────────────────────────────────────
+  // One fetch + immediate write-on-change for every <image-slot> on the
+  // page. Reads via fetch() so viewing works anywhere the HTML and sidecar
+  // are served together; writes go through window.omelette.writeFile, which
+  // the host allowlists to *.state.json basenames only.
+  const subs = new Set();
+  let slots = {};
+  // ids explicitly cleared before the sidecar fetch resolved — otherwise
+  // the merge below can't tell "never set" from "just deleted" and would
+  // resurrect the sidecar's stale value.
+  const tombstones = new Set();
+  let loaded = false;
+  let loadP = null;
+  function load() {
+    if (loadP) return loadP;
+    loadP = fetch(STATE_FILE).then(r => r.ok ? r.json() : null).then(j => {
+      // Merge: sidecar loses to any in-memory change that raced ahead of
+      // the fetch (drop or clear) so neither is clobbered by hydration.
+      if (j && typeof j === 'object') {
+        const merged = Object.assign({}, j, slots);
+        // A framing-only write that raced ahead of hydration must not
+        // drop a user image that's only on disk — inherit u from the
+        // sidecar for any in-memory entry that lacks one.
+        for (const k in slots) {
+          if (merged[k] && !merged[k].u && j[k]) {
+            merged[k].u = typeof j[k] === 'string' ? j[k] : j[k].u;
+          }
+        }
+        for (const id of tombstones) delete merged[id];
+        slots = merged;
+      }
+      tombstones.clear();
+    }).catch(() => {}).then(() => {
+      loaded = true;
+      subs.forEach(fn => fn());
+    });
+    return loadP;
+  }
+
+  // Serialize writes so two near-simultaneous drops on different slots
+  // can't reorder at the backend and leave the sidecar with only the
+  // first. A save requested mid-flight just marks dirty and re-fires on
+  // completion with the then-current slots.
+  let saving = false;
+  let saveDirty = false;
+  // Unload-time flush: save()'s serialization defers a mid-RTT re-fire to a
+  // .then that never runs in an unloading document, silently dropping a
+  // pagehide commit. Post the current slots immediately instead — content
+  // is a superset snapshot of any in-flight save's, the write is a
+  // whole-file last-writer-wins replace, and postMessage FIFO delivers it
+  // to the host after the in-flight one, so a backend-side reorder at
+  // worst reproduces the dropped-commit outcome this flush improves on.
+  // Guarded on the initial sidecar read: pre-hydration slots can miss
+  // other slots' persisted entries, and flushing it would clobber them —
+  // that narrow case stays best-effort (the in-memory merge in load()
+  // cannot happen in an unloading document anyway).
+  function flushNow() {
+    if (!loaded) return;
+    const w = window.omelette && window.omelette.writeFile;
+    if (!w) return;
+    try {
+      Promise.resolve(w(STATE_FILE, JSON.stringify(slots))).catch(() => {});
+    } catch (e) {}
+  }
+  function save() {
+    if (saving) {
+      saveDirty = true;
+      return;
+    }
+    const w = window.omelette && window.omelette.writeFile;
+    if (!w) return;
+    saving = true;
+    Promise.resolve(w(STATE_FILE, JSON.stringify(slots))).catch(() => {}).then(() => {
+      saving = false;
+      if (saveDirty) {
+        saveDirty = false;
+        save();
+      }
+    });
+  }
+  const S_MAX = 5;
+  const clampS = s => Math.max(1, Math.min(S_MAX, s));
+
+  // Normalize a stored slot value. Pre-reframe sidecars stored a bare
+  // data-URL string; newer ones store {u, s, x, y}. Either shape is valid.
+  function getSlot(id) {
+    const v = slots[id];
+    if (!v) return null;
+    return typeof v === 'string' ? {
+      u: v,
+      s: 1,
+      x: 0,
+      y: 0
+    } : v;
+  }
+  function setSlot(id, val) {
+    if (!id) return;
+    if (val) {
+      slots[id] = val;
+      tombstones.delete(id);
+    } else {
+      delete slots[id];
+      if (!loaded) tombstones.add(id);
+    }
+    subs.forEach(fn => fn());
+    // A drop is rare + high-value — write immediately so nav-away can't lose
+    // it. Gate on the initial read so we don't overwrite a sidecar we haven't
+    // merged yet; the merge in load() keeps this change once the read lands.
+    if (loaded) save();else load().then(save);
+  }
+
+  // ── Image downscale ─────────────────────────────────────────────────────
+  // Encode through a canvas so the sidecar carries resized bytes, not the
+  // raw upload. Longest side is capped at 2× the slot's rendered width
+  // (retina) and at MAX_DIM. WebP keeps alpha and is ~10× smaller than PNG
+  // for photos, so there's no need for per-image format picking.
+  async function toDataUrl(file, targetW) {
+    const bitmap = await createImageBitmap(file);
+    try {
+      const cap = Math.min(MAX_DIM, Math.max(1, Math.round(targetW * 2)) || MAX_DIM);
+      const scale = Math.min(1, cap / Math.max(bitmap.width, bitmap.height));
+      const w = Math.max(1, Math.round(bitmap.width * scale));
+      const h = Math.max(1, Math.round(bitmap.height * scale));
+      const canvas = document.createElement('canvas');
+      canvas.width = w;
+      canvas.height = h;
+      canvas.getContext('2d').drawImage(bitmap, 0, 0, w, h);
+      return canvas.toDataURL('image/webp', 0.85);
+    } finally {
+      bitmap.close && bitmap.close();
+    }
+  }
+
+  // ── Custom element ──────────────────────────────────────────────────────
+  const stylesheet =
+  // Fill the container by default: slots are usually placed inside a
+  // sized wrapper (a hero frame, a grid cell, an inset:0 layer) and are
+  // expected to take that box — a fixed intrinsic size would render as
+  // a small tile in the corner of a full-bleed wrapper instead.
+  // aspect-ratio is the companion fallback that keeps a bare slot
+  // visible when the parent's height is indefinite: height:100%
+  // resolves to auto there, and the ratio then derives height from
+  // width instead of letting the slot collapse to zero height.
+  // Explicit width/height on the element override all of this.
+  // color:inherit (not a fixed near-black): the placeholder chrome —
+  // empty-state icon/caption (currentColor) and the dashed ring — must
+  // read on dark decks too, and the slide's own text color is the one
+  // color guaranteed to contrast with the slide background. The soft
+  // look comes from opacity on those parts, not from a baked-in alpha.
+  ':host{display:block;position:relative;' + '  font:13px/1.3 system-ui,-apple-system,sans-serif;' + '  width:100%;height:100%;aspect-ratio:3/2}' + '.empty .cap,.empty .sub{opacity:.75}' + '.frame{position:absolute;inset:0;overflow:hidden;background:rgba(127,127,127,.08)}' +
+  // .frame img (clipped) and .spill (unclipped ghost + handles) share the
+  // same left/top/width/height in frame-%, computed by _applyView(), so the
+  // inside-mask crop and the outside-mask spill stay pixel-aligned.
+  '.frame img{position:absolute;max-width:none;transform:translate(-50%,-50%);' + '  -webkit-user-drag:none;user-select:none;touch-action:none}' +
+  // Reframe mode (double-click): the full image spills past the mask. The
+  // spill layer is sized to the IMAGE bounds so its corners are where the
+  // resize handles belong. The ghost <img> inside is translucent; the real
+  // clipped <img> underneath shows the opaque in-mask crop.
+  // popover=manual promotes the spill to the top layer on reframe, so it is
+  // not clipped by any overflow:hidden / clip-path / scroll-container
+  // ancestor (a plain z-index can't escape overflow clipping). UA popover
+  // defaults (inset:0;margin:auto) are reset; _applyView sets viewport px.
+  '.spill{position:fixed;margin:0;inset:auto;border:0;padding:0;background:transparent;' + '  overflow:visible;transform:translate(-50%,-50%);z-index:1;cursor:grab;touch-action:none}' + ':host([data-panning]) .spill{cursor:grabbing}' + '.spill .ghost{position:absolute;inset:0;width:100%;height:100%;opacity:.35;' + '  pointer-events:none;-webkit-user-drag:none;user-select:none;' + '  box-shadow:0 0 0 1px rgba(0,0,0,.2),0 12px 32px rgba(0,0,0,.2)}' + '.spill .handle{position:absolute;width:12px;height:12px;border-radius:50%;' + '  background:#fff;box-shadow:0 0 0 1.5px #c96442,0 1px 3px rgba(0,0,0,.3);' + '  transform:translate(-50%,-50%)}' + '.spill .handle[data-c=nw]{left:0;top:0;cursor:nwse-resize}' + '.spill .handle[data-c=ne]{left:100%;top:0;cursor:nesw-resize}' + '.spill .handle[data-c=sw]{left:0;top:100%;cursor:nesw-resize}' + '.spill .handle[data-c=se]{left:100%;top:100%;cursor:nwse-resize}' + ':host([data-reframe]){z-index:10}' + ':host([data-reframe]) .frame{box-shadow:0 0 0 2px #c96442}' + '.empty{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;' + '  justify-content:center;gap:6px;text-align:center;padding:12px;box-sizing:border-box;' + '  cursor:pointer;user-select:none}' + '.empty svg{opacity:.45}' + '.empty .cap{max-width:90%;font-weight:500;letter-spacing:.01em}' + '.empty .sub{font-size:11px}' + '.empty .sub u{text-underline-offset:2px}' + '.empty:hover .sub{opacity:1}' + ':host([data-over]) .frame{outline:2px solid #c96442;outline-offset:-2px;' + '  background:rgba(201,100,66,.10)}' + '.ring{position:absolute;inset:0;pointer-events:none;border:1.5px dashed currentColor;' + '  opacity:.35;transition:border-color .12s,opacity .12s}' + ':host([data-over]) .ring{border-color:#c96442;opacity:1}' + ':host([data-filled]) .ring{display:none}' +
+  // Controls overlay INSIDE the frame, pinned to the top-right corner, so
+  // a full-bleed slot in an overflow:hidden container still shows them
+  // (the old below-mask placement got clipped). Credit sits bottom-left,
+  // so top-right avoids collision. The blurred pill background keeps them
+  // legible over the image.
+  // The UA [popover] base rule styles the element in EVERY state (only
+  // display:none is gated on :not(:popover-open), and the display:flex
+  // below overrides that) — so the UA resets live HERE, like .spill's,
+  // or the ordinary hover-state strip renders as a bordered Canvas box
+  // centered by margin:auto. inset:auto precedes top/right (shorthand).
+  '.ctl{position:absolute;inset:auto;top:8px;right:8px;margin:0;border:0;padding:0;' + '  background:transparent;overflow:visible;' + '  display:flex;gap:6px;opacity:0;pointer-events:none;transition:opacity .12s;z-index:2;' + '  white-space:nowrap}' +
+  // While reframing, the spill owns the top layer and would swallow every
+  // click on the in-frame controls. Promoting .ctl into the top layer
+  // ABOVE the spill (shown after it — later popovers stack higher) keeps
+  // Edit-as-toggle and Replace clickable mid-reframe. _applyView pins it
+  // to the frame's top-right in viewport px (translateX(-100%)
+  // right-aligns against the computed left edge); inset:auto clears the
+  // base rule's top/right so the inline left/top position it alone.
+  '.ctl:popover-open{position:fixed;inset:auto;transform:translateX(-100%)}' + ':host([data-filled][data-editable]:hover) .ctl,:host([data-reframe]) .ctl' + '  {opacity:1;pointer-events:auto}' + '.ctl button{appearance:none;border:0;border-radius:6px;padding:5px 10px;cursor:pointer;' + '  background:rgba(0,0,0,.65);color:#fff;font:11px/1 system-ui,-apple-system,sans-serif;' + '  backdrop-filter:blur(6px)}' + '.ctl button:hover{background:rgba(0,0,0,.8)}' + '.err{position:absolute;left:8px;bottom:8px;right:8px;color:#b3261e;font-size:11px;' + '  background:rgba(255,255,255,.85);padding:4px 6px;border-radius:5px;pointer-events:none}' +
+  // Replacement in flight: after a src swap the browser keeps painting
+  // the PREVIOUS image until the new one decodes, so a Replace would
+  // flash the old photo and then pop. Hide the stale frame (visibility,
+  // not display — _applyView geometry still applies) and spin until the
+  // new image reports in (load/error clears data-swapping).
+  ':host([data-swapping]) .frame img{visibility:hidden}' + '.loading{position:absolute;inset:0;display:none;align-items:center;' + '  justify-content:center;pointer-events:none}' + ':host([data-swapping]) .loading{display:flex}' + '.loading::after{content:"";width:22px;height:22px;border-radius:50%;' + '  border:2px solid rgba(127,127,127,.25);border-top-color:currentColor;' + '  animation:om-slot-spin .7s linear infinite}' + '@keyframes om-slot-spin{to{transform:rotate(360deg)}}' +
+  // Reduced motion: the static two-tone ring still reads as "working".
+  '@media (prefers-reduced-motion:reduce){.loading::after{animation:none}}' + '.credit{position:absolute;left:6px;bottom:6px;max-width:calc(100% - 12px);display:none;' + '  padding:3px 7px;border-radius:5px;background:rgba(0,0,0,.55);color:#fff;' + '  font:10px/1.2 system-ui,-apple-system,sans-serif;text-decoration:none;' + '  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;backdrop-filter:blur(6px)}' +
+  // The credit is a SPAN holding one or two <a>s (Unsplash's prescribed
+  // form links the photographer AND Unsplash) — anchors style inline so
+  // the overlay reads as one line of text.
+  '.credit a{color:inherit;text-decoration:none}' + '.credit a:hover,.credit a:focus-visible{text-decoration:underline}' + ':host([data-filled][data-credit]) .credit{display:block}' +
+  // Exports must ship JUST the image — no hover controls, no credit chip
+  // (the host marks <html data-om-exporting> for the capture window; the
+  // page-level hide script can't reach shadow DOM, this rule can).
+  ':host-context([data-om-exporting]) .ctl,' + ':host-context([data-om-exporting]) .credit{display:none !important}' +
+  // Print must ship just the image too: the hover-gated controls can be
+  // mid-hover when print() fires, and the credit chip is screen chrome —
+  // the same rule the capture window gets, keyed on print media instead
+  // of the host's data-om-exporting mark (the print path sets no mark).
+  '@media print{.ctl,.credit{display:none !important}}' +
+  // No export-window mask rules here on purpose: the export capture
+  // releases the replacement mask by REMOVING data-swapping (the
+  // shadow-root pass in pages/export/shared.ts HIDE_EXPORT_CHROME_SCRIPT)
+  // — attribute removal works in every engine (:host-context is
+  // Chromium-only), is scoped by construction to slots actually
+  // mid-swap, and hides the spinner through the same gate. A masked img
+  // would otherwise be silently dropped from PPTX decks (the capture
+  // walk skips visibility:hidden imgs).
+  // Attribution error tile: REPLACES the photo when an Unsplash src has
+  // no credit attribute — rendering the photo uncredited is the terms
+  // violation, so the photo must not appear at all.
+  // Calm and neutral on purpose (review feedback): the tile informs the
+  // user; the fix instructions are machine-facing (usage docblock, tool
+  // description, and the turn-end scan's bounce copy name the attributes
+  // for the agent).
+  '.attr-error{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;' + '  justify-content:center;gap:6px;text-align:center;padding:12px;box-sizing:border-box;' + '  background:#f2f1ef;color:#6e6c66;user-select:none;' + '  font:13px/1.45 system-ui,-apple-system,sans-serif}' + '.attr-error svg{opacity:.55}' + '.attr-error .cap{max-width:92%;font-weight:500;letter-spacing:.01em}' + ':host([data-attribution-error]) .attr-error{display:flex}' + ':host([data-attribution-error]) .ring{display:none}';
+  const icon = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' + 'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + '<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>' + '<path d="m21 15-5-5L5 21"/></svg>';
+  const warnIcon = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' + 'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + '<path d="m21.73 18-8-14a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/>' + '<path d="M12 9v4"/><path d="M12 17h.01"/></svg>';
+  class ImageSlot extends HTMLElement {
+    static get observedAttributes() {
+      return ['shape', 'radius', 'mask', 'fit', 'placeholder', 'src', 'id', 'credit', 'credit-href'];
+    }
+
+    /** Duplicate-slide hook (called by deck-stage, see its
+     *  _remintDuplicateIds): copy this id's stored image, if any, under a
+     *  freshly minted key and return that key — so a duplicated slide's
+     *  slot keeps its dropped photo instead of reverting to the
+     *  placeholder. 'isFree' is the caller's uniqueness check (document
+     *  ids); candidates must ALSO be unused in the sidecar, which can
+     *  hold keys from other pages sharing the project root. (An EMPTY
+     *  slot on another page leaves no sidecar entry, so its id is not
+     *  detectable here — a minted key can collide with it and that slot
+     *  would show this photo. Same blast radius as two pages reusing an
+     *  id by hand, which the shared sidecar already permits.) Returns null
+     *  when no id could be minted (caller strips the id, today's
+     *  behavior). */
+    static cloneSlot(fromId, isFree) {
+      if (typeof fromId !== 'string' || !fromId) return null;
+      // Pre-hydration the store can't veto candidates or source the copy
+      // — degrade to the strip (today's behavior) rather than mint
+      // against keys we can't see yet. Any rendered (= droppable) slot
+      // means load() has already settled.
+      if (!loaded) return null;
+      const stem = fromId.replace(/-\d+$/, '') || fromId;
+      for (let n = 2; n < 100; n++) {
+        const toId = stem + '-' + n;
+        if (toId === fromId) continue;
+        if (slots[toId] !== undefined) {
+          // Reuse a key holding this exact value (bytes AND crop) if no
+          // live element here owns it — a duplicate op the host refused
+          // after minting leaves such a key behind, and reusing keeps
+          // refused retries from accumulating one orphaned copy per
+          // attempt. Full equality (not just bytes) so a byte-identical
+          // key another PAGE owns with its own crop is stepped past, not
+          // adopted or rewritten. (Entries without .u never match.)
+          const prev = getSlot(toId);
+          const cur = getSlot(fromId);
+          if (!(prev && cur && prev.u && prev.u === cur.u && prev.s === cur.s && prev.x === cur.x && prev.y === cur.y && (typeof isFree !== 'function' || isFree(toId)))) continue;
+          return toId;
+        }
+        if (typeof isFree === 'function' && !isFree(toId)) continue;
+        const v = getSlot(fromId);
+        if (v) setSlot(toId, Object.assign({}, v));
+        return toId;
+      }
+      return null;
+    }
+    constructor() {
+      super();
+      // clonable: rail thumbnails deep-clone slides and carry this shadow
+      // along; reuse an already-cloned root so upgrade-after-clone works.
+      // (Deliberately NOT serializable — a getHTML consumer would embed
+      // multi-MB sidecar data-URLs into serialized page HTML.)
+      const root = this.shadowRoot || this.attachShadow({
+        mode: 'open',
+        clonable: true
+      });
+      // .spill and .ctl sit OUTSIDE .frame so overflow:hidden + border-radius
+      // on the frame (circle, pill, rounded) can't clip them.
+      root.innerHTML = '<style>' + stylesheet + '</style>' + '<div class="frame" part="frame">' + '  <img part="image" alt="" draggable="false" style="display:none">' + '  <div class="empty" part="empty">' + icon + '    <div class="cap"></div>' + '    <div class="sub">or <u>browse files</u></div></div>' + '  <div class="attr-error" part="attribution-error">' + warnIcon + '    <div class="cap">This photo needs attribution</div></div>' + '  <div class="loading" part="loading"></div>' + '  <div class="ring" part="ring"></div>' + '</div>' +
+      // Outside .frame, like .spill/.ctl — the frame's overflow:hidden +
+      // border-radius/clip-path would cut the credit off on circle/pill/mask.
+      // A SPAN, not an <a>: the prescribed Unsplash credit holds two links
+      // (photographer + Unsplash), built per-render in _render().
+      '<span class="credit" part="credit"></span>' + '<div class="spill" popover="manual" data-dc-edit-transparent>' + '  <img class="ghost" alt="" draggable="false">' + '  <div class="handle" data-c="nw"></div><div class="handle" data-c="ne"></div>' + '  <div class="handle" data-c="sw"></div><div class="handle" data-c="se"></div>' + '</div>' +
+      // data-dc-edit-transparent: the DC editor's edit-mode picker lets
+      // clicks through for chrome marked with it (EDIT_TRANSPARENT_SEL)
+      // — without it, Replace/Edit clicks in Edit mode are swallowed by
+      // element selection and the controls look dead.
+      '<div class="ctl" popover="manual" data-dc-edit-transparent><button data-act="replace" title="Replace image">Replace</button>' + '  <button data-act="edit" title="Reframe image">Edit</button></div>' + '<input type="file" accept="' + ACCEPT.join(',') + '" hidden>';
+      this._frame = root.querySelector('.frame');
+      this._ring = root.querySelector('.ring');
+      this._img = root.querySelector('.frame img');
+      this._empty = root.querySelector('.empty');
+      this._cap = root.querySelector('.cap');
+      this._sub = root.querySelector('.sub');
+      this._spill = root.querySelector('.spill');
+      this._ctl = root.querySelector('.ctl');
+      this._credit = root.querySelector('.credit');
+      this._attrError = root.querySelector('.attr-error');
+      // Credit clicks open the link, not browse/reframe.
+      this._credit.addEventListener('click', e => e.stopPropagation());
+      this._credit.addEventListener('dblclick', e => e.stopPropagation());
+      this._ghost = root.querySelector('.ghost');
+      this._err = null;
+      this._input = root.querySelector('input');
+      this._depth = 0;
+      this._gen = 0;
+      // Encode-in-flight marker (the owning _ingest generation): while set,
+      // the same-src "nothing in flight" clear in _render must not fire —
+      // the stored value still points at the OLD image until the encode
+      // lands, so that clear would unmask the stale image mid-replace.
+      this._swapGen = 0;
+      // Render-owned swap in flight: set when _render assigns a new src,
+      // cleared only by the img's own load/error (or the empty branch).
+      // img.complete CANNOT stand in for this — setting src only QUEUES
+      // the current-request swap (a microtask), so synchronously after an
+      // assignment, complete still reports the OLD settled request. The
+      // pick path does exactly that: the host sets src, credit, and
+      // credit-href back-to-back in one task, and renders #2/#3 would
+      // read the stale complete === true and drop the mask one render
+      // after it was set.
+      this._loadPending = false;
+      // See _render's empty branch: a transient attribution-error wipe of a
+      // showing image must make the follow-up render a replacement (spinner),
+      // not a first fill (blank frame).
+      this._hidShowing = false;
+      this._view = {
+        s: 1,
+        x: 0,
+        y: 0
+      };
+      this._subFn = () => this._render();
+      // Shadow-DOM listeners live with the shadow DOM — bound once here so
+      // disconnect/reconnect (e.g. React remount) doesn't stack handlers.
+      this._empty.addEventListener('click', () => this._input.click());
+      root.addEventListener('click', e => {
+        const act = e.target && e.target.getAttribute && e.target.getAttribute('data-act');
+        if (!act) return;
+        // The hidden controls are opacity-0 but still tabbable — without
+        // this gate a keyboard user could drive them on a read-only share
+        // link (mirrors the dblclick handler's editable gate).
+        if (!this.hasAttribute('data-editable')) return;
+        if (act === 'replace') {
+          this._exitReframe(true);
+          // Host-owned picker (Unsplash modal; it also offers local import).
+          this.dispatchEvent(new CustomEvent('image-slot:pick', {
+            bubbles: true,
+            composed: true,
+            detail: {
+              id: this.id || null
+            }
+          }));
+        }
+        if (act === 'edit') {
+          if (!this._reframes()) return;
+          if (this.hasAttribute('data-reframe')) this._exitReframe(true);else this._enterReframe();
+        }
+      });
+      this._input.addEventListener('change', () => {
+        const f = this._input.files && this._input.files[0];
+        if (f) this._ingest(f);
+        this._input.value = '';
+      });
+      // naturalWidth/Height aren't known until load — re-apply so the cover
+      // baseline is computed from real dimensions, not the 100%×100% fallback.
+      // load/error also release the replacement-in-flight mask (via the
+      // single discipline in _releaseMask): the swap is only revealed once
+      // the new image can actually paint (on error the frame shows its
+      // background, same as a fresh slot with a broken src).
+      this._img.addEventListener('load', () => {
+        this._loadPending = false;
+        this._releaseMask(true);
+        this._applyView();
+      });
+      this._img.addEventListener('error', () => {
+        this._loadPending = false;
+        this._releaseMask(true);
+      });
+      // Gated only on editable — any filled slot can be repositioned/scaled,
+      // regardless of fit. Share links (no writeFile) stay static.
+      this.addEventListener('dblclick', e => {
+        if (!this.hasAttribute('data-editable') || !this._reframes()) return;
+        e.preventDefault();
+        if (this.hasAttribute('data-reframe')) this._exitReframe(true);else this._enterReframe();
+      });
+      // Pan + resize both originate on the spill layer. A handle pointerdown
+      // drives an aspect-locked resize anchored at the opposite corner; any
+      // other pointerdown on the spill pans. Offsets are frame-% so a
+      // reframed slot survives responsive resize / PPTX export.
+      this._spill.addEventListener('pointerdown', e => {
+        if (e.button !== 0 || !this.hasAttribute('data-reframe')) return;
+        e.preventDefault();
+        e.stopPropagation();
+        this._spill.setPointerCapture(e.pointerId);
+        const rect = this.getBoundingClientRect();
+        const fw = rect.width || 1,
+          fh = rect.height || 1;
+        const corner = e.target.getAttribute && e.target.getAttribute('data-c');
+        let move;
+        if (corner) {
+          // Resize about the OPPOSITE corner. Viewport-px throughout (rect
+          // fw/fh, not clientWidth) so the math survives a transform:scale()
+          // ancestor — deck_stage renders slides scaled-to-fit.
+          const iw = this._img.naturalWidth || 1,
+            ih = this._img.naturalHeight || 1;
+          const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+          const base = contain ? Math.min(fw / iw, fh / ih) : Math.max(fw / iw, fh / ih);
+          const sx = corner.includes('e') ? 1 : -1;
+          const sy = corner.includes('s') ? 1 : -1;
+          const s0 = this._view.s;
+          const w0 = iw * base * s0,
+            h0 = ih * base * s0;
+          const cx0 = (50 + this._view.x) / 100 * fw;
+          const cy0 = (50 + this._view.y) / 100 * fh;
+          const ox = cx0 - sx * w0 / 2,
+            oy = cy0 - sy * h0 / 2;
+          const diag0 = Math.hypot(w0, h0);
+          const ux = sx * w0 / diag0,
+            uy = sy * h0 / diag0;
+          move = ev => {
+            const proj = (ev.clientX - rect.left - ox) * ux + (ev.clientY - rect.top - oy) * uy;
+            const s = clampS(s0 * proj / diag0);
+            const d = diag0 * s / s0;
+            this._view.s = s;
+            this._view.x = (ox + ux * d / 2) / fw * 100 - 50;
+            this._view.y = (oy + uy * d / 2) / fh * 100 - 50;
+            this._clampView();
+            this._applyView();
+          };
+        } else {
+          this.setAttribute('data-panning', '');
+          const start = {
+            px: e.clientX,
+            py: e.clientY,
+            x: this._view.x,
+            y: this._view.y
+          };
+          move = ev => {
+            this._view.x = start.x + (ev.clientX - start.px) / fw * 100;
+            this._view.y = start.y + (ev.clientY - start.py) / fh * 100;
+            this._clampView();
+            this._applyView();
+          };
+        }
+        const up = () => {
+          try {
+            this._spill.releasePointerCapture(e.pointerId);
+          } catch {}
+          this._spill.removeEventListener('pointermove', move);
+          this._spill.removeEventListener('pointerup', up);
+          this._spill.removeEventListener('pointercancel', up);
+          this.removeAttribute('data-panning');
+          this._dragUp = null;
+        };
+        // Stashed so _exitReframe (Escape / outside-click mid-drag) can
+        // tear the capture + listeners down synchronously.
+        this._dragUp = up;
+        this._spill.addEventListener('pointermove', move);
+        this._spill.addEventListener('pointerup', up);
+        this._spill.addEventListener('pointercancel', up);
+      });
+      // Wheel zoom stays available inside reframe mode as a trackpad nicety —
+      // zooms toward the cursor (offset' = cursor·(1-k) + offset·k).
+      this.addEventListener('wheel', e => {
+        if (!this.hasAttribute('data-reframe')) return;
+        e.preventDefault();
+        const r = this.getBoundingClientRect();
+        const cx = (e.clientX - r.left) / r.width * 100 - 50;
+        const cy = (e.clientY - r.top) / r.height * 100 - 50;
+        const prev = this._view.s;
+        const next = clampS(prev * Math.pow(1.0015, -e.deltaY));
+        if (next === prev) return;
+        const k = next / prev;
+        this._view.s = next;
+        this._view.x = cx * (1 - k) + this._view.x * k;
+        this._view.y = cy * (1 - k) + this._view.y * k;
+        this._clampView();
+        this._applyView();
+      }, {
+        passive: false
+      });
+    }
+    connectedCallback() {
+      // Warn once per page — an id-less slot works for the session but
+      // cannot persist, and two id-less slots would share nothing.
+      if (!this.id && !ImageSlot._warned) {
+        ImageSlot._warned = true;
+        console.warn('<image-slot> without an id will not persist its dropped image.');
+      }
+      this.addEventListener('dragenter', this);
+      this.addEventListener('dragover', this);
+      this.addEventListener('dragleave', this);
+      this.addEventListener('drop', this);
+      subs.add(this._subFn);
+      // The host may inject window.omelette.writeFile AFTER the first render;
+      // re-render on hover so the editable-gated controls reliably appear.
+      this.addEventListener('pointerenter', this._subFn);
+      // width%/height% in _applyView encode the frame aspect at call time —
+      // a host resize (responsive grid, pane divider) would stretch the
+      // image until the next _render. Re-render on size change: _render()
+      // re-seeds _view from stored before clamp/apply, so a shrink→grow
+      // cycle round-trips instead of ratcheting x/y toward the narrower
+      // frame's clamp range.
+      this._ro = new ResizeObserver(() => this._render());
+      this._ro.observe(this);
+      load();
+      this._render();
+    }
+    disconnectedCallback() {
+      subs.delete(this._subFn);
+      this.removeEventListener('pointerenter', this._subFn);
+      this.removeEventListener('dragenter', this);
+      this.removeEventListener('dragover', this);
+      this.removeEventListener('dragleave', this);
+      this.removeEventListener('drop', this);
+      if (this._ro) {
+        this._ro.disconnect();
+        this._ro = null;
+      }
+      // commit=false: a disconnect is not a user intent — committing here
+      // would persist whatever half-finished drag a React remount or DOM
+      // splice happened to interrupt. Deliberate exits commit on their own
+      // paths (Escape/click-out/toggle), and unloads commit via pagehide.
+      this._exitReframe(false);
+    }
+    _enterReframe() {
+      if (this.hasAttribute('data-reframe')) return;
+      this.setAttribute('data-reframe', '');
+      this._signalReframe(true);
+      // Best-effort commit when the document unloads mid-reframe (a host
+      // navigation racing the enter signal, a manual reload, tab close):
+      // the sidecar write rides the host bridge, which outlives this
+      // document, so the crop survives even though the mode dies with the
+      // DOM. Held on the instance so _exitReframe detaches exactly what
+      // was attached.
+      this._pagehide = () => {
+        this._exitReframe(true);
+        flushNow();
+      };
+      window.addEventListener('pagehide', this._pagehide);
+      // Promote spill to the top layer, then keep it pinned over the frame:
+      // scroll/resize cover the common cases, and a per-frame rect check
+      // catches layout shifts that fire neither (an image above finishing
+      // load, streamed DOM pushing the slot down, an ancestor transform
+      // change) so the overlay can't detach from the frame.
+      try {
+        this._spill.showPopover();
+      } catch {}
+      // After the spill, so the controls stack above it in the top layer.
+      try {
+        this._ctl.showPopover();
+      } catch {}
+      this._reposition = () => {
+        if (this.hasAttribute('data-reframe')) this._applyView();
+      };
+      window.addEventListener('scroll', this._reposition, true);
+      window.addEventListener('resize', this._reposition);
+      this._lastRect = '';
+      this._watch = () => {
+        if (!this.hasAttribute('data-reframe')) return;
+        const r = this.getBoundingClientRect();
+        const key = r.left + ',' + r.top + ',' + r.width + ',' + r.height;
+        if (key !== this._lastRect) {
+          this._lastRect = key;
+          this._applyView();
+        }
+        this._watchId = requestAnimationFrame(this._watch);
+      };
+      this._watchId = requestAnimationFrame(this._watch);
+      this._applyView();
+      // Close on click outside (the spill handler stopPropagation()s so
+      // in-image drags don't reach this) and on Escape. Listeners are held
+      // on the instance so _exitReframe / disconnectedCallback can detach
+      // exactly what was attached.
+      this._outside = e => {
+        if (e.composedPath && e.composedPath().includes(this)) return;
+        this._exitReframe(true);
+      };
+      this._esc = e => {
+        if (e.key === 'Escape') this._exitReframe(true);
+      };
+      document.addEventListener('pointerdown', this._outside, true);
+      document.addEventListener('keydown', this._esc, true);
+    }
+    _exitReframe(commit) {
+      if (!this.hasAttribute('data-reframe')) return;
+      if (this._dragUp) this._dragUp();
+      this.removeAttribute('data-reframe');
+      this.removeAttribute('data-panning');
+      if (this._outside) document.removeEventListener('pointerdown', this._outside, true);
+      if (this._esc) document.removeEventListener('keydown', this._esc, true);
+      this._outside = this._esc = null;
+      if (this._reposition) {
+        window.removeEventListener('scroll', this._reposition, true);
+        window.removeEventListener('resize', this._reposition);
+        this._reposition = null;
+      }
+      if (this._watchId) {
+        cancelAnimationFrame(this._watchId);
+        this._watchId = 0;
+      }
+      if (this._pagehide) {
+        window.removeEventListener('pagehide', this._pagehide);
+        this._pagehide = null;
+      }
+      try {
+        this._spill.hidePopover();
+      } catch {}
+      try {
+        this._ctl.hidePopover();
+      } catch {}
+      this._ctl.style.left = '';
+      this._ctl.style.top = '';
+      if (commit) this._commitView();
+      this._signalReframe(false);
+    }
+
+    // Reframe state lives only in this DOM until commit, invisible to the
+    // host's dirty signals — announce enter/exit so the host can hold
+    // auto-reloads for exactly the gesture (the guest bundle forwards
+    // image-slot:reframe to the host as imageSlotReframe). Dispatched on
+    // the element (composed, so it escapes shadow roots) while connected;
+    // a disconnected exit (disconnectedCallback) falls back to document so
+    // the host still hears it.
+    _signalReframe(active) {
+      const target = this.isConnected ? this : document;
+      target.dispatchEvent(new CustomEvent('image-slot:reframe', {
+        bubbles: true,
+        composed: true,
+        detail: {
+          active: active,
+          id: this.id || null
+        }
+      }));
+    }
+
+    // Public: host's "Import from computer" calls this to run local browse.
+    openFilePicker() {
+      this._exitReframe(true);
+      this._input.click();
+    }
+
+    // A src write is a newer intent for this slot's content — the host
+    // pick path (setImageSlotImage) or an agent edit — so it must win
+    // over any encode still in flight from an earlier drop: left live,
+    // that encode lands later, passes _ingest's gen guard, and its
+    // setSlot silently overwrites the pick (the stored value shadows
+    // src in _render). Bumping _gen kills the encode before its own
+    // _swapGen clear runs, so clear the dead claim here too — otherwise
+    // _releaseMask (gated on !_swapGen) never fires and the pick's
+    // spinner is stranded. src ONLY: the pick sets credit/credit-href
+    // in the same task, and clearing _swapGen on those would let the
+    // same-src branch unmask the old image mid-encode.
+    attributeChangedCallback(name, oldVal, newVal) {
+      if (name === 'src' && oldVal !== newVal) {
+        this._gen++;
+        this._swapGen = 0;
+      }
+      if (this.shadowRoot) this._render();
+    }
+
+    // handleEvent — one listener object for all four drag events keeps the
+    // add/remove symmetric and the depth counter correct.
+    handleEvent(e) {
+      if (e.type === 'dragenter' || e.type === 'dragover') {
+        // Without preventDefault the browser never fires 'drop'.
+        e.preventDefault();
+        e.stopPropagation();
+        if (e.dataTransfer) e.dataTransfer.dropEffect = 'copy';
+        if (e.type === 'dragenter') this._depth++;
+        this.setAttribute('data-over', '');
+      } else if (e.type === 'dragleave') {
+        // dragenter/leave fire for every descendant crossing — count depth
+        // so hovering the icon inside the empty state doesn't flicker.
+        if (--this._depth <= 0) {
+          this._depth = 0;
+          this.removeAttribute('data-over');
+        }
+      } else if (e.type === 'drop') {
+        e.preventDefault();
+        e.stopPropagation();
+        this._depth = 0;
+        this.removeAttribute('data-over');
+        const f = e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0];
+        if (f) this._ingest(f);
+      }
+    }
+    async _ingest(file) {
+      this._setError(null);
+      if (!file || ACCEPT.indexOf(file.type) < 0) {
+        this._setError('Drop a PNG, JPEG, WebP, or AVIF image.');
+        return;
+      }
+      // toDataUrl can take hundreds of ms on a large photo. A Clear or a
+      // newer drop during that window would be clobbered when this await
+      // resumes — bump + capture a generation so stale encodes bail.
+      const gen = ++this._gen;
+      // Replacing a shown image: surface the swap through the encode too,
+      // not just the decode — otherwise the old photo sits there with no
+      // feedback while the canvas re-encode runs. An empty slot keeps its
+      // placeholder (no spinner) until the encode lands, as before.
+      // _swapGen guards the mask against re-renders DURING the encode
+      // (pointerenter, ResizeObserver, another slot's store write): the
+      // stored value still resolves to the old image there, so _render's
+      // same-src clear would otherwise unmask it mid-replace.
+      if (this.hasAttribute('data-filled')) {
+        this.setAttribute('data-swapping', '');
+        this._swapGen = gen;
+      }
+      try {
+        const w = this.clientWidth || this.offsetWidth || MAX_DIM;
+        const url = await toDataUrl(file, w);
+        if (gen !== this._gen) return;
+        // Only exit reframe once the new image is in hand — a rejected type
+        // or decode failure leaves the in-progress crop untouched.
+        this._exitReframe(false);
+        // Clear BEFORE setSlot: its synchronous re-render must see no
+        // pending encode, so a byte-identical re-upload (same data URL, no
+        // load event coming) still clears the mask via the complete branch.
+        this._swapGen = 0;
+        const val = {
+          u: url,
+          s: 1,
+          x: 0,
+          y: 0
+        };
+        setSlot(this.id || '', val);
+        // Keep a session-local copy for id-less slots so the drop still
+        // shows, even though it cannot persist.
+        if (!this.id) {
+          this._local = val;
+          this._render();
+        }
+      } catch (err) {
+        if (gen !== this._gen) return;
+        this._swapGen = 0;
+        // Reveal the kept old image — unless another replacement (a
+        // remote pick's src swap) is still in flight, in which case the
+        // mask stays until THAT image settles (its load/error releases).
+        this._releaseMask();
+        this._setError('Could not read that image.');
+        console.warn('<image-slot> ingest failed:', err);
+      }
+    }
+    _setError(msg) {
+      if (this._err) {
+        this._err.remove();
+        this._err = null;
+      }
+      if (!msg) return;
+      const d = document.createElement('div');
+      d.className = 'err';
+      d.textContent = msg;
+      this.shadowRoot.appendChild(d);
+      this._err = d;
+      setTimeout(() => {
+        if (this._err === d) {
+          d.remove();
+          this._err = null;
+        }
+      }, 3000);
+    }
+
+    // Reframing (pan/resize) is available on any filled slot — the user can
+    // always reposition/scale. `fit` only sets the initial baseline (see
+    // _geom): contain starts fully-visible, cover starts frame-filling.
+    _reframes() {
+      return this.hasAttribute('data-filled');
+    }
+
+    // The single release discipline for the replacement-in-flight mask
+    // (data-swapping). The mask comes off only when BOTH hold:
+    //  - no encode is pending (_swapGen) — mid-encode the stored value
+    //    still resolves to the old image, so any reveal paints it;
+    //  - the frame img has settled on its current src — an unsettled src
+    //    means some replacement is still in flight (e.g. a remote pick),
+    //    whoever started it, and revealing would paint the previous
+    //    frame. The load/error listeners pass settled=true (the event IS
+    //    the settlement signal, per spec complete is true by then);
+    //    other callers rely on the complete flag (covers loaded AND
+    //    failed).
+    // Every release path funnels through here EXCEPT _render's empty
+    // branch (the img is being cleared — nothing will ever settle).
+    _releaseMask(settled) {
+      if (!this._swapGen && !this._loadPending && (settled || this._img.complete)) {
+        this.removeAttribute('data-swapping');
+      }
+    }
+
+    // Baseline geometry, shared by clamp/apply/resize. `base` is the scale at
+    // view-scale s=1: cover = fill the frame (overflow on the looser axis),
+    // contain = fit fully inside (letterboxed). Zooming a contain image past
+    // s where it overflows naturally becomes a crop. Null until the img has
+    // loaded (naturalWidth is 0 before that) or when the slot has no layout
+    // box — ResizeObserver fires with a 0×0 rect under display:none, and
+    // clamping against a degenerate 1×1 frame would silently pull the stored
+    // pan toward zero.
+    _geom() {
+      const iw = this._img.naturalWidth,
+        ih = this._img.naturalHeight;
+      const fw = this.clientWidth,
+        fh = this.clientHeight;
+      if (!iw || !ih || !fw || !fh) return null;
+      const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+      const base = contain ? Math.min(fw / iw, fh / ih) : Math.max(fw / iw, fh / ih);
+      return {
+        iw,
+        ih,
+        fw,
+        fh,
+        base
+      };
+    }
+    _clampView() {
+      // Pan range on each axis is half the overflow past the frame edge.
+      const g = this._geom();
+      if (!g) return;
+      const mx = Math.max(0, (g.iw * g.base * this._view.s / g.fw - 1) * 50);
+      const my = Math.max(0, (g.ih * g.base * this._view.s / g.fh - 1) * 50);
+      this._view.x = Math.max(-mx, Math.min(mx, this._view.x));
+      this._view.y = Math.max(-my, Math.min(my, this._view.y));
+    }
+    _applyView() {
+      const g = this._geom();
+      // Top-layer controls: pin to the frame's top-right in viewport px
+      // (the same 8px inset as the in-frame layout; unscaled — top-layer UI
+      // reads as chrome, not page content). BEFORE the geometry branch:
+      // placement needs only the frame rect, and a not-yet-loaded or broken
+      // src must not leave the promoted strip floating unpositioned. Gated
+      // on the popover actually being open: without the Popover API,
+      // showPopover() threw (swallowed in _enterReframe), .ctl stays in
+      // its in-frame absolute layout, and viewport-px coordinates would
+      // shove it off-frame — and matches(':popover-open') itself throws
+      // there (unknown pseudo-class), hence the try/catch.
+      if (this.hasAttribute('data-reframe')) {
+        let onTop = false;
+        try {
+          onTop = this._ctl.matches(':popover-open');
+        } catch {}
+        if (onTop) {
+          const r = this.getBoundingClientRect();
+          this._ctl.style.left = r.right - 8 + 'px';
+          this._ctl.style.top = r.top + 8 + 'px';
+        }
+      }
+      if (!g) {
+        // Dimensions not known yet (before img load) — centered fit so there
+        // is no flash of an unpositioned image before the geometry lands.
+        const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+        this._img.style.width = '100%';
+        this._img.style.height = '100%';
+        this._img.style.left = '50%';
+        this._img.style.top = '50%';
+        this._img.style.objectFit = contain ? 'contain' : 'cover';
+        return;
+      }
+      // Baseline (cover-fill or contain-fit) × view scale. Width/height and
+      // left/top are all frame-% — depends only on the frame aspect ratio, so
+      // a responsive resize keeps the same crop. The spill layer mirrors the
+      // same box so its corners = image corners.
+      const k = g.base * this._view.s;
+      const w = g.iw * k / g.fw * 100 + '%';
+      const h = g.ih * k / g.fh * 100 + '%';
+      const l = 50 + this._view.x + '%';
+      const t = 50 + this._view.y + '%';
+      this._img.style.width = w;
+      this._img.style.height = h;
+      this._img.style.left = l;
+      this._img.style.top = t;
+      this._img.style.objectFit = '';
+      if (this.hasAttribute('data-reframe')) {
+        // Top-layer spill: position in viewport px over the frame. The top
+        // layer escapes ancestor transforms entirely, so EVERY term must be
+        // in viewport units: getBoundingClientRect gives the frame's scaled
+        // origin AND size, and the rect/layout ratio rescales the ghost —
+        // sizing from layout px alone renders it 1/scale too large under a
+        // scaled deck slide. Inner ghost + handles stay box-relative.
+        const r = this.getBoundingClientRect();
+        const sx = g.fw ? r.width / g.fw : 1;
+        const sy = g.fh ? r.height / g.fh : 1;
+        this._spill.style.width = g.iw * k * sx + 'px';
+        this._spill.style.height = g.ih * k * sy + 'px';
+        this._spill.style.left = r.left + (50 + this._view.x) / 100 * r.width + 'px';
+        this._spill.style.top = r.top + (50 + this._view.y) / 100 * r.height + 'px';
+      }
+    }
+    _commitView() {
+      const v = {
+        s: this._view.s,
+        x: this._view.x,
+        y: this._view.y
+      };
+      if (this._userUrl) v.u = this._userUrl;
+      // Framing-only (no u) persists too so an author-src slot remembers its
+      // crop; clearing the sidecar still falls through to src=.
+      if (this.id) setSlot(this.id, v);else {
+        this._local = v;
+      }
+    }
+    _render() {
+      // Shape / mask. Presets use border-radius so the dashed ring can
+      // follow the rounded outline; clip-path is only applied for an
+      // explicit `mask` (the ring is hidden there since a rectangle
+      // dashed border chopped by an arbitrary polygon looks broken).
+      const mask = this.getAttribute('mask');
+      const shape = (this.getAttribute('shape') || 'rounded').toLowerCase();
+      let radius = '';
+      if (shape === 'circle') radius = '50%';else if (shape === 'pill') radius = '9999px';else if (shape === 'rounded') {
+        const n = parseFloat(this.getAttribute('radius'));
+        radius = (Number.isFinite(n) ? n : 12) + 'px';
+      }
+      this._frame.style.borderRadius = mask ? '' : radius;
+      this._frame.style.clipPath = mask || '';
+      this._ring.style.borderRadius = mask ? '' : radius;
+      this._ring.style.display = mask ? 'none' : '';
+
+      // Controls and reframe entry gate on this so share links stay read-only.
+      const editable = !!(window.omelette && window.omelette.writeFile);
+      this.toggleAttribute('data-editable', editable);
+      this._sub.style.display = editable ? '' : 'none';
+
+      // Content. The sidecar is also writable by the agent's write_file
+      // tool, so its value isn't guaranteed canvas-originated — only accept
+      // data:image/ URLs from it. The `src` attribute is author-controlled
+      // (Claude wrote it into the HTML) so it passes through unchanged.
+      let stored = this.id ? getSlot(this.id) : this._local;
+      if (stored && stored.u && !/^data:image\//i.test(stored.u)) stored = null;
+      const srcAttr = this.getAttribute('src') || '';
+      this._userUrl = stored && stored.u || null;
+      const url = this._userUrl || srcAttr;
+      // Don't clobber an in-flight reframe with a store-triggered re-render.
+      if (!this.hasAttribute('data-reframe')) {
+        this._view = {
+          s: stored && Number.isFinite(stored.s) ? clampS(stored.s) : 1,
+          x: stored && Number.isFinite(stored.x) ? stored.x : 0,
+          y: stored && Number.isFinite(stored.y) ? stored.y : 0
+        };
+      }
+      this._cap.textContent = this.getAttribute('placeholder') || 'Drop an image';
+      // Toggle via style.display — the [hidden] attribute alone loses to
+      // the display:flex / display:block rules in the stylesheet above.
+      // An Unsplash src with no credit attribute must NOT render — showing
+      // the photo uncredited is the Unsplash-terms violation itself. The
+      // error tile replaces the photo until the credit is written. A
+      // user-dropped image is the user's own content and always renders.
+      // Trimmed: credit is agent/user-editable content, and a whitespace-
+      // only value must count as missing — otherwise it would suppress the
+      // error tile AND render an empty credit box (no text, no links),
+      // exactly the unattributed state this gate exists to prevent.
+      const credit = (this.getAttribute('credit') || '').trim();
+      const attrError = !!(!credit && !this._userUrl && srcAttr && isUnsplashHost(srcAttr));
+      this.toggleAttribute('data-attribution-error', attrError);
+      if (url && !attrError) {
+        const prev = this._img.getAttribute('src');
+        if (prev !== url) {
+          // Replacing an already-shown image: mark the swap BEFORE setting
+          // src so the stale frame is never revealed (see the data-swapping
+          // stylesheet rules). First fill (prev empty) keeps the existing
+          // placeholder-until-load behavior — no spinner. _hidShowing
+          // covers the pick path's transient attribution-error wipe: prev
+          // is gone, but an image WAS showing, so this is a replacement.
+          if (prev || this._hidShowing) this.setAttribute('data-swapping', '');
+          // Mark the swap BEFORE assigning src: complete keeps reporting
+          // the old settled request until the browser's
+          // update-the-image-data microtask runs, so same-task re-renders
+          // (the pick path's credit/credit-href setAttributes) need this
+          // flag, not complete, to know a load is in flight.
+          this._loadPending = true;
+          this._img.src = url;
+          this._ghost.src = url;
+        } else {
+          // Same-src re-render — release if settled, so an ingest-set
+          // spinner can't stick after a byte-identical re-upload (same
+          // data URL, no further load event ever fires).
+          this._releaseMask();
+        }
+        this._hidShowing = false;
+        this._img.style.display = 'block';
+        this._empty.style.display = 'none';
+        this.setAttribute('data-filled', '');
+        this._clampView();
+        this._applyView();
+      } else {
+        this.removeAttribute('data-swapping');
+        // The src is being removed — no load/error will ever fire for it.
+        this._loadPending = false;
+        // A transient attribution-error wipe of a showing image happens on
+        // the pick path: the host sets src one setAttribute before credit,
+        // so render N hides the old image (attrError) and render N+1
+        // restores a URL. Remember the wipe so that restore renders as a
+        // replacement (spinner), not a first fill (blank frame).
+        this._hidShowing = attrError && !!this._img.getAttribute('src');
+        this._img.style.display = 'none';
+        this._img.removeAttribute('src');
+        this._ghost.removeAttribute('src');
+        // The error tile owns the blocked-photo state; .empty stays for
+        // the genuinely-empty slot.
+        this._empty.style.display = attrError ? 'none' : 'flex';
+        this.removeAttribute('data-filled');
+      }
+
+      // Credit belongs to the author src, so a user drop hides it.
+      // textContent + the http(s)-only funnel keep external strings inert.
+      const showCredit = !!(url && credit && !this._userUrl && !attrError);
+      this._credit.textContent = '';
+      if (showCredit) {
+        // Validate once (resolved against the document, http(s) only),
+        // then append the terms-required utm referral params to links
+        // that point back at unsplash.com.
+        let href = '';
+        const rawHref = this.getAttribute('credit-href') || '';
+        if (rawHref) {
+          try {
+            const u = new URL(rawHref, document.baseURI);
+            if (u.protocol === 'http:' || u.protocol === 'https:') {
+              href = withReferral(u.href);
+            }
+          } catch {}
+        }
+        const mkLink = (text, linkHref) => {
+          const a = document.createElement('a');
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+          a.setAttribute('href', linkHref);
+          a.textContent = text;
+          return a;
+        };
+        // Unsplash's prescribed credit is TWO links — the photographer's
+        // name to their profile (credit-href) and 'Unsplash' to the
+        // homepage. Render that split whenever the text has the canonical
+        // shape; other text keeps the legacy single-link rendering.
+        const m = /^Photo by (.+) on Unsplash$/.exec(credit);
+        if (m) {
+          this._credit.appendChild(document.createTextNode('Photo by '));
+          this._credit.appendChild(href ? mkLink(m[1], href) : document.createTextNode(m[1]));
+          this._credit.appendChild(document.createTextNode(' on '));
+          this._credit.appendChild(mkLink('Unsplash', UNSPLASH_HOMEPAGE_HREF));
+        } else if (href) {
+          this._credit.appendChild(mkLink(credit, href));
+        } else {
+          this._credit.textContent = credit;
+        }
+      }
+      this.toggleAttribute('data-credit', showCredit);
+    }
+  }
+  if (!customElements.get('image-slot')) {
+    customElements.define('image-slot', ImageSlot);
+  }
+})();
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/image-slot.js", error: String((e && e.message) || e) }); }
+
+// deploy/screens/about.jsx
+try { (() => {
+const DSA = window.EshaanSharmaDesignSystem_4751b7;
+const ESA = window.ES_DATA;
+
+// The recruiter page: summary, facts, résumé, experience, skills, education, certifications.
+function AboutScreen() {
+  const A = ESA.about;
+  const cred = c => /*#__PURE__*/React.createElement("div", {
+    className: "cred panel",
+    key: c.title
+  }, /*#__PURE__*/React.createElement("h3", null, c.title), /*#__PURE__*/React.createElement("time", null, c.year), /*#__PURE__*/React.createElement("p", null, c.issuer, c.note && /*#__PURE__*/React.createElement("span", {
+    className: "cred__note"
+  }, c.note)));
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
+    className: "page page-head"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "About")), /*#__PURE__*/React.createElement("section", {
+    className: "page about-intro"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "emerge",
+    style: {
+      '--i': 1
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "t-read about-read"
+  }, A.intro.map((p, i) => /*#__PURE__*/React.createElement("p", {
+    key: i
+  }, p))), /*#__PURE__*/React.createElement("dl", {
+    className: "facts panel"
+  }, A.facts.map(f => /*#__PURE__*/React.createElement("div", {
+    key: f.label
+  }, /*#__PURE__*/React.createElement("dt", null, f.label), /*#__PURE__*/React.createElement("dd", null, f.value)))), /*#__PURE__*/React.createElement("div", {
+    className: "about-actions"
+  }, /*#__PURE__*/React.createElement(DSA.Button, {
+    variant: "primary",
+    icon: "download"
+  }, "R\xE9sum\xE9")))), /*#__PURE__*/React.createElement("section", {
+    className: "page section",
+    id: "experience"
+  }, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
+    title: "Experience"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "xp"
+  }, A.experience.map(x => /*#__PURE__*/React.createElement("div", {
+    className: "xp__item panel",
+    key: x.title
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "xp__head"
+  }, /*#__PURE__*/React.createElement("h3", null, x.title), /*#__PURE__*/React.createElement("span", {
+    className: "xp__period"
+  }, x.period)), /*#__PURE__*/React.createElement("p", {
+    className: "xp__org"
+  }, x.org), /*#__PURE__*/React.createElement("ul", {
+    className: "dash-list"
+  }, x.points.map((p, k) => /*#__PURE__*/React.createElement("li", {
+    key: k
+  }, p))))))), /*#__PURE__*/React.createElement("section", {
+    className: "page section",
+    id: "skills"
+  }, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
+    title: "Skills"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "skills"
+  }, ESA.skills.map(g => /*#__PURE__*/React.createElement("div", {
+    className: "skill panel",
+    key: g.group
+  }, /*#__PURE__*/React.createElement("h3", null, g.group), /*#__PURE__*/React.createElement("ul", null, g.items.map(s => /*#__PURE__*/React.createElement("li", {
+    key: s
+  }, /*#__PURE__*/React.createElement(DSA.Tag, null, s)))))))), /*#__PURE__*/React.createElement("section", {
+    className: "page section two-col",
+    id: "credentials"
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
+    title: "Education"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "creds"
+  }, A.education.map(cred))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
+    title: "Certifications"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "creds"
+  }, A.certifications.map(cred)))));
+}
+window.AboutScreen = AboutScreen;
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/screens/about.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/screens/contact.jsx
+try { (() => {
+const DSC = window.EshaanSharmaDesignSystem_4751b7;
+const ESC = window.ES_DATA;
+function ContactScreen() {
+  const I = ESC.identity;
+  const [sent, setSent] = React.useState(false);
+  const [kind, setKind] = React.useState('Contract');
+  const [now, setNow] = React.useState(() => new Date());
+  React.useEffect(() => {
+    const t = setInterval(() => setNow(new Date()), 30000);
+    return () => clearInterval(t);
+  }, []);
+  const local = now.toLocaleTimeString('en-GB', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'Asia/Kolkata'
+  });
+  const channels = [{
+    icon: 'mail',
+    label: 'Email',
+    value: I.email,
+    href: 'mailto:' + I.email
+  }, {
+    icon: 'linkedin',
+    label: 'LinkedIn',
+    value: 'in/eshaansharma2510',
+    href: I.linkedin,
+    ext: true
+  }, {
+    icon: 'github',
+    label: 'GitHub',
+    value: 'Yokai-2510',
+    href: I.github,
+    ext: true
+  }, {
+    icon: 'message',
+    label: 'Discord',
+    value: I.discord.handle,
+    href: I.discord.url,
+    ext: I.discord.url !== '#'
+  }, {
+    icon: 'download',
+    label: 'Résumé',
+    value: 'PDF',
+    href: '#'
+  }];
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
+    className: "page page-head"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Contact"), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede emerge",
+    style: {
+      '--i': 1
+    }
+  }, "Email is the fastest way to reach me. ", I.availability, ".")), /*#__PURE__*/React.createElement("section", {
+    className: "page contact-grid"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "emerge",
+    style: {
+      '--i': 2
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "channel-stack"
+  }, channels.map(c => /*#__PURE__*/React.createElement("a", {
+    key: c.label,
+    className: "channel panel",
+    href: c.href,
+    target: c.ext ? '_blank' : undefined,
+    rel: c.ext ? 'noreferrer' : undefined
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "channel__icon"
+  }, /*#__PURE__*/React.createElement(DSC.Icon, {
+    name: c.icon,
+    size: 17
+  })), /*#__PURE__*/React.createElement("span", {
+    className: "channel__text"
+  }, /*#__PURE__*/React.createElement("b", null, c.label), /*#__PURE__*/React.createElement("small", null, c.value)), /*#__PURE__*/React.createElement(DSC.Icon, {
+    name: "arrow-up-right",
+    size: 16,
+    className: "channel__go"
+  })))), /*#__PURE__*/React.createElement("p", {
+    className: "contact-meta"
+  }, I.location, " \xB7 ", local, " local time \xB7 ", I.timezone)), /*#__PURE__*/React.createElement("div", {
+    className: "emerge",
+    style: {
+      '--i': 3
+    }
+  }, /*#__PURE__*/React.createElement("form", {
+    className: "contact panel",
+    "data-node": true,
+    onSubmit: e => {
+      e.preventDefault();
+      setSent(true);
+    }
+  }, sent ? /*#__PURE__*/React.createElement("div", {
+    className: "contact__sent"
+  }, /*#__PURE__*/React.createElement(DSC.Tag, {
+    tone: "positive",
+    dot: true
+  }, "Sent"), /*#__PURE__*/React.createElement("p", {
+    className: "t-h3"
+  }, "Thanks. I will reply within a day."), /*#__PURE__*/React.createElement(DSC.Button, {
+    variant: "ghost",
+    size: "sm",
+    onClick: () => setSent(false)
+  }, "Send another")) : /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("div", {
+    className: "contact__row"
+  }, /*#__PURE__*/React.createElement(DSC.TextField, {
+    label: "Name",
+    placeholder: "Your name"
+  }), /*#__PURE__*/React.createElement(DSC.TextField, {
+    label: "Email",
+    type: "email",
+    placeholder: "you@company.com"
+  })), /*#__PURE__*/React.createElement(DSC.TextField, {
+    label: "Company",
+    optional: true,
+    placeholder: "Firm, fund or team"
+  }), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("span", {
+    className: "field-label"
+  }, "Engagement"), /*#__PURE__*/React.createElement("div", {
+    className: "chip-row"
+  }, ['Contract', 'Full-time', 'Other'].map(k => /*#__PURE__*/React.createElement(DSC.Chip, {
+    key: k,
+    selected: kind === k,
+    onClick: () => setKind(k)
+  }, k)))), /*#__PURE__*/React.createElement(DSC.TextField, {
+    label: "Message",
+    multiline: true,
+    rows: 5,
+    placeholder: "The role or project, and your timeline"
+  }), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSC.Button, {
+    variant: "primary",
+    type: "submit",
+    iconTrail: "arrow-right"
+  }, "Send message"))), /*#__PURE__*/React.createElement("span", {
+    className: "node",
+    "data-node-dot": true,
+    "aria-hidden": "true"
+  })))));
+}
+window.ContactScreen = ContactScreen;
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/screens/contact.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/screens/home.jsx
+try { (() => {
+function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
+const DSH = window.EshaanSharmaDesignSystem_4751b7;
+const ESH = window.ES_DATA;
+function HomeScreen({
+  go
+}) {
+  const I = ESH.identity;
+  const find = s => ESH.work.find(w => w.slug === s);
+  const lead = find('rank-displacement'),
+    more = [find('strategy-builder'), find('option-chain')];
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("section", {
+    className: "page hero"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-display emerge"
+  }, I.name), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede hero__lede emerge",
+    style: {
+      '--i': 1
+    }
+  }, ESH.hero.summary), /*#__PURE__*/React.createElement("p", {
+    className: "hero__facts emerge",
+    style: {
+      '--i': 2
+    }
+  }, /*#__PURE__*/React.createElement("span", null, I.location), /*#__PURE__*/React.createElement("span", null, I.availability)), /*#__PURE__*/React.createElement("div", {
+    className: "hero__actions emerge",
+    style: {
+      '--i': 3
+    }
+  }, /*#__PURE__*/React.createElement(DSH.Button, {
+    variant: "primary",
+    size: "lg",
+    iconTrail: "arrow-right",
+    onClick: () => go('Work')
+  }, "View work"))), /*#__PURE__*/React.createElement("section", {
+    className: "page section"
+  }, /*#__PURE__*/React.createElement(DSH.SectionHeader, {
+    title: "Selected work",
+    action: /*#__PURE__*/React.createElement(DSH.Button, {
+      size: "sm",
+      variant: "ghost",
+      iconTrail: "arrow-right",
+      onClick: () => go('Work')
+    }, "All work")
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "stack-list"
+  }, /*#__PURE__*/React.createElement(DSH.ProjectRow, _extends({}, lead, {
+    weight: "lg",
+    seed: lead.slug,
+    onOpen: () => go('Case', lead.slug)
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "card-grid card-grid--2"
+  }, more.map(w => /*#__PURE__*/React.createElement(DSH.WorkCard, _extends({
+    key: w.slug
+  }, w, {
+    seed: w.slug,
+    onOpen: () => go('Case', w.slug)
+  })))))));
+}
+window.HomeScreen = HomeScreen;
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/screens/home.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/screens/personal.jsx
+try { (() => {
+function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
+const DSQ = window.EshaanSharmaDesignSystem_4751b7;
+const ESQ = window.ES_DATA;
+
+// An introduction, then one card per interest; each opens its own mini page.
+function PersonalScreen({
+  go
+}) {
+  const P = ESQ.personal;
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
+    className: "page page-head"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Personal")), /*#__PURE__*/React.createElement("section", {
+    className: "page personal-intro"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "t-read about-read emerge",
+    style: {
+      '--i': 1
+    }
+  }, P.intro.map((p, i) => /*#__PURE__*/React.createElement("p", {
+    key: i
+  }, p))), /*#__PURE__*/React.createElement("div", {
+    className: "portrait emerge",
+    style: {
+      '--i': 2
+    }
+  }, /*#__PURE__*/React.createElement("image-slot", {
+    id: "personal-portrait",
+    shape: "rounded",
+    radius: "16",
+    placeholder: "Image"
+  }))), /*#__PURE__*/React.createElement("section", {
+    className: "page section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Interests"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "doors"
+  }, P.interests.map((x, i) => /*#__PURE__*/React.createElement("a", {
+    key: x.id,
+    href: "#",
+    className: "door panel emerge",
+    style: {
+      '--i': i + 3
+    },
+    "data-node": true,
+    onClick: e => {
+      e.preventDefault();
+      go('Interest', x.id);
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "door__media"
+  }, /*#__PURE__*/React.createElement(DSQ.Sigil, {
+    seed: x.id,
+    nodes: 7,
+    width: 320,
+    height: 180
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "door__body"
+  }, /*#__PURE__*/React.createElement("h3", {
+    className: "door__title"
+  }, x.title), /*#__PURE__*/React.createElement("p", {
+    className: "door__note"
+  }, x.note), /*#__PURE__*/React.createElement("span", {
+    className: "door__cta"
+  }, "Explore ", x.title.split(',')[0].toLowerCase(), /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-right",
+    size: 15
+  }))), /*#__PURE__*/React.createElement("span", {
+    className: "node",
+    "data-node-dot": true,
+    "aria-hidden": "true"
+  }))))));
+}
+function InterestScreen({
+  go,
+  param
+}) {
+  const all = ESQ.personal.interests;
+  const x = all.find(it => it.id === param) || all[0];
+  const notes = ESQ.writing.filter(n => n.interest === x.id);
+  return /*#__PURE__*/React.createElement("article", {
+    className: "page case"
+  }, /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-back",
+    onClick: e => {
+      e.preventDefault();
+      go('Personal');
+    }
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-left",
+    size: 16
+  }), "Personal"), /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, x.title), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede case-lede emerge",
+    style: {
+      '--i': 1
+    }
+  }, x.note), /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Writing"
+  }), /*#__PURE__*/React.createElement("div", null, notes.map(n => /*#__PURE__*/React.createElement(DSQ.EntryRow, _extends({
+    key: n.slug
+  }, n, {
+    onOpen: () => go('Article', n.slug)
+  }))))), x.images && x.images.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "gallery interest-block"
+  }, x.images.map((src, k) => /*#__PURE__*/React.createElement("div", {
+    className: "gallery__cell",
+    key: k
+  }, /*#__PURE__*/React.createElement("img", {
+    src: src,
+    alt: ""
+  })))), x.projects && /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Projects"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "lab-grid lab-grid--2"
+  }, x.projects.map(l => /*#__PURE__*/React.createElement(DSQ.LabTile, _extends({
+    key: l.title
+  }, l))))), x.links && x.links.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "channels interest-block"
+  }, x.links.map((l, k) => /*#__PURE__*/React.createElement("a", {
+    key: k,
+    className: "channel panel",
+    href: l.href,
+    target: "_blank",
+    rel: "noreferrer"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "channel__icon"
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "globe",
+    size: 17
+  })), /*#__PURE__*/React.createElement("span", {
+    className: "channel__text"
+  }, /*#__PURE__*/React.createElement("b", null, l.label), l.note && /*#__PURE__*/React.createElement("small", null, l.note)), /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-up-right",
+    size: 16,
+    className: "channel__go"
+  })))), /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Other interests"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "chip-row"
+  }, all.filter(it => it.id !== x.id).map(it => /*#__PURE__*/React.createElement(DSQ.Chip, {
+    key: it.id,
+    onClick: () => go('Interest', it.id)
+  }, it.title)))));
+}
+function ArticleScreen({
+  go,
+  param
+}) {
+  const n = ESQ.writing.find(w => w.slug === param) || ESQ.writing[0];
+  const x = ESQ.personal.interests.find(it => it.id === n.interest);
+  return /*#__PURE__*/React.createElement("article", {
+    className: "page"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "article"
+  }, /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-back",
+    onClick: e => {
+      e.preventDefault();
+      x ? go('Interest', x.id) : go('Personal');
+    }
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-left",
+    size: 16
+  }), x ? x.title : 'Personal'), /*#__PURE__*/React.createElement("header", {
+    className: "article__head"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "article__meta t-label emerge"
+  }, /*#__PURE__*/React.createElement("span", null, n.date), /*#__PURE__*/React.createElement("span", null, n.kind), /*#__PURE__*/React.createElement("span", null, n.reading)), /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge",
+    style: {
+      '--i': 1
+    }
+  }, n.title), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede emerge",
+    style: {
+      '--i': 2,
+      marginTop: 20
+    }
+  }, n.excerpt)), /*#__PURE__*/React.createElement("div", {
+    className: "t-read prose emerge",
+    style: {
+      '--i': 3
+    }
+  }, /*#__PURE__*/React.createElement("p", null, "Placeholder. The full article goes here."), !n.placeholder && /*#__PURE__*/React.createElement("pre", null, 'XADD ticks * sym NIFTY ltp 24812.35\nXREADGROUP GROUP engines rank COUNT 64 STREAMS ticks >'), !n.placeholder && /*#__PURE__*/React.createElement("blockquote", {
+    className: "t-quote"
+  }, "A clever algorithm you can\u2019t audit is worse than a boring one you can."))));
+}
+Object.assign(window, {
+  PersonalScreen,
+  InterestScreen,
+  ArticleScreen
+});
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/screens/personal.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/screens/work.jsx
+try { (() => {
+function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
+const DSW = window.EshaanSharmaDesignSystem_4751b7;
+const ESW = window.ES_DATA;
+
+// Products or projects, one at a time. Each opens a case study.
+function WorkScreen({
+  go,
+  param
+}) {
+  const own = ESW.products.map(p => p.slug);
+  const projects = ESW.work.filter(w => !own.includes(w.slug));
+  const [view, setView] = React.useState(param === 'projects' ? 'Projects' : 'Products');
+  const opts = [{
+    value: 'Products',
+    label: 'Products',
+    count: ESW.products.length
+  }, {
+    value: 'Projects',
+    label: 'Projects',
+    count: projects.length
+  }];
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
+    className: "page page-head"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Work"), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede emerge",
+    style: {
+      '--i': 1
+    }
+  }, "Products I build and maintain, and systems delivered as freelance work. Most run in production with real capital."), /*#__PURE__*/React.createElement("div", {
+    className: "work-toggle emerge",
+    style: {
+      '--i': 2
+    }
+  }, /*#__PURE__*/React.createElement(DSW.SegmentedControl, {
+    options: opts,
+    value: view,
+    onChange: setView,
+    label: "Show"
+  }))), /*#__PURE__*/React.createElement("section", {
+    className: "page work-view",
+    key: view
+  }, view === 'Products' ? /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("p", {
+    className: "work-view__desc emerge"
+  }, "Software I build, ship and keep running."), /*#__PURE__*/React.createElement("div", {
+    className: "product-list"
+  }, ESW.products.map((p, i) => /*#__PURE__*/React.createElement("div", {
+    key: p.slug,
+    className: "emerge",
+    style: {
+      '--i': i + 1
+    }
+  }, /*#__PURE__*/React.createElement(DSW.ProductCard, _extends({}, p, {
+    size: "lg",
+    onOpen: () => go('Case', p.slug)
+  })))))) : /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("p", {
+    className: "work-view__desc emerge"
+  }, "Pipelines, scanners and analytics tools built for clients."), /*#__PURE__*/React.createElement("div", {
+    className: "card-grid card-grid--3"
+  }, projects.map((w, i) => /*#__PURE__*/React.createElement("div", {
+    key: w.slug,
+    className: "emerge",
+    style: {
+      '--i': i + 1
+    }
+  }, /*#__PURE__*/React.createElement(DSW.WorkCard, _extends({}, w, {
+    seed: w.slug,
+    onOpen: () => go('Case', w.slug)
+  }))))))));
+}
+function CaseScreen({
+  go,
+  param
+}) {
+  const i = Math.max(0, ESW.work.findIndex(w => w.slug === param));
+  const w = ESW.work[i],
+    next = ESW.work[(i + 1) % ESW.work.length];
+  return /*#__PURE__*/React.createElement("article", {
+    className: "page case"
+  }, /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-back",
+    onClick: e => {
+      e.preventDefault();
+      go('Work');
+    }
+  }, /*#__PURE__*/React.createElement(DSW.Icon, {
+    name: "arrow-left",
+    size: 16
+  }), "Work"), /*#__PURE__*/React.createElement("div", {
+    className: "case-tags emerge"
+  }, /*#__PURE__*/React.createElement(DSW.Tag, {
+    tone: w.domain === 'Trading' ? 'accent' : 'neutral',
+    dot: true
+  }, w.domain), /*#__PURE__*/React.createElement(DSW.Tag, {
+    tone: w.status === 'Live' ? 'positive' : 'neutral'
+  }, w.status)), /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 case-title emerge",
+    style: {
+      '--i': 1
+    }
+  }, w.title), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede case-lede emerge",
+    style: {
+      '--i': 2
+    }
+  }, w.summary), /*#__PURE__*/React.createElement("dl", {
+    className: "case-meta panel emerge",
+    style: {
+      '--i': 3
+    }
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Year"), /*#__PURE__*/React.createElement("dd", null, w.year)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Role"), /*#__PURE__*/React.createElement("dd", null, w.role)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Domain"), /*#__PURE__*/React.createElement("dd", null, w.domain)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Stack"), /*#__PURE__*/React.createElement("dd", null, w.stack.slice(0, 4).join(', ')))), /*#__PURE__*/React.createElement("figure", {
+    className: "case-figure emerge",
+    style: {
+      '--i': 4
+    },
+    "data-node": true
+  }, /*#__PURE__*/React.createElement(DSW.Sigil, {
+    seed: w.slug,
+    nodes: 12,
+    width: 840,
+    height: 320
+  }), /*#__PURE__*/React.createElement("figcaption", {
+    className: "t-label"
+  }, "Placeholder: architecture diagram or screenshot"), /*#__PURE__*/React.createElement("span", {
+    className: "node",
+    "data-node-dot": true,
+    "aria-hidden": "true"
+  })), w.metrics.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "case-metrics",
+    style: {
+      '--n': w.metrics.length
+    }
+  }, w.metrics.map(m => /*#__PURE__*/React.createElement(DSW.Metric, _extends({
+    key: m.label
+  }, m)))), /*#__PURE__*/React.createElement("div", {
+    className: "case-body"
+  }, /*#__PURE__*/React.createElement("h2", {
+    className: "case-h"
+  }, "Architecture"), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("p", {
+    className: "t-read"
+  }, w.body), /*#__PURE__*/React.createElement("ul", {
+    className: "dash-list"
+  }, w.points.map((p, k) => /*#__PURE__*/React.createElement("li", {
+    key: k
+  }, p))), /*#__PURE__*/React.createElement("div", {
+    className: "case-stack"
+  }, w.stack.map(s => /*#__PURE__*/React.createElement(DSW.Tag, {
+    key: s,
+    outline: true
+  }, s))))), /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-next panel",
+    onClick: e => {
+      e.preventDefault();
+      go('Case', next.slug);
+    }
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "case-next__label"
+  }, "Next project"), /*#__PURE__*/React.createElement("span", {
+    className: "case-next__title"
+  }, next.title), /*#__PURE__*/React.createElement(DSW.Icon, {
+    name: "arrow-right",
+    size: 16,
+    className: "case-next__go"
+  })));
+}
+Object.assign(window, {
+  WorkScreen,
+  CaseScreen
+});
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/screens/work.jsx", error: String((e && e.message) || e) }); }
+
+// deploy/tweaks-panel.jsx
+try { (() => {
+// @ds-adherence-ignore -- omelette starter scaffold (raw elements/hex/px by design)
+// Copied omelette starter. Re-running copy_starter_component with this kind overwrites this file with the latest version (page content is unaffected).
+
+/* BEGIN USAGE */
+// tweaks-panel.jsx
+// Reusable Tweaks shell + form-control helpers.
+// Exports (to window): useTweaks, TweaksPanel, TweakSection, TweakRow, TweakSlider,
+//   TweakToggle, TweakRadio, TweakSelect, TweakText, TweakNumber, TweakColor, TweakButton.
+//
+// Owns the host protocol (listens for __activate_edit_mode / __deactivate_edit_mode,
+// posts __edit_mode_available / __edit_mode_set_keys / __edit_mode_dismissed) so
+// individual prototypes don't re-roll it. Ships a consistent set of controls so you
+// don't hand-draw <input type="range">, segmented radios, steppers, etc.
+//
+// Usage (in an HTML file that loads React + Babel):
+//
+//   const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+//     "primaryColor": "#D97757",
+//     "palette": ["#D97757", "#29261b", "#f6f4ef"],
+//     "fontSize": 16,
+//     "density": "regular",
+//     "dark": false
+//   }/*EDITMODE-END*/;
+//
+//   function App() {
+//     const [t, setTweak] = useTweaks(TWEAK_DEFAULTS);
+//     return (
+//       <div style={{ fontSize: t.fontSize, color: t.primaryColor }}>
+//         Hello
+//         <TweaksPanel>
+//           <TweakSection label="Typography" />
+//           <TweakSlider label="Font size" value={t.fontSize} min={10} max={32} unit="px"
+//                        onChange={(v) => setTweak('fontSize', v)} />
+//           <TweakRadio  label="Density" value={t.density}
+//                        options={['compact', 'regular', 'comfy']}
+//                        onChange={(v) => setTweak('density', v)} />
+//           <TweakSection label="Theme" />
+//           <TweakColor  label="Primary" value={t.primaryColor}
+//                        options={['#D97757', '#2A6FDB', '#1F8A5B', '#7A5AE0']}
+//                        onChange={(v) => setTweak('primaryColor', v)} />
+//           <TweakColor  label="Palette" value={t.palette}
+//                        options={[['#D97757', '#29261b', '#f6f4ef'],
+//                                  ['#475569', '#0f172a', '#f1f5f9']]}
+//                        onChange={(v) => setTweak('palette', v)} />
+//           <TweakToggle label="Dark mode" value={t.dark}
+//                        onChange={(v) => setTweak('dark', v)} />
+//         </TweaksPanel>
+//       </div>
+//     );
+//   }
+//
+// TweakRadio is the segmented control for 2–3 short options (auto-falls-back to
+// TweakSelect past ~16/~10 chars per label); reach for TweakSelect directly when
+// options are many or long. For color tweaks always curate 3-4 options rather than
+// a free picker; an option can also be a whole 2–5 color palette (the stored value
+// is the array). The Tweak* controls are a floor, not a ceiling — build custom
+// controls inside the panel if a tweak calls for UI they don't cover.
+/* END USAGE */
+// ─────────────────────────────────────────────────────────────────────────────
+
+const __TWEAKS_STYLE = `
+  .twk-panel{position:fixed;right:16px;bottom:16px;z-index:2147483646;width:280px;
+    max-height:calc(100vh - 32px);display:flex;flex-direction:column;
+    transform:scale(var(--dc-inv-zoom,1));transform-origin:bottom right;
+    background:rgba(250,249,247,.78);color:#29261b;
+    -webkit-backdrop-filter:blur(24px) saturate(160%);backdrop-filter:blur(24px) saturate(160%);
+    border:.5px solid rgba(255,255,255,.6);border-radius:14px;
+    box-shadow:0 1px 0 rgba(255,255,255,.5) inset,0 12px 40px rgba(0,0,0,.18);
+    font:11.5px/1.4 ui-sans-serif,system-ui,-apple-system,sans-serif;overflow:hidden}
+  .twk-hd{display:flex;align-items:center;justify-content:space-between;
+    padding:10px 8px 10px 14px;cursor:move;user-select:none}
+  .twk-hd b{font-size:12px;font-weight:600;letter-spacing:.01em}
+  .twk-x{appearance:none;border:0;background:transparent;color:rgba(41,38,27,.55);
+    width:22px;height:22px;border-radius:6px;cursor:default;font-size:13px;line-height:1}
+  .twk-x:hover{background:rgba(0,0,0,.06);color:#29261b}
+  .twk-body{padding:2px 14px 14px;display:flex;flex-direction:column;gap:10px;
+    overflow-y:auto;overflow-x:hidden;min-height:0;
+    scrollbar-width:thin;scrollbar-color:rgba(0,0,0,.15) transparent}
+  .twk-body::-webkit-scrollbar{width:8px}
+  .twk-body::-webkit-scrollbar-track{background:transparent;margin:2px}
+  .twk-body::-webkit-scrollbar-thumb{background:rgba(0,0,0,.15);border-radius:4px;
+    border:2px solid transparent;background-clip:content-box}
+  .twk-body::-webkit-scrollbar-thumb:hover{background:rgba(0,0,0,.25);
+    border:2px solid transparent;background-clip:content-box}
+  .twk-row{display:flex;flex-direction:column;gap:5px}
+  .twk-row-h{flex-direction:row;align-items:center;justify-content:space-between;gap:10px}
+  .twk-lbl{display:flex;justify-content:space-between;align-items:baseline;
+    color:rgba(41,38,27,.72)}
+  .twk-lbl>span:first-child{font-weight:500}
+  .twk-val{color:rgba(41,38,27,.5);font-variant-numeric:tabular-nums}
+
+  .twk-sect{font-size:10px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+    color:rgba(41,38,27,.45);padding:10px 0 0}
+  .twk-sect:first-child{padding-top:0}
+
+  .twk-field{appearance:none;box-sizing:border-box;width:100%;min-width:0;height:26px;padding:0 8px;
+    border:.5px solid rgba(0,0,0,.1);border-radius:7px;
+    background:rgba(255,255,255,.6);color:inherit;font:inherit;outline:none}
+  .twk-field:focus{border-color:rgba(0,0,0,.25);background:rgba(255,255,255,.85)}
+  select.twk-field{padding-right:22px;
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='rgba(0,0,0,.5)' d='M0 0h10L5 6z'/></svg>");
+    background-repeat:no-repeat;background-position:right 8px center}
+
+  .twk-slider{appearance:none;-webkit-appearance:none;width:100%;height:4px;margin:6px 0;
+    border-radius:999px;background:rgba(0,0,0,.12);outline:none}
+  .twk-slider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;
+    width:14px;height:14px;border-radius:50%;background:#fff;
+    border:.5px solid rgba(0,0,0,.12);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:default}
+  .twk-slider::-moz-range-thumb{width:14px;height:14px;border-radius:50%;
+    background:#fff;border:.5px solid rgba(0,0,0,.12);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:default}
+
+  .twk-seg{position:relative;display:flex;padding:2px;border-radius:8px;
+    background:rgba(0,0,0,.06);user-select:none}
+  .twk-seg-thumb{position:absolute;top:2px;bottom:2px;border-radius:6px;
+    background:rgba(255,255,255,.9);box-shadow:0 1px 2px rgba(0,0,0,.12);
+    transition:left .15s cubic-bezier(.3,.7,.4,1),width .15s}
+  .twk-seg.dragging .twk-seg-thumb{transition:none}
+  .twk-seg button{appearance:none;position:relative;z-index:1;flex:1;border:0;
+    background:transparent;color:inherit;font:inherit;font-weight:500;min-height:22px;
+    border-radius:6px;cursor:default;padding:4px 6px;line-height:1.2;
+    overflow-wrap:anywhere}
+
+  .twk-toggle{position:relative;width:32px;height:18px;border:0;border-radius:999px;
+    background:rgba(0,0,0,.15);transition:background .15s;cursor:default;padding:0}
+  .twk-toggle[data-on="1"]{background:#34c759}
+  .twk-toggle i{position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;
+    background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.25);transition:transform .15s}
+  .twk-toggle[data-on="1"] i{transform:translateX(14px)}
+
+  .twk-num{display:flex;align-items:center;box-sizing:border-box;min-width:0;height:26px;padding:0 0 0 8px;
+    border:.5px solid rgba(0,0,0,.1);border-radius:7px;background:rgba(255,255,255,.6)}
+  .twk-num-lbl{font-weight:500;color:rgba(41,38,27,.6);cursor:ew-resize;
+    user-select:none;padding-right:8px}
+  .twk-num input{flex:1;min-width:0;height:100%;border:0;background:transparent;
+    font:inherit;font-variant-numeric:tabular-nums;text-align:right;padding:0 8px 0 0;
+    outline:none;color:inherit;-moz-appearance:textfield}
+  .twk-num input::-webkit-inner-spin-button,.twk-num input::-webkit-outer-spin-button{
+    -webkit-appearance:none;margin:0}
+  .twk-num-unit{padding-right:8px;color:rgba(41,38,27,.45)}
+
+  .twk-btn{appearance:none;height:26px;padding:0 12px;border:0;border-radius:7px;
+    background:rgba(0,0,0,.78);color:#fff;font:inherit;font-weight:500;cursor:default}
+  .twk-btn:hover{background:rgba(0,0,0,.88)}
+  .twk-btn.secondary{background:rgba(0,0,0,.06);color:inherit}
+  .twk-btn.secondary:hover{background:rgba(0,0,0,.1)}
+
+  .twk-swatch{appearance:none;-webkit-appearance:none;width:56px;height:22px;
+    border:.5px solid rgba(0,0,0,.1);border-radius:6px;padding:0;cursor:default;
+    background:transparent;flex-shrink:0}
+  .twk-swatch::-webkit-color-swatch-wrapper{padding:0}
+  .twk-swatch::-webkit-color-swatch{border:0;border-radius:5.5px}
+  .twk-swatch::-moz-color-swatch{border:0;border-radius:5.5px}
+
+  .twk-chips{display:flex;gap:6px}
+  .twk-chip{position:relative;appearance:none;flex:1;min-width:0;height:46px;
+    padding:0;border:0;border-radius:6px;overflow:hidden;cursor:default;
+    box-shadow:0 0 0 .5px rgba(0,0,0,.12),0 1px 2px rgba(0,0,0,.06);
+    transition:transform .12s cubic-bezier(.3,.7,.4,1),box-shadow .12s}
+  .twk-chip:hover{transform:translateY(-1px);
+    box-shadow:0 0 0 .5px rgba(0,0,0,.18),0 4px 10px rgba(0,0,0,.12)}
+  .twk-chip[data-on="1"]{box-shadow:0 0 0 1.5px rgba(0,0,0,.85),
+    0 2px 6px rgba(0,0,0,.15)}
+  .twk-chip>span{position:absolute;top:0;bottom:0;right:0;width:34%;
+    display:flex;flex-direction:column;box-shadow:-1px 0 0 rgba(0,0,0,.1)}
+  .twk-chip>span>i{flex:1;box-shadow:0 -1px 0 rgba(0,0,0,.1)}
+  .twk-chip>span>i:first-child{box-shadow:none}
+  .twk-chip svg{position:absolute;top:6px;left:6px;width:13px;height:13px;
+    filter:drop-shadow(0 1px 1px rgba(0,0,0,.3))}
+`;
+
+// ── useTweaks ───────────────────────────────────────────────────────────────
+// Single source of truth for tweak values. setTweak persists via the host
+// (__edit_mode_set_keys → host rewrites the EDITMODE block on disk).
+function useTweaks(defaults) {
+  const [values, setValues] = React.useState(defaults);
+  // Accepts either setTweak('key', value) or setTweak({ key: value, ... }) so a
+  // useState-style call doesn't write a "[object Object]" key into the persisted
+  // JSON block.
+  const setTweak = React.useCallback((keyOrEdits, val) => {
+    const edits = typeof keyOrEdits === 'object' && keyOrEdits !== null ? keyOrEdits : {
+      [keyOrEdits]: val
+    };
+    setValues(prev => ({
+      ...prev,
+      ...edits
+    }));
+    window.parent.postMessage({
+      type: '__edit_mode_set_keys',
+      edits
+    }, '*');
+    // Same-window signal so in-page listeners (deck-stage rail thumbnails)
+    // can react — the parent message only reaches the host, not peers.
+    window.dispatchEvent(new CustomEvent('tweakchange', {
+      detail: edits
+    }));
+  }, []);
+  return [values, setTweak];
+}
+
+// ── TweaksPanel ─────────────────────────────────────────────────────────────
+// Floating shell. Registers the protocol listener BEFORE announcing
+// availability — if the announce ran first, the host's activate could land
+// before our handler exists and the toolbar toggle would silently no-op.
+// The close button posts __edit_mode_dismissed so the host's toolbar toggle
+// flips off in lockstep; the host echoes __deactivate_edit_mode back which
+// is what actually hides the panel.
+function TweaksPanel({
+  title = 'Tweaks',
+  children
+}) {
+  const [open, setOpen] = React.useState(false);
+  const dragRef = React.useRef(null);
+  const offsetRef = React.useRef({
+    x: 16,
+    y: 16
+  });
+  const PAD = 16;
+  const clampToViewport = React.useCallback(() => {
+    const panel = dragRef.current;
+    if (!panel) return;
+    const w = panel.offsetWidth,
+      h = panel.offsetHeight;
+    const maxRight = Math.max(PAD, window.innerWidth - w - PAD);
+    const maxBottom = Math.max(PAD, window.innerHeight - h - PAD);
+    offsetRef.current = {
+      x: Math.min(maxRight, Math.max(PAD, offsetRef.current.x)),
+      y: Math.min(maxBottom, Math.max(PAD, offsetRef.current.y))
+    };
+    panel.style.right = offsetRef.current.x + 'px';
+    panel.style.bottom = offsetRef.current.y + 'px';
+  }, []);
+  React.useEffect(() => {
+    if (!open) return;
+    clampToViewport();
+    if (typeof ResizeObserver === 'undefined') {
+      window.addEventListener('resize', clampToViewport);
+      return () => window.removeEventListener('resize', clampToViewport);
+    }
+    const ro = new ResizeObserver(clampToViewport);
+    ro.observe(document.documentElement);
+    return () => ro.disconnect();
+  }, [open, clampToViewport]);
+  React.useEffect(() => {
+    const onMsg = e => {
+      const t = e?.data?.type;
+      if (t === '__activate_edit_mode') setOpen(true);else if (t === '__deactivate_edit_mode') setOpen(false);
+    };
+    window.addEventListener('message', onMsg);
+    window.parent.postMessage({
+      type: '__edit_mode_available'
+    }, '*');
+    return () => window.removeEventListener('message', onMsg);
+  }, []);
+  const dismiss = () => {
+    setOpen(false);
+    window.parent.postMessage({
+      type: '__edit_mode_dismissed'
+    }, '*');
+  };
+  const onDragStart = e => {
+    const panel = dragRef.current;
+    if (!panel) return;
+    const r = panel.getBoundingClientRect();
+    const sx = e.clientX,
+      sy = e.clientY;
+    const startRight = window.innerWidth - r.right;
+    const startBottom = window.innerHeight - r.bottom;
+    const move = ev => {
+      offsetRef.current = {
+        x: startRight - (ev.clientX - sx),
+        y: startBottom - (ev.clientY - sy)
+      };
+      clampToViewport();
+    };
+    const up = () => {
+      window.removeEventListener('mousemove', move);
+      window.removeEventListener('mouseup', up);
+    };
+    window.addEventListener('mousemove', move);
+    window.addEventListener('mouseup', up);
+  };
+
+  // data-om-starter: inert presence marker — Claude Design's starter-usage
+  // probe reads it. The closed panel renders nothing, so the marker rides
+  // the <html> element as an attribute instead of a rendered node — zero
+  // elements added, so page CSS (even structural selectors like
+  // :nth-child) can never observe it. It records that the page WIRES a
+  // tweaks panel, whether or not the panel is open. Keep this effect.
+  React.useEffect(() => {
+    document.documentElement.setAttribute('data-om-starter', 'tweaks-panel');
+    return () => document.documentElement.removeAttribute('data-om-starter');
+  }, []);
+  if (!open) return null;
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("style", null, __TWEAKS_STYLE), /*#__PURE__*/React.createElement("div", {
+    ref: dragRef,
+    className: "twk-panel",
+    "data-omelette-chrome": "",
+    style: {
+      right: offsetRef.current.x,
+      bottom: offsetRef.current.y
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "twk-hd",
+    onMouseDown: onDragStart
+  }, /*#__PURE__*/React.createElement("b", null, title), /*#__PURE__*/React.createElement("button", {
+    className: "twk-x",
+    "aria-label": "Close tweaks",
+    onMouseDown: e => e.stopPropagation(),
+    onClick: dismiss
+  }, "\u2715")), /*#__PURE__*/React.createElement("div", {
+    className: "twk-body"
+  }, children)));
+}
+
+// ── Layout helpers ──────────────────────────────────────────────────────────
+
+function TweakSection({
+  label,
+  children
+}) {
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("div", {
+    className: "twk-sect"
+  }, label), children);
+}
+function TweakRow({
+  label,
+  value,
+  children,
+  inline = false
+}) {
+  return /*#__PURE__*/React.createElement("div", {
+    className: inline ? 'twk-row twk-row-h' : 'twk-row'
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "twk-lbl"
+  }, /*#__PURE__*/React.createElement("span", null, label), value != null && /*#__PURE__*/React.createElement("span", {
+    className: "twk-val"
+  }, value)), children);
+}
+
+// ── Controls ────────────────────────────────────────────────────────────────
+
+function TweakSlider({
+  label,
+  value,
+  min = 0,
+  max = 100,
+  step = 1,
+  unit = '',
+  onChange
+}) {
+  return /*#__PURE__*/React.createElement(TweakRow, {
+    label: label,
+    value: `${value}${unit}`
+  }, /*#__PURE__*/React.createElement("input", {
+    type: "range",
+    className: "twk-slider",
+    min: min,
+    max: max,
+    step: step,
+    value: value,
+    onChange: e => onChange(Number(e.target.value))
+  }));
+}
+function TweakToggle({
+  label,
+  value,
+  onChange
+}) {
+  return /*#__PURE__*/React.createElement("div", {
+    className: "twk-row twk-row-h"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "twk-lbl"
+  }, /*#__PURE__*/React.createElement("span", null, label)), /*#__PURE__*/React.createElement("button", {
+    type: "button",
+    className: "twk-toggle",
+    "data-on": value ? '1' : '0',
+    role: "switch",
+    "aria-checked": !!value,
+    onClick: () => onChange(!value)
+  }, /*#__PURE__*/React.createElement("i", null)));
+}
+function TweakRadio({
+  label,
+  value,
+  options,
+  onChange
+}) {
+  const trackRef = React.useRef(null);
+  const [dragging, setDragging] = React.useState(false);
+  // The active value is read by pointer-move handlers attached for the lifetime
+  // of a drag — ref it so a stale closure doesn't fire onChange for every move.
+  const valueRef = React.useRef(value);
+  valueRef.current = value;
+
+  // Segments wrap mid-word once per-segment width runs out. The track is
+  // ~248px (280 panel − 28 body pad − 4 seg pad), each button loses 12px
+  // to its own padding, and 11.5px system-ui averages ~6.3px/char — so 2
+  // options fit ~16 chars each, 3 fit ~10. Past that (or >3 options), fall
+  // back to a dropdown rather than wrap.
+  const labelLen = o => String(typeof o === 'object' ? o.label : o).length;
+  const maxLen = options.reduce((m, o) => Math.max(m, labelLen(o)), 0);
+  const fitsAsSegments = maxLen <= ({
+    2: 16,
+    3: 10
+  }[options.length] ?? 0);
+  if (!fitsAsSegments) {
+    // <select> emits strings — map back to the original option value so the
+    // fallback stays type-preserving (numbers, booleans) like the segment path.
+    const resolve = s => {
+      const m = options.find(o => String(typeof o === 'object' ? o.value : o) === s);
+      return m === undefined ? s : typeof m === 'object' ? m.value : m;
+    };
+    return /*#__PURE__*/React.createElement(TweakSelect, {
+      label: label,
+      value: value,
+      options: options,
+      onChange: s => onChange(resolve(s))
+    });
+  }
+  const opts = options.map(o => typeof o === 'object' ? o : {
+    value: o,
+    label: o
+  });
+  const idx = Math.max(0, opts.findIndex(o => o.value === value));
+  const n = opts.length;
+  const segAt = clientX => {
+    const r = trackRef.current.getBoundingClientRect();
+    const inner = r.width - 4;
+    const i = Math.floor((clientX - r.left - 2) / inner * n);
+    return opts[Math.max(0, Math.min(n - 1, i))].value;
+  };
+  const onPointerDown = e => {
+    setDragging(true);
+    const v0 = segAt(e.clientX);
+    if (v0 !== valueRef.current) onChange(v0);
+    const move = ev => {
+      if (!trackRef.current) return;
+      const v = segAt(ev.clientX);
+      if (v !== valueRef.current) onChange(v);
+    };
+    const up = () => {
+      setDragging(false);
+      window.removeEventListener('pointermove', move);
+      window.removeEventListener('pointerup', up);
+    };
+    window.addEventListener('pointermove', move);
+    window.addEventListener('pointerup', up);
+  };
+  return /*#__PURE__*/React.createElement(TweakRow, {
+    label: label
+  }, /*#__PURE__*/React.createElement("div", {
+    ref: trackRef,
+    role: "radiogroup",
+    onPointerDown: onPointerDown,
+    className: dragging ? 'twk-seg dragging' : 'twk-seg'
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "twk-seg-thumb",
+    style: {
+      left: `calc(2px + ${idx} * (100% - 4px) / ${n})`,
+      width: `calc((100% - 4px) / ${n})`
+    }
+  }), opts.map(o => /*#__PURE__*/React.createElement("button", {
+    key: o.value,
+    type: "button",
+    role: "radio",
+    "aria-checked": o.value === value
+  }, o.label))));
+}
+function TweakSelect({
+  label,
+  value,
+  options,
+  onChange
+}) {
+  return /*#__PURE__*/React.createElement(TweakRow, {
+    label: label
+  }, /*#__PURE__*/React.createElement("select", {
+    className: "twk-field",
+    value: value,
+    onChange: e => onChange(e.target.value)
+  }, options.map(o => {
+    const v = typeof o === 'object' ? o.value : o;
+    const l = typeof o === 'object' ? o.label : o;
+    return /*#__PURE__*/React.createElement("option", {
+      key: v,
+      value: v
+    }, l);
+  })));
+}
+function TweakText({
+  label,
+  value,
+  placeholder,
+  onChange
+}) {
+  return /*#__PURE__*/React.createElement(TweakRow, {
+    label: label
+  }, /*#__PURE__*/React.createElement("input", {
+    className: "twk-field",
+    type: "text",
+    value: value,
+    placeholder: placeholder,
+    onChange: e => onChange(e.target.value)
+  }));
+}
+function TweakNumber({
+  label,
+  value,
+  min,
+  max,
+  step = 1,
+  unit = '',
+  onChange
+}) {
+  const clamp = n => {
+    if (min != null && n < min) return min;
+    if (max != null && n > max) return max;
+    return n;
+  };
+  const startRef = React.useRef({
+    x: 0,
+    val: 0
+  });
+  const onScrubStart = e => {
+    e.preventDefault();
+    startRef.current = {
+      x: e.clientX,
+      val: value
+    };
+    const decimals = (String(step).split('.')[1] || '').length;
+    const move = ev => {
+      const dx = ev.clientX - startRef.current.x;
+      const raw = startRef.current.val + dx * step;
+      const snapped = Math.round(raw / step) * step;
+      onChange(clamp(Number(snapped.toFixed(decimals))));
+    };
+    const up = () => {
+      window.removeEventListener('pointermove', move);
+      window.removeEventListener('pointerup', up);
+    };
+    window.addEventListener('pointermove', move);
+    window.addEventListener('pointerup', up);
+  };
+  return /*#__PURE__*/React.createElement("div", {
+    className: "twk-num"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "twk-num-lbl",
+    onPointerDown: onScrubStart
+  }, label), /*#__PURE__*/React.createElement("input", {
+    type: "number",
+    value: value,
+    min: min,
+    max: max,
+    step: step,
+    onChange: e => onChange(clamp(Number(e.target.value)))
+  }), unit && /*#__PURE__*/React.createElement("span", {
+    className: "twk-num-unit"
+  }, unit));
+}
+
+// Relative-luminance contrast pick — checkmarks drawn over a swatch need to
+// read on both #111 and #fafafa without per-option configuration. Hex input
+// only (#rgb / #rrggbb); named or rgb()/hsl() colors fall through to "light".
+function __twkIsLight(hex) {
+  const h = String(hex).replace('#', '');
+  const x = h.length === 3 ? h.replace(/./g, c => c + c) : h.padEnd(6, '0');
+  const n = parseInt(x.slice(0, 6), 16);
+  if (Number.isNaN(n)) return true;
+  const r = n >> 16 & 255,
+    g = n >> 8 & 255,
+    b = n & 255;
+  return r * 299 + g * 587 + b * 114 > 148000;
+}
+const __TwkCheck = ({
+  light
+}) => /*#__PURE__*/React.createElement("svg", {
+  viewBox: "0 0 14 14",
+  "aria-hidden": "true"
+}, /*#__PURE__*/React.createElement("path", {
+  d: "M3 7.2 5.8 10 11 4.2",
+  fill: "none",
+  strokeWidth: "2.2",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  stroke: light ? 'rgba(0,0,0,.78)' : '#fff'
+}));
+
+// TweakColor — curated color/palette picker. Each option is either a single
+// hex string or an array of 1-5 hex strings; the card adapts — a lone color
+// renders solid, a palette renders colors[0] as the hero (left ~2/3) with the
+// rest stacked in a sharp column on the right. onChange emits the
+// option in the shape it was passed (string stays string, array stays array).
+// Without options it falls back to the native color input for back-compat.
+function TweakColor({
+  label,
+  value,
+  options,
+  onChange
+}) {
+  if (!options || !options.length) {
+    return /*#__PURE__*/React.createElement("div", {
+      className: "twk-row twk-row-h"
+    }, /*#__PURE__*/React.createElement("div", {
+      className: "twk-lbl"
+    }, /*#__PURE__*/React.createElement("span", null, label)), /*#__PURE__*/React.createElement("input", {
+      type: "color",
+      className: "twk-swatch",
+      value: value,
+      onChange: e => onChange(e.target.value)
+    }));
+  }
+  // Native <input type=color> emits lowercase hex per the HTML spec, so
+  // compare case-insensitively. String() guards JSON.stringify(undefined),
+  // which returns the primitive undefined (no .toLowerCase).
+  const key = o => String(JSON.stringify(o)).toLowerCase();
+  const cur = key(value);
+  return /*#__PURE__*/React.createElement(TweakRow, {
+    label: label
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "twk-chips",
+    role: "radiogroup"
+  }, options.map((o, i) => {
+    const colors = Array.isArray(o) ? o : [o];
+    const [hero, ...rest] = colors;
+    const sup = rest.slice(0, 4);
+    const on = key(o) === cur;
+    return /*#__PURE__*/React.createElement("button", {
+      key: i,
+      type: "button",
+      className: "twk-chip",
+      role: "radio",
+      "aria-checked": on,
+      "data-on": on ? '1' : '0',
+      "aria-label": colors.join(', '),
+      title: colors.join(' · '),
+      style: {
+        background: hero
+      },
+      onClick: () => onChange(o)
+    }, sup.length > 0 && /*#__PURE__*/React.createElement("span", null, sup.map((c, j) => /*#__PURE__*/React.createElement("i", {
+      key: j,
+      style: {
+        background: c
+      }
+    }))), on && /*#__PURE__*/React.createElement(__TwkCheck, {
+      light: __twkIsLight(hero)
+    }));
+  })));
+}
+function TweakButton({
+  label,
+  onClick,
+  secondary = false
+}) {
+  return /*#__PURE__*/React.createElement("button", {
+    type: "button",
+    className: secondary ? 'twk-btn secondary' : 'twk-btn',
+    onClick: onClick
+  }, label);
+}
+Object.assign(window, {
+  useTweaks,
+  TweaksPanel,
+  TweakSection,
+  TweakRow,
+  TweakSlider,
+  TweakToggle,
+  TweakRadio,
+  TweakSelect,
+  TweakText,
+  TweakNumber,
+  TweakColor,
+  TweakButton
+});
+})(); } catch (e) { __ds_ns.__errors.push({ path: "deploy/tweaks-panel.jsx", error: String((e && e.message) || e) }); }
 
 // source/layout.js
 try { (() => {
@@ -3549,91 +6557,100 @@ try { (() => {
 
 // ui_kits/portfolio/About.jsx
 try { (() => {
-function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
 const DSA = window.EshaanSharmaDesignSystem_4751b7;
 const ESA = window.ES_DATA;
-function AboutScreen({
-  go
-}) {
-  const I = ESA.identity,
-    A = ESA.aboutMe;
+
+// The recruiter page: summary, facts, résumé, experience, skills, education, certifications.
+function AboutScreen() {
+  const A = ESA.about;
+  const cred = c => /*#__PURE__*/React.createElement("div", {
+    className: "cred panel",
+    key: c.title
+  }, /*#__PURE__*/React.createElement("h3", null, c.title), /*#__PURE__*/React.createElement("time", null, c.year), /*#__PURE__*/React.createElement("p", null, c.issuer, c.note && /*#__PURE__*/React.createElement("span", {
+    className: "cred__note"
+  }, c.note)));
   return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
     className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "About"), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
-    style: {
-      '--i': 1,
-      maxWidth: '18ch'
-    }
-  }, A.title)), /*#__PURE__*/React.createElement("section", {
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "About")), /*#__PURE__*/React.createElement("section", {
     className: "page about-intro"
   }, /*#__PURE__*/React.createElement("div", {
     className: "emerge",
     style: {
-      '--i': 2
+      '--i': 1
     }
   }, /*#__PURE__*/React.createElement("div", {
-    className: "t-read"
+    className: "t-read about-read"
   }, A.intro.map((p, i) => /*#__PURE__*/React.createElement("p", {
-    key: i,
+    key: i
+  }, p)))), /*#__PURE__*/React.createElement("aside", {
+    className: "about-side emerge",
     style: {
-      marginBottom: '1em'
+      '--i': 2
     }
-  }, p))), /*#__PURE__*/React.createElement("dl", {
-    className: "about-facts"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Based in"), /*#__PURE__*/React.createElement("dd", null, I.location)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Time zone"), /*#__PURE__*/React.createElement("dd", null, "UTC+05:30, flexible")), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Focus"), /*#__PURE__*/React.createElement("dd", null, I.role)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Engagements"), /*#__PURE__*/React.createElement("dd", null, "Contract \xB7 full-time"))), /*#__PURE__*/React.createElement("div", {
-    style: {
-      display: 'flex',
-      gap: 8,
-      marginTop: 28,
-      flexWrap: 'wrap'
-    }
-  }, /*#__PURE__*/React.createElement(DSA.Button, {
+  }, /*#__PURE__*/React.createElement("dl", {
+    className: "facts panel"
+  }, A.facts.map(f => /*#__PURE__*/React.createElement("div", {
+    key: f.label
+  }, /*#__PURE__*/React.createElement("dt", null, f.label), /*#__PURE__*/React.createElement("dd", null, f.value)))), /*#__PURE__*/React.createElement(DSA.Button, {
     variant: "primary",
-    iconTrail: "arrow-right",
-    onClick: () => go('Contact')
-  }, "Get in touch"), /*#__PURE__*/React.createElement(DSA.Button, {
-    icon: "download"
-  }, "R\xE9sum\xE9"))), /*#__PURE__*/React.createElement("div", {
-    className: "portrait emerge",
-    style: {
-      '--i': 3
-    }
-  }, "Portrait \u2014 add an image")), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
+    icon: "download",
+    full: true
+  }, "R\xE9sum\xE9"))), /*#__PURE__*/React.createElement("section", {
+    className: "page section",
+    id: "experience"
   }, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
-    index: "01 \u2014 How I work",
-    title: "Three rules I keep"
+    title: "Experience"
   }), /*#__PURE__*/React.createElement("div", {
-    className: "principles"
-  }, A.principles.map((p, i) => /*#__PURE__*/React.createElement("div", {
-    className: "principle",
-    key: p.title
-  }, /*#__PURE__*/React.createElement("span", null, String(i + 1).padStart(2, '0')), /*#__PURE__*/React.createElement("h3", null, p.title), /*#__PURE__*/React.createElement("p", null, p.note))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
+    className: "xp"
+  }, A.experience.map(x => /*#__PURE__*/React.createElement("div", {
+    className: "xp__item panel",
+    key: x.title
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "xp__head"
+  }, /*#__PURE__*/React.createElement("h3", null, x.title), /*#__PURE__*/React.createElement("span", {
+    className: "xp__period"
+  }, x.period)), /*#__PURE__*/React.createElement("p", {
+    className: "xp__org"
+  }, x.org), /*#__PURE__*/React.createElement("ul", {
+    className: "dash-list"
+  }, x.points.map((p, k) => /*#__PURE__*/React.createElement("li", {
+    key: k
+  }, p))))))), /*#__PURE__*/React.createElement("section", {
+    className: "page section",
+    id: "skills"
   }, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
-    index: "02 \u2014 Outside work",
-    title: "Hobbies and interests"
+    title: "Skills"
   }), /*#__PURE__*/React.createElement("div", {
-    className: "lab-grid"
-  }, A.interests.map(l => /*#__PURE__*/React.createElement(DSA.LabTile, _extends({
-    key: l.title
-  }, l))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section two-col"
+    className: "skills"
+  }, ESA.skills.map(g => /*#__PURE__*/React.createElement("div", {
+    className: "skill panel",
+    key: g.group
+  }, /*#__PURE__*/React.createElement("h3", null, g.group), /*#__PURE__*/React.createElement("ul", null, g.items.map(s => /*#__PURE__*/React.createElement("li", {
+    key: s
+  }, /*#__PURE__*/React.createElement(DSA.Tag, null, s)))))))), /*#__PURE__*/React.createElement("section", {
+    className: "page section two-col",
+    id: "credentials"
   }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
-    index: "03 \u2014 So far",
-    title: "A short timeline"
-  })), /*#__PURE__*/React.createElement("div", {
-    className: "timeline"
-  }, A.timeline.map(t => /*#__PURE__*/React.createElement("div", {
-    className: "timeline__row",
-    key: t.year
-  }, /*#__PURE__*/React.createElement("time", null, t.year), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h4", null, t.title), /*#__PURE__*/React.createElement("p", null, t.note)))))));
+    title: "Education"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "creds"
+  }, A.education.map(cred))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSA.SectionHeader, {
+    title: "Certifications"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "creds"
+  }, A.certifications.map(cred)))));
 }
+window.AboutScreen = AboutScreen;
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/About.jsx", error: String((e && e.message) || e) }); }
+
+// ui_kits/portfolio/Contact.jsx
+try { (() => {
+const DSC = window.EshaanSharmaDesignSystem_4751b7;
+const ESC = window.ES_DATA;
 function ContactScreen() {
-  const I = ESA.identity;
+  const I = ESC.identity;
   const [sent, setSent] = React.useState(false);
   const [kind, setKind] = React.useState('Contract');
   const [now, setNow] = React.useState(() => new Date());
@@ -3664,6 +6681,18 @@ function ContactScreen() {
     href: I.github,
     ext: true
   }, {
+    icon: 'message',
+    label: 'Discord',
+    value: I.discord.handle,
+    href: I.discord.url,
+    ext: I.discord.url !== '#'
+  }, {
+    icon: 'youtube',
+    label: 'YouTube',
+    value: I.youtube.handle,
+    href: I.youtube.url,
+    ext: I.youtube.url !== '#'
+  }, {
     icon: 'download',
     label: 'Résumé',
     value: 'PDF',
@@ -3671,54 +6700,48 @@ function ContactScreen() {
   }];
   return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
     className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "Contact"), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
-    style: {
-      '--i': 1,
-      maxWidth: '16ch'
-    }
-  }, "Start a conversation."), /*#__PURE__*/React.createElement("p", {
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Connect"), /*#__PURE__*/React.createElement("p", {
     className: "t-lede emerge",
     style: {
-      '--i': 2
+      '--i': 1
     }
-  }, "Available for contract and full-time engagements. Tell me what you are building and what the latency budget is.")), /*#__PURE__*/React.createElement("section", {
+  }, "Email is the fastest way to reach me. ", I.availability, ".")), /*#__PURE__*/React.createElement("section", {
     className: "page contact-grid"
   }, /*#__PURE__*/React.createElement("div", {
     className: "emerge",
     style: {
-      '--i': 3
+      '--i': 2
     }
   }, /*#__PURE__*/React.createElement("div", {
-    className: "channels"
+    className: "channel-stack"
   }, channels.map(c => /*#__PURE__*/React.createElement("a", {
     key: c.label,
-    className: "channel",
+    className: "channel panel",
     href: c.href,
     target: c.ext ? '_blank' : undefined,
     rel: c.ext ? 'noreferrer' : undefined
   }, /*#__PURE__*/React.createElement("span", {
     className: "channel__icon"
-  }, /*#__PURE__*/React.createElement(DSA.Icon, {
+  }, /*#__PURE__*/React.createElement(DSC.Icon, {
     name: c.icon,
     size: 17
-  })), /*#__PURE__*/React.createElement("span", null, /*#__PURE__*/React.createElement("b", null, c.label), /*#__PURE__*/React.createElement("small", null, c.value)), /*#__PURE__*/React.createElement(DSA.Icon, {
+  })), /*#__PURE__*/React.createElement("span", {
+    className: "channel__text"
+  }, /*#__PURE__*/React.createElement("b", null, c.label), /*#__PURE__*/React.createElement("small", null, c.value)), /*#__PURE__*/React.createElement(DSC.Icon, {
     name: "arrow-up-right",
     size: 16,
     className: "channel__go"
-  })))), /*#__PURE__*/React.createElement("div", {
-    className: "availability"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("i", null), "Taking new work \xB7 replies within a day"), /*#__PURE__*/React.createElement("span", {
-    className: "t-label"
-  }, I.location, " \xB7 ", local, " IST \xB7 UTC+05:30"))), /*#__PURE__*/React.createElement("div", {
+  })))), /*#__PURE__*/React.createElement("p", {
+    className: "contact-meta"
+  }, I.location, " \xB7 ", local, " local time \xB7 ", I.timezone)), /*#__PURE__*/React.createElement("div", {
     className: "emerge",
     style: {
-      '--i': 4
+      '--i': 3
     }
   }, /*#__PURE__*/React.createElement("form", {
-    className: "contact",
+    className: "contact panel",
     "data-node": true,
     onSubmit: e => {
       e.preventDefault();
@@ -3726,42 +6749,42 @@ function ContactScreen() {
     }
   }, sent ? /*#__PURE__*/React.createElement("div", {
     className: "contact__sent"
-  }, /*#__PURE__*/React.createElement(DSA.Tag, {
+  }, /*#__PURE__*/React.createElement(DSC.Tag, {
     tone: "positive",
     dot: true
   }, "Sent"), /*#__PURE__*/React.createElement("p", {
     className: "t-h3"
-  }, "Thanks \u2014 I will reply within a day."), /*#__PURE__*/React.createElement(DSA.Button, {
+  }, "Thanks. I will reply within a day."), /*#__PURE__*/React.createElement(DSC.Button, {
     variant: "ghost",
     size: "sm",
     onClick: () => setSent(false)
   }, "Send another")) : /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("div", {
     className: "contact__row"
-  }, /*#__PURE__*/React.createElement(DSA.TextField, {
+  }, /*#__PURE__*/React.createElement(DSC.TextField, {
     label: "Name",
     placeholder: "Your name"
-  }), /*#__PURE__*/React.createElement(DSA.TextField, {
+  }), /*#__PURE__*/React.createElement(DSC.TextField, {
     label: "Email",
     type: "email",
     placeholder: "you@company.com"
-  })), /*#__PURE__*/React.createElement(DSA.TextField, {
+  })), /*#__PURE__*/React.createElement(DSC.TextField, {
     label: "Company",
     optional: true,
-    placeholder: "Desk, fund or team"
+    placeholder: "Firm, fund or team"
   }), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("span", {
     className: "field-label"
   }, "Engagement"), /*#__PURE__*/React.createElement("div", {
-    className: "contact__chips"
-  }, ['Contract', 'Full-time', 'Something else'].map(k => /*#__PURE__*/React.createElement(DSA.Chip, {
+    className: "chip-row"
+  }, ['Contract', 'Full-time', 'Other'].map(k => /*#__PURE__*/React.createElement(DSC.Chip, {
     key: k,
     selected: kind === k,
     onClick: () => setKind(k)
-  }, k)))), /*#__PURE__*/React.createElement(DSA.TextField, {
-    label: "What are you building?",
+  }, k)))), /*#__PURE__*/React.createElement(DSC.TextField, {
+    label: "Message",
     multiline: true,
     rows: 5,
-    placeholder: "Markets, latency budget, timeline\u2026"
-  }), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSA.Button, {
+    placeholder: "The role or project, and your timeline"
+  }), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSC.Button, {
     variant: "primary",
     type: "submit",
     iconTrail: "arrow-right"
@@ -3771,11 +6794,8 @@ function ContactScreen() {
     "aria-hidden": "true"
   })))));
 }
-Object.assign(window, {
-  AboutScreen,
-  ContactScreen
-});
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/About.jsx", error: String((e && e.message) || e) }); }
+window.ContactScreen = ContactScreen;
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Contact.jsx", error: String((e && e.message) || e) }); }
 
 // ui_kits/portfolio/Home.jsx
 try { (() => {
@@ -3785,25 +6805,25 @@ const ESH = window.ES_DATA;
 function HomeScreen({
   go
 }) {
-  const [lead, ...rest] = ESH.work;
+  const I = ESH.identity;
+  const find = s => ESH.work.find(w => w.slug === s);
+  const lead = find('rank-displacement'),
+    more = [find('strategy-builder'), find('option-chain')];
   return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("section", {
     className: "page hero"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "hero__status t-label emerge",
-    style: {
-      '--i': 0
-    }
-  }, /*#__PURE__*/React.createElement("i", null), ESH.hero.status), /*#__PURE__*/React.createElement("h1", {
-    className: "t-display hero__title emerge",
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-display emerge"
+  }, I.name), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede hero__lede emerge",
     style: {
       '--i': 1
     }
-  }, ESH.hero.title), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede hero__lede emerge",
+  }, ESH.hero.summary), /*#__PURE__*/React.createElement("p", {
+    className: "hero__facts emerge",
     style: {
       '--i': 2
     }
-  }, ESH.hero.lede), /*#__PURE__*/React.createElement("div", {
+  }, /*#__PURE__*/React.createElement("span", null, I.location), /*#__PURE__*/React.createElement("span", null, I.availability)), /*#__PURE__*/React.createElement("div", {
     className: "hero__actions emerge",
     style: {
       '--i': 3
@@ -3813,28 +6833,10 @@ function HomeScreen({
     size: "lg",
     iconTrail: "arrow-right",
     onClick: () => go('Work')
-  }, "See the work"), /*#__PURE__*/React.createElement(DSH.Button, {
-    size: "lg",
-    onClick: () => go('Contact')
-  }, "Get in touch")), /*#__PURE__*/React.createElement("div", {
-    className: "hero__hint t-label emerge",
-    style: {
-      '--i': 5
-    }
-  }, /*#__PURE__*/React.createElement("span", null, "Move slowly \u2014 the field notices"), /*#__PURE__*/React.createElement("span", null, /*#__PURE__*/React.createElement("kbd", null, "T"), " change state"))), /*#__PURE__*/React.createElement("section", {
+  }, "View work"))), /*#__PURE__*/React.createElement("section", {
     className: "page section"
   }, /*#__PURE__*/React.createElement(DSH.SectionHeader, {
-    index: "01 \u2014 Proof",
-    title: "Numbers from production"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "proof"
-  }, ESH.proof.map(m => /*#__PURE__*/React.createElement(DSH.Metric, _extends({
-    key: m.label
-  }, m))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement(DSH.SectionHeader, {
-    index: "02 \u2014 Selected work",
-    title: "Systems with real money behind them",
+    title: "Selected work",
     action: /*#__PURE__*/React.createElement(DSH.Button, {
       size: "sm",
       variant: "ghost",
@@ -3844,410 +6846,183 @@ function HomeScreen({
   }), /*#__PURE__*/React.createElement("div", {
     className: "stack-list"
   }, /*#__PURE__*/React.createElement(DSH.ProjectRow, _extends({}, lead, {
-    index: 1,
     weight: "lg",
     seed: lead.slug,
     onOpen: () => go('Case', lead.slug)
-  })), /*#__PURE__*/React.createElement("div", null, rest.slice(0, 3).map((w, i) => /*#__PURE__*/React.createElement(DSH.ProjectRow, _extends({
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "card-grid card-grid--2"
+  }, more.map(w => /*#__PURE__*/React.createElement(DSH.WorkCard, _extends({
     key: w.slug
   }, w, {
-    index: i + 2,
-    weight: "sm",
+    seed: w.slug,
     onOpen: () => go('Case', w.slug)
-  })))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement(DSH.SectionHeader, {
-    index: "03 \u2014 Products",
-    title: "Software with people using it",
-    action: /*#__PURE__*/React.createElement(DSH.Button, {
-      size: "sm",
-      variant: "ghost",
-      iconTrail: "arrow-right",
-      onClick: () => go('Products')
-    }, "All products")
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "product-grid"
-  }, ESH.products.slice(0, 2).map(p => /*#__PURE__*/React.createElement(DSH.ProductCard, _extends({
-    key: p.name
-  }, p, {
-    onOpen: () => go('Products')
-  }))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section two-col"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSH.SectionHeader, {
-    index: "04 \u2014 Writing",
-    title: "Notes on the work",
-    description: "Short pieces on system design, latency, and the small operational decisions that turn out to matter."
-  })), /*#__PURE__*/React.createElement("div", null, ESH.writing.slice(0, 3).map(n => /*#__PURE__*/React.createElement(DSH.EntryRow, _extends({
-    key: n.slug
-  }, n, {
-    onOpen: () => go('Article', n.slug)
-  }))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "band"
-  }, /*#__PURE__*/React.createElement("p", null, ESH.homeAbout), /*#__PURE__*/React.createElement("div", {
-    className: "band__actions"
-  }, /*#__PURE__*/React.createElement(DSH.Button, {
-    onClick: () => go('About')
-  }, "About me"), /*#__PURE__*/React.createElement(DSH.Button, {
-    variant: "primary",
-    iconTrail: "arrow-right",
-    onClick: () => go('Contact')
-  }, "Contact")))));
+  })))))));
 }
 window.HomeScreen = HomeScreen;
 })(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Home.jsx", error: String((e && e.message) || e) }); }
 
-// ui_kits/portfolio/Products.jsx
+// ui_kits/portfolio/Personal.jsx
 try { (() => {
 function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
-const DSP = window.EshaanSharmaDesignSystem_4751b7;
-const ESP = window.ES_DATA;
-function ProductsScreen() {
-  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
-    className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "Products \u2014 ", String(ESP.products.length).padStart(2, '0')), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
-    style: {
-      '--i': 1
-    }
-  }, "Software with people using it."), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede emerge",
-    style: {
-      '--i': 2
-    }
-  }, "Things I build, ship and keep running for my own users. Client systems live under Work.")), /*#__PURE__*/React.createElement("section", {
-    className: "page"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "product-list"
-  }, ESP.products.map((p, i) => /*#__PURE__*/React.createElement("div", {
-    key: p.name,
-    className: "emerge",
-    style: {
-      '--i': i
-    }
-  }, /*#__PURE__*/React.createElement(DSP.ProductCard, _extends({}, p, {
-    size: "lg"
-  })))))));
-}
-function CraftScreen() {
-  const C = ESP.craft;
-  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
-    className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "Craft"), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
-    style: {
-      '--i': 1
-    }
-  }, "What I work with, and how."), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede emerge",
-    style: {
-      '--i': 2
-    }
-  }, "Where I spend my time, what I have shipped with, what I am certified in, and the experiments that keep it sharp.")), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement(DSP.SectionHeader, {
-    index: "01 \u2014 Focus",
-    title: "Where I spend my time"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "focus"
-  }, C.focus.map((x, i) => /*#__PURE__*/React.createElement("div", {
-    className: "focus__item",
-    key: x.title
-  }, /*#__PURE__*/React.createElement("span", null, String(i + 1).padStart(2, '0')), /*#__PURE__*/React.createElement("h3", null, x.title), /*#__PURE__*/React.createElement("p", null, x.note))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement(DSP.SectionHeader, {
-    index: "02 \u2014 Capabilities",
-    title: "Shipped with, not watched a tutorial on"
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "caps"
-  }, ESP.skills.map(g => /*#__PURE__*/React.createElement("div", {
-    className: "caps__row",
-    key: g.group
-  }, /*#__PURE__*/React.createElement("h4", null, g.group), /*#__PURE__*/React.createElement("ul", null, g.items.map(s => /*#__PURE__*/React.createElement("li", {
-    key: s
-  }, /*#__PURE__*/React.createElement(DSP.Tag, null, s)))))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section two-col"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(DSP.SectionHeader, {
-    index: "03 \u2014 Credentials",
-    title: "Certifications and qualifications"
-  })), /*#__PURE__*/React.createElement("div", {
-    className: "timeline"
-  }, C.credentials.map((c, i) => /*#__PURE__*/React.createElement("div", {
-    className: "timeline__row",
-    key: i
-  }, /*#__PURE__*/React.createElement("time", null, c.year), /*#__PURE__*/React.createElement("div", {
-    className: "cred"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h4", null, c.title), /*#__PURE__*/React.createElement("p", null, c.issuer)), c.placeholder && /*#__PURE__*/React.createElement(DSP.Tag, {
-    outline: true
-  }, "placeholder")))))), /*#__PURE__*/React.createElement("section", {
-    className: "page section"
-  }, /*#__PURE__*/React.createElement(DSP.SectionHeader, {
-    index: "04 \u2014 Lab",
-    title: "Experiments",
-    description: "Things that aren\u2019t client work. Tiles take an image, or fall back to their own constellation."
-  }), /*#__PURE__*/React.createElement("div", {
-    className: "lab-grid"
-  }, C.experiments.map(l => /*#__PURE__*/React.createElement(DSP.LabTile, _extends({
-    key: l.title
-  }, l))))));
-}
-Object.assign(window, {
-  ProductsScreen,
-  CraftScreen
-});
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Products.jsx", error: String((e && e.message) || e) }); }
+const DSQ = window.EshaanSharmaDesignSystem_4751b7;
+const ESQ = window.ES_DATA;
 
-// ui_kits/portfolio/Work.jsx
-try { (() => {
-function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
-const DSW = window.EshaanSharmaDesignSystem_4751b7;
-const ESW = window.ES_DATA;
-
-// Every project gets its own place on the screen; its weight decides how much.
-function WorkScreen({
+// An introduction, then one card per interest; each opens its own mini page.
+function PersonalScreen({
   go
 }) {
-  const [f, setF] = React.useState('All');
-  const domains = ['All', 'Trading', 'Engineering', 'Tools'];
-  const opts = domains.map(d => ({
-    value: d,
-    label: d,
-    count: d === 'All' ? ESW.work.length : ESW.work.filter(w => w.domain === d).length
-  }));
-  const list = ESW.work.filter(w => f === 'All' || w.domain === f);
-  const major = list.filter(w => w.weight !== 'sm'),
-    minor = list.filter(w => w.weight === 'sm');
-  const num = w => ESW.work.indexOf(w) + 1;
+  const P = ESQ.personal;
   return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
     className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "Work \u2014 ", String(ESW.work.length).padStart(2, '0'), " projects"), /*#__PURE__*/React.createElement("div", {
-    className: "page-head__row"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Personal")), /*#__PURE__*/React.createElement("section", {
+    className: "page personal-intro"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "t-read about-read emerge",
     style: {
       '--i': 1
     }
-  }, "Things I have built and shipped."), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede emerge",
+  }, P.intro.map((p, i) => /*#__PURE__*/React.createElement("p", {
+    key: i
+  }, p))), /*#__PURE__*/React.createElement("div", {
+    className: "portrait emerge",
     style: {
       '--i': 2
     }
-  }, "Trading infrastructure, browser-automation tools and small analytics jobs. Most have been live in production with real money behind them.")), /*#__PURE__*/React.createElement("div", {
-    className: "emerge",
+  }, /*#__PURE__*/React.createElement("image-slot", {
+    id: "personal-portrait",
+    shape: "rounded",
+    radius: "16",
+    placeholder: "Image"
+  }))), /*#__PURE__*/React.createElement("section", {
+    className: "page section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Interests"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "doors"
+  }, P.interests.map((x, i) => /*#__PURE__*/React.createElement("a", {
+    key: x.id,
+    href: "#",
+    className: "door panel emerge",
     style: {
-      '--i': 3
+      '--i': i + 3
+    },
+    "data-node": true,
+    onClick: e => {
+      e.preventDefault();
+      go('Interest', x.id);
     }
-  }, /*#__PURE__*/React.createElement(DSW.SegmentedControl, {
-    options: opts,
-    value: f,
-    onChange: setF,
-    label: "Domain"
-  })))), /*#__PURE__*/React.createElement("section", {
-    className: "page",
-    key: f
   }, /*#__PURE__*/React.createElement("div", {
-    className: "stack-list"
-  }, major.map((w, i) => /*#__PURE__*/React.createElement("div", {
-    key: w.slug,
-    className: "emerge",
-    style: {
-      '--i': i
-    }
-  }, /*#__PURE__*/React.createElement(DSW.ProjectRow, _extends({}, w, {
-    index: num(w),
-    seed: w.slug,
-    flip: i % 2 === 1,
-    onOpen: () => go('Case', w.slug)
-  }))))), minor.length > 0 && /*#__PURE__*/React.createElement("div", {
-    className: "stack-more"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label"
-  }, major.length ? 'Smaller jobs' : 'Projects'), /*#__PURE__*/React.createElement("div", null, minor.map(w => /*#__PURE__*/React.createElement(DSW.ProjectRow, _extends({
-    key: w.slug
-  }, w, {
-    index: num(w),
-    onOpen: () => go('Case', w.slug)
-  })))))));
+    className: "door__media"
+  }, /*#__PURE__*/React.createElement(DSQ.Sigil, {
+    seed: x.id,
+    nodes: 7,
+    width: 320,
+    height: 180
+  })), /*#__PURE__*/React.createElement("div", {
+    className: "door__body"
+  }, /*#__PURE__*/React.createElement("h3", {
+    className: "door__title"
+  }, x.title), /*#__PURE__*/React.createElement("p", {
+    className: "door__note"
+  }, x.note), /*#__PURE__*/React.createElement("span", {
+    className: "door__cta"
+  }, "Explore ", x.title.split(',')[0].toLowerCase(), /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-right",
+    size: 15
+  }))), /*#__PURE__*/React.createElement("span", {
+    className: "node",
+    "data-node-dot": true,
+    "aria-hidden": "true"
+  }))))));
 }
-function CaseScreen({
+function InterestScreen({
   go,
   param
 }) {
-  const i = Math.max(0, ESW.work.findIndex(w => w.slug === param));
-  const w = ESW.work[i],
-    next = ESW.work[(i + 1) % ESW.work.length];
+  const all = ESQ.personal.interests;
+  const x = all.find(it => it.id === param) || all[0];
+  const notes = ESQ.writing.filter(n => n.interest === x.id);
   return /*#__PURE__*/React.createElement("article", {
-    className: "page",
-    style: {
-      paddingTop: 56
-    }
+    className: "page case"
   }, /*#__PURE__*/React.createElement("a", {
     href: "#",
     className: "case-back",
     onClick: e => {
       e.preventDefault();
-      go('Work');
+      go('Personal');
     }
-  }, /*#__PURE__*/React.createElement(DSW.Icon, {
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
     name: "arrow-left",
     size: 16
-  }), "All work"), /*#__PURE__*/React.createElement("div", {
-    className: "emerge",
-    style: {
-      display: 'flex',
-      gap: 10,
-      marginBottom: 20
-    }
-  }, /*#__PURE__*/React.createElement(DSW.Tag, {
-    tone: w.domain === 'Trading' ? 'accent' : 'neutral',
-    dot: true
-  }, w.domain), /*#__PURE__*/React.createElement(DSW.Tag, {
-    tone: w.status === 'Live' ? 'positive' : 'neutral'
-  }, w.status)), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
-    style: {
-      '--i': 1,
-      maxWidth: '20ch'
-    }
-  }, w.title), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede emerge",
-    style: {
-      '--i': 2,
-      marginTop: 20,
-      maxWidth: '56ch'
-    }
-  }, w.summary), /*#__PURE__*/React.createElement("dl", {
-    className: "case-meta emerge",
-    style: {
-      '--i': 3
-    }
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Year"), /*#__PURE__*/React.createElement("dd", null, w.year)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Role"), /*#__PURE__*/React.createElement("dd", null, w.role)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Domain"), /*#__PURE__*/React.createElement("dd", null, w.domain)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Stack"), /*#__PURE__*/React.createElement("dd", null, w.stack.slice(0, 4).join(', ')))), /*#__PURE__*/React.createElement("figure", {
-    className: "case-figure emerge",
-    style: {
-      '--i': 4
-    },
-    "data-node": true
-  }, /*#__PURE__*/React.createElement(DSW.Sigil, {
-    seed: w.slug,
-    nodes: 12,
-    width: 840,
-    height: 320
-  }), /*#__PURE__*/React.createElement("figcaption", {
-    className: "t-label"
-  }, "System sketch \u2014 replace with an architecture diagram or screenshot"), /*#__PURE__*/React.createElement("span", {
-    className: "node",
-    "data-node-dot": true,
-    "aria-hidden": "true"
-  })), w.metrics.length > 0 && /*#__PURE__*/React.createElement("div", {
-    className: "proof",
-    style: {
-      marginTop: 56,
-      gridTemplateColumns: `repeat(${w.metrics.length}, minmax(0,1fr))`
-    }
-  }, w.metrics.map(m => /*#__PURE__*/React.createElement(DSW.Metric, _extends({
-    key: m.label
-  }, m)))), /*#__PURE__*/React.createElement("div", {
-    className: "case-body"
-  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("span", {
-    className: "t-label"
-  }, "Architecture")), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("p", {
-    className: "t-read"
-  }, w.body), /*#__PURE__*/React.createElement("ol", {
-    className: "case-points"
-  }, w.points.map((p, k) => /*#__PURE__*/React.createElement("li", {
-    key: k
-  }, /*#__PURE__*/React.createElement("span", null, String(k + 1).padStart(2, '0')), p))), /*#__PURE__*/React.createElement("div", {
-    style: {
-      marginTop: 28,
-      display: 'flex',
-      gap: 6,
-      flexWrap: 'wrap'
-    }
-  }, w.stack.map(s => /*#__PURE__*/React.createElement(DSW.Tag, {
-    key: s,
-    outline: true
-  }, s))))), /*#__PURE__*/React.createElement("div", {
-    className: "case-next"
-  }, /*#__PURE__*/React.createElement(DSW.SectionHeader, {
-    index: "Next project",
-    title: ""
-  }), /*#__PURE__*/React.createElement(DSW.ProjectRow, _extends({}, next, {
-    weight: "md",
-    index: ESW.work.indexOf(next) + 1,
-    seed: next.slug,
-    onOpen: () => go('Case', next.slug)
-  }))));
-}
-Object.assign(window, {
-  WorkScreen,
-  CaseScreen
-});
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Work.jsx", error: String((e && e.message) || e) }); }
-
-// ui_kits/portfolio/Writing.jsx
-try { (() => {
-function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
-const DSR = window.EshaanSharmaDesignSystem_4751b7;
-const ESR = window.ES_DATA;
-function WritingScreen({
-  go
-}) {
-  const kinds = ['all', ...Array.from(new Set(ESR.writing.map(n => n.kind)))];
-  const [k, setK] = React.useState('all');
-  const list = ESR.writing.filter(n => k === 'all' || n.kind === k);
-  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
-    className: "page page-head"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "t-label emerge"
-  }, "Writing \u2014 ", String(ESR.writing.length).padStart(2, '0'), " notes"), /*#__PURE__*/React.createElement("h1", {
-    className: "t-h1 emerge",
+  }), "Personal"), /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, x.title), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede case-lede emerge",
     style: {
       '--i': 1
     }
-  }, "Writing on the work."), /*#__PURE__*/React.createElement("p", {
-    className: "t-lede emerge",
-    style: {
-      '--i': 2
-    }
-  }, "Short pieces on system design, latency, and the small operational decisions that turn out to matter."), /*#__PURE__*/React.createElement("div", {
-    className: "emerge",
-    style: {
-      '--i': 3,
-      display: 'flex',
-      gap: 8,
-      flexWrap: 'wrap',
-      marginTop: 32
-    }
-  }, kinds.map(x => /*#__PURE__*/React.createElement(DSR.Chip, {
-    key: x,
-    selected: k === x,
-    count: x === 'all' ? ESR.writing.length : ESR.writing.filter(n => n.kind === x).length,
-    onClick: () => setK(x)
-  }, x[0].toUpperCase() + x.slice(1))))), /*#__PURE__*/React.createElement("section", {
-    className: "page",
-    key: k
-  }, list.map((n, i) => /*#__PURE__*/React.createElement("div", {
-    key: n.slug,
-    className: "emerge",
-    style: {
-      '--i': i
-    }
-  }, /*#__PURE__*/React.createElement(DSR.EntryRow, _extends({}, n, {
+  }, x.note), /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Writing"
+  }), /*#__PURE__*/React.createElement("div", null, notes.map(n => /*#__PURE__*/React.createElement(DSQ.EntryRow, _extends({
+    key: n.slug
+  }, n, {
     onOpen: () => go('Article', n.slug)
-  }))))));
+  }))))), x.images && x.images.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "gallery interest-block"
+  }, x.images.map((src, k) => /*#__PURE__*/React.createElement("div", {
+    className: "gallery__cell",
+    key: k
+  }, /*#__PURE__*/React.createElement("img", {
+    src: src,
+    alt: ""
+  })))), x.projects && /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Projects"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "lab-grid lab-grid--2"
+  }, x.projects.map(l => /*#__PURE__*/React.createElement(DSQ.LabTile, _extends({
+    key: l.title
+  }, l))))), x.links && x.links.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "channels interest-block"
+  }, x.links.map((l, k) => /*#__PURE__*/React.createElement("a", {
+    key: k,
+    className: "channel panel",
+    href: l.href,
+    target: "_blank",
+    rel: "noreferrer"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "channel__icon"
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "globe",
+    size: 17
+  })), /*#__PURE__*/React.createElement("span", {
+    className: "channel__text"
+  }, /*#__PURE__*/React.createElement("b", null, l.label), l.note && /*#__PURE__*/React.createElement("small", null, l.note)), /*#__PURE__*/React.createElement(DSQ.Icon, {
+    name: "arrow-up-right",
+    size: 16,
+    className: "channel__go"
+  })))), /*#__PURE__*/React.createElement("section", {
+    className: "section"
+  }, /*#__PURE__*/React.createElement(DSQ.SectionHeader, {
+    title: "Other interests"
+  }), /*#__PURE__*/React.createElement("div", {
+    className: "chip-row"
+  }, all.filter(it => it.id !== x.id).map(it => /*#__PURE__*/React.createElement(DSQ.Chip, {
+    key: it.id,
+    onClick: () => go('Interest', it.id)
+  }, it.title)))));
 }
 function ArticleScreen({
   go,
   param
 }) {
-  const n = ESR.writing.find(x => x.slug === param) || ESR.writing[0];
+  const n = ESQ.writing.find(w => w.slug === param) || ESQ.writing[0];
+  const x = ESQ.personal.interests.find(it => it.id === n.interest);
   return /*#__PURE__*/React.createElement("article", {
     className: "page"
   }, /*#__PURE__*/React.createElement("div", {
@@ -4257,12 +7032,12 @@ function ArticleScreen({
     className: "case-back",
     onClick: e => {
       e.preventDefault();
-      go('Writing');
+      x ? go('Interest', x.id) : go('Personal');
     }
-  }, /*#__PURE__*/React.createElement(DSR.Icon, {
+  }, /*#__PURE__*/React.createElement(DSQ.Icon, {
     name: "arrow-left",
     size: 16
-  }), "Writing"), /*#__PURE__*/React.createElement("header", {
+  }), x ? x.title : 'Personal'), /*#__PURE__*/React.createElement("header", {
     className: "article__head"
   }, /*#__PURE__*/React.createElement("div", {
     className: "article__meta t-label emerge"
@@ -4282,55 +7057,219 @@ function ArticleScreen({
     style: {
       '--i': 3
     }
-  }, /*#__PURE__*/React.createElement("p", null, "Sample body \u2014 the article text lives in the CMS; this shows the reading typography. Long-form uses Newsreader at 20/34 on a 66-character measure, so a page of prose reads like a page, not a feed."), /*#__PURE__*/React.createElement("p", null, "Code and data drop into Martian Mono, set slightly condensed so tables and snippets hold their columns without shouting:"), /*#__PURE__*/React.createElement("pre", null, 'XADD ticks * sym NIFTY ltp 24812.35\nXREADGROUP GROUP engines rank COUNT 64 STREAMS ticks >'), /*#__PURE__*/React.createElement("blockquote", {
+  }, /*#__PURE__*/React.createElement("p", null, "Placeholder. The full article goes here."), !n.placeholder && /*#__PURE__*/React.createElement("pre", null, 'XADD ticks * sym NIFTY ltp 24812.35\nXREADGROUP GROUP engines rank COUNT 64 STREAMS ticks >'), !n.placeholder && /*#__PURE__*/React.createElement("blockquote", {
     className: "t-quote"
-  }, "A clever algorithm you can\u2019t audit is worse than a boring one you can."), /*#__PURE__*/React.createElement("p", null, "Inline links look like ", /*#__PURE__*/React.createElement("a", {
-    href: "#"
-  }, "this"), " \u2014 underlined, because in prose a link must be findable without hovering."))));
+  }, "A clever algorithm you can\u2019t audit is worse than a boring one you can."))));
 }
 Object.assign(window, {
-  WritingScreen,
+  PersonalScreen,
+  InterestScreen,
   ArticleScreen
 });
-})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Writing.jsx", error: String((e && e.message) || e) }); }
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Personal.jsx", error: String((e && e.message) || e) }); }
+
+// ui_kits/portfolio/Work.jsx
+try { (() => {
+function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
+const DSW = window.EshaanSharmaDesignSystem_4751b7;
+const ESW = window.ES_DATA;
+
+// Products or projects, one at a time. Each opens a case study.
+function WorkScreen({
+  go,
+  param
+}) {
+  const own = ESW.products.map(p => p.slug);
+  const projects = ESW.work.filter(w => !own.includes(w.slug));
+  const [view, setView] = React.useState(param === 'projects' ? 'Projects' : 'Products');
+  const opts = [{
+    value: 'Products',
+    label: 'Products',
+    count: ESW.products.length
+  }, {
+    value: 'Projects',
+    label: 'Projects',
+    count: projects.length
+  }];
+  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("header", {
+    className: "page page-head"
+  }, /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 emerge"
+  }, "Work"), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede emerge",
+    style: {
+      '--i': 1
+    }
+  }, "Products I build and maintain, and systems delivered as freelance work. Most run in production with real capital."), /*#__PURE__*/React.createElement("div", {
+    className: "work-toggle emerge",
+    style: {
+      '--i': 2
+    }
+  }, /*#__PURE__*/React.createElement(DSW.SegmentedControl, {
+    options: opts,
+    value: view,
+    onChange: setView,
+    label: "Show"
+  }))), /*#__PURE__*/React.createElement("section", {
+    className: "page work-view",
+    key: view
+  }, view === 'Products' ? /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("p", {
+    className: "work-view__desc emerge"
+  }, "Software I build, ship and keep running."), /*#__PURE__*/React.createElement("div", {
+    className: "product-list"
+  }, ESW.products.map((p, i) => /*#__PURE__*/React.createElement("div", {
+    key: p.slug,
+    className: "emerge",
+    style: {
+      '--i': i + 1
+    }
+  }, /*#__PURE__*/React.createElement(DSW.ProductCard, _extends({}, p, {
+    size: "lg",
+    onOpen: () => go('Case', p.slug)
+  })))))) : /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement("p", {
+    className: "work-view__desc emerge"
+  }, "Pipelines, scanners and analytics tools built for clients."), /*#__PURE__*/React.createElement("div", {
+    className: "card-grid card-grid--3"
+  }, projects.map((w, i) => /*#__PURE__*/React.createElement("div", {
+    key: w.slug,
+    className: "emerge",
+    style: {
+      '--i': i + 1
+    }
+  }, /*#__PURE__*/React.createElement(DSW.WorkCard, _extends({}, w, {
+    seed: w.slug,
+    onOpen: () => go('Case', w.slug)
+  }))))))));
+}
+function CaseScreen({
+  go,
+  param
+}) {
+  const i = Math.max(0, ESW.work.findIndex(w => w.slug === param));
+  const w = ESW.work[i],
+    next = ESW.work[(i + 1) % ESW.work.length];
+  return /*#__PURE__*/React.createElement("article", {
+    className: "page case"
+  }, /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-back",
+    onClick: e => {
+      e.preventDefault();
+      go('Work');
+    }
+  }, /*#__PURE__*/React.createElement(DSW.Icon, {
+    name: "arrow-left",
+    size: 16
+  }), "Work"), /*#__PURE__*/React.createElement("div", {
+    className: "case-tags emerge"
+  }, /*#__PURE__*/React.createElement(DSW.Tag, {
+    tone: w.domain === 'Trading' ? 'accent' : 'neutral',
+    dot: true
+  }, w.domain), /*#__PURE__*/React.createElement(DSW.Tag, {
+    tone: w.status === 'Live' ? 'positive' : 'neutral'
+  }, w.status)), /*#__PURE__*/React.createElement("h1", {
+    className: "t-h1 case-title emerge",
+    style: {
+      '--i': 1
+    }
+  }, w.title), /*#__PURE__*/React.createElement("p", {
+    className: "t-lede case-lede emerge",
+    style: {
+      '--i': 2
+    }
+  }, w.summary), /*#__PURE__*/React.createElement("dl", {
+    className: "case-meta panel emerge",
+    style: {
+      '--i': 3
+    }
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Year"), /*#__PURE__*/React.createElement("dd", null, w.year)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Role"), /*#__PURE__*/React.createElement("dd", null, w.role)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Domain"), /*#__PURE__*/React.createElement("dd", null, w.domain)), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("dt", null, "Stack"), /*#__PURE__*/React.createElement("dd", null, w.stack.slice(0, 4).join(', ')))), /*#__PURE__*/React.createElement("figure", {
+    className: "case-figure emerge",
+    style: {
+      '--i': 4
+    },
+    "data-node": true
+  }, /*#__PURE__*/React.createElement(DSW.Sigil, {
+    seed: w.slug,
+    nodes: 12,
+    width: 840,
+    height: 320
+  }), /*#__PURE__*/React.createElement("figcaption", {
+    className: "t-label"
+  }, "Placeholder: architecture diagram or screenshot"), /*#__PURE__*/React.createElement("span", {
+    className: "node",
+    "data-node-dot": true,
+    "aria-hidden": "true"
+  })), w.metrics.length > 0 && /*#__PURE__*/React.createElement("div", {
+    className: "case-metrics",
+    style: {
+      '--n': w.metrics.length
+    }
+  }, w.metrics.map(m => /*#__PURE__*/React.createElement(DSW.Metric, _extends({
+    key: m.label
+  }, m)))), /*#__PURE__*/React.createElement("div", {
+    className: "case-body"
+  }, /*#__PURE__*/React.createElement("h2", {
+    className: "case-h"
+  }, "Architecture"), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("p", {
+    className: "t-read"
+  }, w.body), /*#__PURE__*/React.createElement("ul", {
+    className: "dash-list"
+  }, w.points.map((p, k) => /*#__PURE__*/React.createElement("li", {
+    key: k
+  }, p))), /*#__PURE__*/React.createElement("div", {
+    className: "case-stack"
+  }, w.stack.map(s => /*#__PURE__*/React.createElement(DSW.Tag, {
+    key: s,
+    outline: true
+  }, s))))), /*#__PURE__*/React.createElement("a", {
+    href: "#",
+    className: "case-next panel",
+    onClick: e => {
+      e.preventDefault();
+      go('Case', next.slug);
+    }
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "case-next__label"
+  }, "Next project"), /*#__PURE__*/React.createElement("span", {
+    className: "case-next__title"
+  }, next.title), /*#__PURE__*/React.createElement(DSW.Icon, {
+    name: "arrow-right",
+    size: 16,
+    className: "case-next__go"
+  })));
+}
+Object.assign(window, {
+  WorkScreen,
+  CaseScreen
+});
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/Work.jsx", error: String((e && e.message) || e) }); }
 
 // ui_kits/portfolio/data.js
 try { (() => {
-// Content for the portfolio UI kit — facts from the source repo (Yokai-2510/website-portfolio data.js), restructured.
+// Content for the portfolio UI kit. Project facts come from the source repo (Yokai-2510/website-portfolio).
+// Anything marked "Placeholder" is waiting for real content.
 window.ES_DATA = {
   identity: {
     name: 'Eshaan Sharma',
-    role: 'Algorithmic trading & low-latency systems',
+    role: 'Algorithmic trading and low-latency systems developer',
     location: 'Gurgaon, India',
+    timezone: 'UTC+05:30',
     email: 'ethanarkham@gmail.com',
     github: 'https://github.com/Yokai-2510',
-    linkedin: 'https://linkedin.com/in/eshaansharma2510'
+    linkedin: 'https://linkedin.com/in/eshaansharma2510',
+    discord: {
+      handle: 'Placeholder handle',
+      url: '#'
+    },
+    youtube: {
+      handle: 'Placeholder channel',
+      url: '#'
+    },
+    availability: 'Open to contract and full-time roles'
   },
   hero: {
-    status: 'Available for contract work · 2026',
-    title: 'I build low-latency systems for real-time markets.',
-    lede: 'Freelance algorithmic-trading developer. Event-driven order pipelines, market-data infrastructure, and the deterministic state machines that sit between signal and execution.'
+    summary: 'Algorithmic trading and low-latency systems developer. I build production trading infrastructure: market-data pipelines, signal engines and deterministic order execution.'
   },
-  proof: [{
-    value: '<10',
-    unit: 'ms',
-    label: 'Internal hop latency, end to end',
-    note: 'rank-displacement'
-  }, {
-    value: '8',
-    label: 'Independent engines over Redis Streams',
-    note: 'rank-displacement'
-  }, {
-    value: '<5',
-    unit: 's',
-    label: 'To flatten every broker position',
-    note: 'kill switch'
-  }, {
-    value: '3',
-    unit: 'yrs',
-    label: 'Production trading infrastructure',
-    note: 'since 2023'
-  }],
   work: [{
     slug: 'rank-displacement',
     weight: 'lg',
@@ -4451,76 +7390,18 @@ window.ES_DATA = {
     metric: null,
     metrics: []
   }],
-  writing: [{
-    slug: 'single-writer',
-    title: 'Single-writer ownership in Redis',
-    kind: 'architecture',
-    date: '2026.03',
-    reading: '4 min',
-    excerpt: 'If two processes can write to the same key, you’ve already lost. The discipline I use to keep ownership obvious across an eight-engine system.'
-  }, {
-    slug: 'redis-streams',
-    title: 'Redis Streams as a transport, not a queue',
-    kind: 'architecture',
-    date: '2026.02',
-    reading: '6 min',
-    excerpt: 'Streams give you fan-out, replay, and consumer groups in one primitive. Stop reaching for Kafka by reflex.'
-  }, {
-    slug: 'ten-ms-budget',
-    title: 'Spending a 10ms latency budget',
-    kind: 'post-mortem',
-    date: '2025.11',
-    reading: '8 min',
-    excerpt: 'A line-by-line walk through where the milliseconds actually go between tick and order submit.'
-  }, {
-    slug: 'broker-ws',
-    title: 'Stop polling broker portfolios',
-    kind: 'field note',
-    date: '2025.09',
-    reading: '3 min',
-    excerpt: 'If the broker exposes a portfolio WebSocket, the polling loop in your code is just bandwidth waste.'
-  }, {
-    slug: 'deterministic-orders',
-    title: 'Why order execution should be a flowchart',
-    kind: 'architecture',
-    date: '2025.07',
-    reading: '5 min',
-    excerpt: 'Replayable, testable, debuggable. A clever algorithm you can’t audit is worse than a boring one you can.'
-  }],
-  lab: [{
-    title: 'The Field',
-    kind: 'experiment',
-    note: 'The canvas behind this site — one system, two media.',
-    seed: 'field'
-  }, {
-    title: 'Ink studies',
-    kind: 'experiment',
-    note: 'Sketches for the Ink medium: diffusion, filaments, logograms.',
-    seed: 'ink-studies'
-  }, {
-    title: 'Hobby',
-    kind: 'placeholder',
-    empty: 'Drop an image',
-    note: 'Space for interests outside the work.'
-  }, {
-    title: 'Interest',
-    kind: 'placeholder',
-    empty: 'Drop an image',
-    note: 'Reading, making, collecting — whatever belongs here.'
-  }],
-  // Products: the systems people use day to day. User counts are illustrative — replace with real ones.
+  // Products: software I build and maintain; each `slug` opens its case study under work. Add real user counts as users + usersLabel.
   products: [{
     name: 'Rank-Displacement Options System',
     tagline: 'Real-time options platform built around a 50ms leaderboard cycle across all Nifty 50 constituents.',
     status: 'Live',
-    users: '14',
-    usersLabel: 'trading desks',
     metric: {
       value: '50ms',
       label: 'leaderboard cycle'
     },
     since: '2025',
     platform: ['Desktop', 'AWS'],
+    slug: 'rank-displacement',
     seed: 'rank-displacement',
     description: 'Eight independent engines coordinating over Redis Streams, a deterministic order-execution flowchart, and a self-healing 24×7 lifecycle.',
     features: ['Eight engines, one transport', 'Single-writer state', 'Self-healing 24×7', 'Tauri desk app']
@@ -4528,14 +7409,13 @@ window.ES_DATA = {
     name: 'Strategy Builder',
     tagline: 'Build strategies, run them live, and backtest on demand — with bit-for-bit live/backtest parity.',
     status: 'In use',
-    users: '230+',
-    usersLabel: 'active users',
     metric: {
       value: '1:1',
       label: 'live / backtest parity'
     },
     since: '2024',
     platform: ['Web', 'API'],
+    slug: 'strategy-builder',
     seed: 'strategy-builder',
     description: 'A management API, a live trading engine and an on-demand backtester sharing one indicator library, so what you test is what runs.',
     features: ['Eleven shared indicators', 'Parallel evaluation', 'Mongo + Redis state']
@@ -4543,125 +7423,100 @@ window.ES_DATA = {
     name: 'Kill Switch for Kotak Neo',
     tagline: 'Desktop risk manager that flattens every broker position in under five seconds.',
     status: 'In use',
-    users: '1,100+',
-    usersLabel: 'installs',
     metric: {
       value: '<5s',
       label: 'to flat'
     },
     since: '2024',
     platform: ['Desktop'],
+    slug: 'kill-switch',
     seed: 'kill-switch',
     description: 'Traders compose click-step sequences for their broker portal without code; Gmail tripwires trigger the flatten. Ships as a single binary.',
     features: ['No-code sequences', 'Gmail tripwires', 'Single binary']
   }],
-  craft: {
-    focus: [{
-      title: 'Market-data ingestion',
-      note: 'WebSocket and Protobuf pipelines that keep only what matters in view.'
+  writing: [{
+    slug: 'single-writer',
+    interest: 'quant-dev',
+    title: 'Single-writer ownership in Redis',
+    kind: 'architecture',
+    date: '2026.03',
+    reading: '4 min',
+    excerpt: 'If two processes can write to the same key, you’ve already lost. The discipline I use to keep ownership obvious across an eight-engine system.'
+  }, {
+    slug: 'redis-streams',
+    interest: 'quant-dev',
+    title: 'Redis Streams as a transport, not a queue',
+    kind: 'architecture',
+    date: '2026.02',
+    reading: '6 min',
+    excerpt: 'Streams give you fan-out, replay, and consumer groups in one primitive. Stop reaching for Kafka by reflex.'
+  }, {
+    slug: 'ten-ms-budget',
+    interest: 'quant-dev',
+    title: 'Spending a 10ms latency budget',
+    kind: 'post-mortem',
+    date: '2025.11',
+    reading: '8 min',
+    excerpt: 'A line-by-line walk through where the milliseconds actually go between tick and order submit.'
+  }, {
+    slug: 'broker-ws',
+    interest: 'quant-dev',
+    title: 'Stop polling broker portfolios',
+    kind: 'field note',
+    date: '2025.09',
+    reading: '3 min',
+    excerpt: 'If the broker exposes a portfolio WebSocket, the polling loop in your code is just bandwidth waste.'
+  }, {
+    slug: 'deterministic-orders',
+    interest: 'quant-dev',
+    title: 'Why order execution should be a flowchart',
+    kind: 'architecture',
+    date: '2025.07',
+    reading: '5 min',
+    excerpt: 'Replayable, testable, debuggable. A clever algorithm you can’t audit is worse than a boring one you can.'
+  }],
+  about: {
+    intro: ['Freelance algorithmic trading and low-latency software developer with three years of experience building production trading infrastructure for independent operators and small prop desks, covering architecture, deployment and live operations.', 'Focus areas: market-data ingestion, signal computation, deterministic order routing and observability. I own systems end to end, from low-level networking to dashboards.'],
+    facts: [{
+      label: 'Based in',
+      value: 'Gurgaon, India'
     }, {
-      title: 'Signal computation',
-      note: 'Composite scanners and one indicator library shared by live and backtest.'
+      label: 'Time zone',
+      value: 'UTC+05:30, flexible'
     }, {
-      title: 'Deterministic order routing',
-      note: 'Order execution as an auditable flowchart: replayable, testable, boring.'
+      label: 'Experience',
+      value: '3 years, production trading systems'
     }, {
-      title: 'Observability',
-      note: 'Prometheus, Grafana and OpenTelemetry on systems that run 24×7.'
+      label: 'Open to',
+      value: 'Contract and full-time roles'
     }],
-    credentials: [{
+    experience: [{
+      period: '2023 – present',
+      title: 'Freelance algorithmic trading developer',
+      org: 'Independent operators and small prop desks',
+      points: ['Rank-displacement options platform: eight engines over Redis Streams, live 24×7 on AWS EC2 (2025).', 'Strategy builder with bit-for-bit live/backtest parity; Kotak Neo kill switch; Nifty 500 signal engine (2024).', 'Option-chain WebSocket pipeline with Protobuf decoding; NSE delivery analytics screener (2023).']
+    }],
+    education: [{
       year: '2022–25',
       title: 'Bachelor of Computer Applications (BCA)',
-      issuer: 'IGNOU · distance programme, completed while freelancing full-time on production trading systems'
-    }, {
+      issuer: 'IGNOU',
+      note: 'Distance programme, completed while freelancing full-time on production trading systems.'
+    }],
+    certifications: [{
       year: '2024',
       title: 'Google Cloud Computing Foundations',
       issuer: 'Google Cloud Skills Boost'
     }, {
       year: '2024',
       title: 'Problem Solving (Advanced)',
-      issuer: 'HackerRank · data structures and algorithms'
+      issuer: 'HackerRank',
+      note: 'Data structures and algorithms.'
     }, {
       year: '2023',
       title: 'Scientific Computing with Python',
       issuer: 'freeCodeCamp'
-    }],
-    experiments: [{
-      title: 'The Field',
-      kind: 'experiment',
-      note: 'The canvas behind this site — one system, two media.',
-      seed: 'field'
-    }, {
-      title: 'Ink studies',
-      kind: 'experiment',
-      note: 'Smoke and release: two ways for ink to answer.',
-      seed: 'ink-studies'
     }]
   },
-  aboutMe: {
-    title: 'Who I am, beyond the systems.',
-    intro: ['Freelance algorithmic trading and low-latency software developer. Three years of experience building production trading infrastructure for independent operators and small prop desks — architecture, deployment, and live operations.', 'Comfortable owning systems end to end, from low-level networking to dashboards.', 'Outside markets I explore everything — design, UI and UX, films, video games — and I believe it makes the engineering better. I am drawn to dystopias and cyberpunk, to Scandinavian culture, and to the mystique of the cosmos and the edges of what we can know. It shapes how I build: quiet on the surface, a great deal happening underneath.'],
-    principles: [{
-      title: 'One writer per piece of state.',
-      note: 'If two processes can write the same key, you have already lost. Ownership stays obvious.'
-    }, {
-      title: 'Boring and auditable beats clever.',
-      note: 'Replayable, testable, debuggable. I would rather ship a flowchart than a mystery.'
-    }, {
-      title: 'Own it end to end.',
-      note: 'Architecture, deployment and live operations — the pager included.'
-    }],
-    interests: [{
-      title: 'Design, UI & UX',
-      kind: 'exploring',
-      note: 'How things look, feel and behave — it makes the engineering better.',
-      seed: 'design'
-    }, {
-      title: 'Films & video games',
-      kind: 'exploring',
-      note: 'Dystopias and cyberpunk: worlds that ask what technology does to people.',
-      seed: 'cyberpunk'
-    }, {
-      title: 'The mystique',
-      kind: 'reading',
-      note: 'The cosmos, consciousness, and what we cannot yet measure.',
-      seed: 'mystique'
-    }, {
-      title: 'Scandinavian culture',
-      kind: 'interest',
-      note: 'Its myths, its restraint, its landscapes.',
-      seed: 'nordic'
-    }, {
-      title: 'Trekking',
-      kind: 'hobby',
-      note: 'Long walks up high, far from a screen.',
-      seed: 'trekking'
-    }, {
-      title: 'Cooking',
-      kind: 'hobby',
-      note: 'Another place where process and taste meet.',
-      seed: 'cooking'
-    }],
-    timeline: [{
-      year: '2023',
-      title: 'First production systems',
-      note: 'Option-chain WebSocket pipeline and an NSE delivery screener.'
-    }, {
-      year: '2024',
-      title: 'Platforms and tools',
-      note: 'Strategy builder with live/backtest parity, the Kotak Neo kill switch, the Nifty 500 signal engine.'
-    }, {
-      year: '2025',
-      title: 'Rank-displacement system',
-      note: 'Eight engines over Redis Streams, live 24×7.'
-    }, {
-      year: '2026',
-      title: 'Writing, and taking new work',
-      note: 'Available for contract and full-time engagements.'
-    }]
-  },
-  homeAbout: 'Based in Gurgaon, working anywhere. I own systems end to end — from low-level networking to dashboards.',
-  about: ['Freelance algorithmic trading and low-latency software developer. Three years of experience building production trading infrastructure for independent operators and small prop desks — architecture, deployment, and live operations.', 'Focus areas: market-data ingestion, signal computation, deterministic order routing, and observability. Comfortable owning systems end-to-end, from low-level networking to dashboards.', 'Available for contract and full-time engagements. Time-zone flexible.'],
   skills: [{
     group: 'Languages',
     items: ['Python', 'TypeScript', 'SQL', 'Rust (familiar)']
@@ -4680,9 +7535,1279 @@ window.ES_DATA = {
   }, {
     group: 'Frontend',
     items: ['React', 'Next.js', 'Tauri']
-  }]
+  }],
+  // Personal: an introduction, then one mini page per interest (writing, images, links, optional projects).
+  // Writing entries belong to an interest via `interest`. Add media per interest when you have it:
+  //   images: ['images/game-dev-1.jpg', ...]   links: [{ label: 'itch.io', href: 'https://…', note: 'Jam games' }]
+  personal: {
+    intro: ['Outside markets I explore everything: design, UI and UX, films, video games. I believe it makes the engineering better.', 'I am drawn to dystopias and cyberpunk, to Scandinavian culture, and to the mystique of the cosmos and the edges of what we can know. It shapes how I build: quiet on the surface, a great deal happening underneath.'],
+    interests: [{
+      id: 'quant-dev',
+      title: 'Quant dev',
+      note: 'Research and tooling outside client work: market structure, backtesting, latency.'
+    }, {
+      id: 'game-dev',
+      title: 'Game dev',
+      note: 'Placeholder. What you build, with which engine, and why.'
+    }, {
+      id: 'design',
+      title: 'Design, UI and UX',
+      note: 'How things look, feel and behave. It makes the engineering better.',
+      projects: [{
+        title: 'The Field',
+        kind: 'experiment',
+        note: 'The canvas behind this site: one system, two media.',
+        seed: 'field'
+      }, {
+        title: 'Ink studies',
+        kind: 'experiment',
+        note: 'Smoke and release: two ways for ink to answer.',
+        seed: 'ink-studies'
+      }]
+    }, {
+      id: 'media',
+      title: 'Media',
+      note: 'Dystopian and cyberpunk worlds across video games, films, anime and fiction: stories that ask what technology does to people.'
+    }, {
+      id: 'elder-scrolls',
+      title: 'The Elder Scrolls',
+      note: 'The fantasy world of Tamriel: its lore, histories, factions and unreliable narrators.'
+    }, {
+      id: 'music',
+      title: 'Music',
+      note: 'Placeholder. What you listen to, play or make.'
+    }]
+  }
 };
+
+// Placeholder until real writing exists: one note per interest that has none.
+(function (D) {
+  D.personal.interests.forEach(x => {
+    if (!D.writing.some(n => n.interest === x.id)) D.writing.push({
+      slug: x.id + '-note',
+      interest: x.id,
+      placeholder: true,
+      title: 'Placeholder note on ' + x.title.toLowerCase(),
+      kind: 'note',
+      date: '2026.—',
+      reading: '— min',
+      excerpt: 'Placeholder. Replace with a real piece of writing.'
+    });
+  });
+})(window.ES_DATA);
 })(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/data.js", error: String((e && e.message) || e) }); }
+
+// ui_kits/portfolio/image-slot.js
+try { (() => {
+// @ds-adherence-ignore -- omelette starter scaffold (raw elements/hex/px by design)
+// Copied omelette starter. Re-running copy_starter_component with this kind overwrites this file with the latest version (page content is unaffected).
+/* BEGIN USAGE */
+/**
+ * <image-slot> — user-fillable image placeholder.
+ *
+ * Drop this into a deck, mockup, or page wherever a design needs an image.
+ * You control the slot's shape; it sizes to its container by default. When the search_stock_photos tool
+ * is available, prefill the slot by default — write the photo's URL into
+ * src (with credit/credit-href); the user can still fill or replace it
+ * by dragging an image file onto it (or clicking to browse). The dropped
+ * image persists across reloads via a .image-slots.state.json sidecar —
+ * same read-via-fetch / write-via-window.omelette pattern as
+ * design_canvas.jsx, so the filled slot shows on share links, downloaded
+ * zips, and PPTX export. Outside the omelette runtime the slot is read-only.
+ *
+ * The sidecar is a SIBLING of the HTML file that uses this component: the
+ * read is a document-relative fetch, and the host resolves the bridge's
+ * sidecar writes into the previewed file's directory to match (same
+ * contract as design_canvas.jsx). Pages in the same directory share one
+ * sidecar; keep slot ids distinct across them.
+ *
+ * Attributes:
+ *   id           Persistence key. REQUIRED for the drop to survive reload —
+ *                every slot on the page needs a distinct id.
+ *   shape        'rect' | 'rounded' | 'circle' | 'pill'   (default 'rounded')
+ *                'circle' applies 50% border-radius; on a non-square slot
+ *                that's an ellipse — set equal width and height for a true
+ *                circle.
+ *   radius       Corner radius in px for 'rounded'.       (default 12)
+ *   mask         Any CSS clip-path value. Overrides `shape` — use this for
+ *                hexagons, blobs, arbitrary polygons.
+ *   fit          Initial framing baseline: cover | contain.   (default 'cover')
+ *                cover starts the image filling the frame (overflow cropped);
+ *                contain starts it fully visible (letterboxed). Either way the
+ *                user can always pan/scale from there — double-click, or the
+ *                Edit control, enters reframe mode (drag to move, scroll or
+ *                corner-handles to scale; Escape / click-out commits). The
+ *                crop persists alongside the image in the sidecar.
+ *   placeholder  Empty-state caption.                      (default 'Drop an image')
+ *   src          Optional initial/fallback image URL. Prefill it with a real
+ *                photo via search_stock_photos when that tool is available
+ *                (set credit/credit-href from the result). A user drop
+ *                overrides it; clearing the drop reveals src again.
+ *   credit       Attribution text shown as a small overlay at the
+ *                bottom-left of the filled slot. REQUIRED whenever src
+ *                points at any Unsplash host (images.unsplash.com,
+ *                plus.unsplash.com, …): an Unsplash src with no credit
+ *                renders an error tile INSTEAD of the photo (Unsplash
+ *                terms forbid showing their photos unattributed). Use the
+ *                exact form 'Photo by {photographer name} on Unsplash' —
+ *                the overlay then links the name to credit-href and
+ *                'Unsplash' to the Unsplash homepage, and links back to
+ *                unsplash.com automatically get the required utm referral
+ *                params appended at render time. The credit belongs to
+ *                the src image, so it only shows while src is what's
+ *                displayed — a user-dropped image hides it.
+ *   credit-href  Link for the photographer's name in the credit overlay
+ *                (their Unsplash profile URL from the stock-photo search
+ *                results). http(s) URLs only — anything else renders the
+ *                name as plain text.
+ *
+ * Sizing: the slot fills its container by default (width/height 100%).
+ * Put it in a sized wrapper — absolutely positioned, a grid cell, a fixed
+ * frame — and it takes exactly that box. When the parent's height is
+ * indefinite (ordinary flow), it falls back to full width at a 3:2 aspect
+ * ratio instead of collapsing. In a shrink-to-fit parent (a float,
+ * width:max-content, an unsized absolute wrapper), percentages have
+ * nothing to resolve against — size the slot or its wrapper explicitly
+ * there. For a fixed-size slot, set
+ * width/height on the element itself (inline style), which overrides the
+ * default. When
+ * layering content above a slot (full-bleed layouts), make the overlay
+ * click-through — pointer-events: none on scrims/text plates, re-enabled
+ * on interactive children — so the slot's hover controls stay reachable.
+ * Keep the slot's bottom-left corner visually clear as well: the credit
+ * overlay renders there, and a dark fade or text plate covering it hides
+ * the attribution Unsplash's terms require — end the fade above that
+ * corner, or keep it nearly transparent where the credit sits.
+ *
+ * Usage:
+ *   <div style="position:relative;width:100%;height:100%">      <!-- full-bleed: -->
+ *     <image-slot id="bg" shape="rect"></image-slot>            <!-- fills the wrapper -->
+ *   </div>
+ *   <image-slot id="hero"   style="width:800px;height:450px" shape="rounded" radius="20"
+ *               placeholder="Drop a hero image"></image-slot>
+ *   <image-slot id="avatar" style="width:120px;height:120px" shape="circle"></image-slot>
+ *   <image-slot id="kite"   style="width:300px;height:300px"
+ *               mask="polygon(50% 0, 100% 50%, 50% 100%, 0 50%)"></image-slot>
+ */
+/* END USAGE */
+
+(() => {
+  const STATE_FILE = '.image-slots.state.json';
+
+  // Unsplash terms require visible attribution wherever their photos
+  // display, and every link back to unsplash.com must carry utm referral
+  // params. Two render-time rules enforce that here:
+  //  - an Unsplash-src slot with NO credit attribute renders an error
+  //    tile INSTEAD of the photo (an uncredited Unsplash photo on screen
+  //    is itself the terms violation, so it never renders bare);
+  //  - rendered credit links pointing at unsplash.com get the referral
+  //    params appended when absent (credit-href values live in page
+  //    content that can't be edited after the fact).
+  // Keep the utm_source value in sync with UTM_SOURCE in
+  // platform/web-agent/unsplash.ts — this file is a project-local
+  // artifact and cannot import it (equality is pinned by tests).
+  const UNSPLASH_HOMEPAGE_HREF = 'https://unsplash.com/?utm_source=claude_design&utm_medium=referral';
+  // Host rule mirrors the hotlink validator that admits Unsplash srcs into
+  // pages in the first place (cdn$ in unsplash.ts: apex or any subdomain)
+  // — Unsplash+ results serve from plus.unsplash.com, not just images.*,
+  // and an admitted-but-uncredited photo must error whatever unsplash
+  // host it rides on.
+  // Trailing-dot FQDNs (images.unsplash.com.) are the same host to the
+  // browser but would miss the regex — strip one dot so the check fails
+  // CLOSED (unrecognized-but-real Unsplash srcs must error, not render).
+  const isUnsplashHost = u => {
+    try {
+      return /(^|\.)unsplash\.com$/.test(new URL(u, document.baseURI).hostname.replace(/\.$/, ''));
+    } catch {
+      return false;
+    }
+  };
+  // Render-time referral normalization for links back to Unsplash:
+  // appends utm_source/utm_medium when absent, preserves every existing
+  // query param, never overwrites an existing utm_source, and passes
+  // non-Unsplash URLs through untouched. Input is an ABSOLUTE validated
+  // http(s) URL (the credit render funnel resolves + validates first).
+  const withReferral = href => {
+    try {
+      const u = new URL(href);
+      if (!/(^|\.)unsplash\.com$/.test(u.hostname.replace(/\.$/, ''))) {
+        return href;
+      }
+      if (!u.searchParams.has('utm_source')) {
+        u.searchParams.set('utm_source', 'claude_design');
+      }
+      if (!u.searchParams.has('utm_medium')) {
+        u.searchParams.set('utm_medium', 'referral');
+      }
+      return u.toString();
+    } catch (e) {
+      return href;
+    }
+  };
+  // 2× a ~600px slot in a 1920-wide deck — retina-sharp without making the
+  // sidecar enormous. A 1200px WebP at q=0.85 is ~150-300KB.
+  const MAX_DIM = 1200;
+  // Raster formats only. SVG is excluded (can carry script; createImageBitmap
+  // on SVG blobs is inconsistent). GIF is excluded because the canvas
+  // re-encode keeps only the first frame, so an animated GIF would silently
+  // go still — better to reject than surprise.
+  const ACCEPT = ['image/png', 'image/jpeg', 'image/webp', 'image/avif'];
+
+  // ── Shared sidecar store ────────────────────────────────────────────────
+  // One fetch + immediate write-on-change for every <image-slot> on the
+  // page. Reads via fetch() so viewing works anywhere the HTML and sidecar
+  // are served together; writes go through window.omelette.writeFile, which
+  // the host allowlists to *.state.json basenames only.
+  const subs = new Set();
+  let slots = {};
+  // ids explicitly cleared before the sidecar fetch resolved — otherwise
+  // the merge below can't tell "never set" from "just deleted" and would
+  // resurrect the sidecar's stale value.
+  const tombstones = new Set();
+  let loaded = false;
+  let loadP = null;
+  function load() {
+    if (loadP) return loadP;
+    loadP = fetch(STATE_FILE).then(r => r.ok ? r.json() : null).then(j => {
+      // Merge: sidecar loses to any in-memory change that raced ahead of
+      // the fetch (drop or clear) so neither is clobbered by hydration.
+      if (j && typeof j === 'object') {
+        const merged = Object.assign({}, j, slots);
+        // A framing-only write that raced ahead of hydration must not
+        // drop a user image that's only on disk — inherit u from the
+        // sidecar for any in-memory entry that lacks one.
+        for (const k in slots) {
+          if (merged[k] && !merged[k].u && j[k]) {
+            merged[k].u = typeof j[k] === 'string' ? j[k] : j[k].u;
+          }
+        }
+        for (const id of tombstones) delete merged[id];
+        slots = merged;
+      }
+      tombstones.clear();
+    }).catch(() => {}).then(() => {
+      loaded = true;
+      subs.forEach(fn => fn());
+    });
+    return loadP;
+  }
+
+  // Serialize writes so two near-simultaneous drops on different slots
+  // can't reorder at the backend and leave the sidecar with only the
+  // first. A save requested mid-flight just marks dirty and re-fires on
+  // completion with the then-current slots.
+  let saving = false;
+  let saveDirty = false;
+  // Unload-time flush: save()'s serialization defers a mid-RTT re-fire to a
+  // .then that never runs in an unloading document, silently dropping a
+  // pagehide commit. Post the current slots immediately instead — content
+  // is a superset snapshot of any in-flight save's, the write is a
+  // whole-file last-writer-wins replace, and postMessage FIFO delivers it
+  // to the host after the in-flight one, so a backend-side reorder at
+  // worst reproduces the dropped-commit outcome this flush improves on.
+  // Guarded on the initial sidecar read: pre-hydration slots can miss
+  // other slots' persisted entries, and flushing it would clobber them —
+  // that narrow case stays best-effort (the in-memory merge in load()
+  // cannot happen in an unloading document anyway).
+  function flushNow() {
+    if (!loaded) return;
+    const w = window.omelette && window.omelette.writeFile;
+    if (!w) return;
+    try {
+      Promise.resolve(w(STATE_FILE, JSON.stringify(slots))).catch(() => {});
+    } catch (e) {}
+  }
+  function save() {
+    if (saving) {
+      saveDirty = true;
+      return;
+    }
+    const w = window.omelette && window.omelette.writeFile;
+    if (!w) return;
+    saving = true;
+    Promise.resolve(w(STATE_FILE, JSON.stringify(slots))).catch(() => {}).then(() => {
+      saving = false;
+      if (saveDirty) {
+        saveDirty = false;
+        save();
+      }
+    });
+  }
+  const S_MAX = 5;
+  const clampS = s => Math.max(1, Math.min(S_MAX, s));
+
+  // Normalize a stored slot value. Pre-reframe sidecars stored a bare
+  // data-URL string; newer ones store {u, s, x, y}. Either shape is valid.
+  function getSlot(id) {
+    const v = slots[id];
+    if (!v) return null;
+    return typeof v === 'string' ? {
+      u: v,
+      s: 1,
+      x: 0,
+      y: 0
+    } : v;
+  }
+  function setSlot(id, val) {
+    if (!id) return;
+    if (val) {
+      slots[id] = val;
+      tombstones.delete(id);
+    } else {
+      delete slots[id];
+      if (!loaded) tombstones.add(id);
+    }
+    subs.forEach(fn => fn());
+    // A drop is rare + high-value — write immediately so nav-away can't lose
+    // it. Gate on the initial read so we don't overwrite a sidecar we haven't
+    // merged yet; the merge in load() keeps this change once the read lands.
+    if (loaded) save();else load().then(save);
+  }
+
+  // ── Image downscale ─────────────────────────────────────────────────────
+  // Encode through a canvas so the sidecar carries resized bytes, not the
+  // raw upload. Longest side is capped at 2× the slot's rendered width
+  // (retina) and at MAX_DIM. WebP keeps alpha and is ~10× smaller than PNG
+  // for photos, so there's no need for per-image format picking.
+  async function toDataUrl(file, targetW) {
+    const bitmap = await createImageBitmap(file);
+    try {
+      const cap = Math.min(MAX_DIM, Math.max(1, Math.round(targetW * 2)) || MAX_DIM);
+      const scale = Math.min(1, cap / Math.max(bitmap.width, bitmap.height));
+      const w = Math.max(1, Math.round(bitmap.width * scale));
+      const h = Math.max(1, Math.round(bitmap.height * scale));
+      const canvas = document.createElement('canvas');
+      canvas.width = w;
+      canvas.height = h;
+      canvas.getContext('2d').drawImage(bitmap, 0, 0, w, h);
+      return canvas.toDataURL('image/webp', 0.85);
+    } finally {
+      bitmap.close && bitmap.close();
+    }
+  }
+
+  // ── Custom element ──────────────────────────────────────────────────────
+  const stylesheet =
+  // Fill the container by default: slots are usually placed inside a
+  // sized wrapper (a hero frame, a grid cell, an inset:0 layer) and are
+  // expected to take that box — a fixed intrinsic size would render as
+  // a small tile in the corner of a full-bleed wrapper instead.
+  // aspect-ratio is the companion fallback that keeps a bare slot
+  // visible when the parent's height is indefinite: height:100%
+  // resolves to auto there, and the ratio then derives height from
+  // width instead of letting the slot collapse to zero height.
+  // Explicit width/height on the element override all of this.
+  // color:inherit (not a fixed near-black): the placeholder chrome —
+  // empty-state icon/caption (currentColor) and the dashed ring — must
+  // read on dark decks too, and the slide's own text color is the one
+  // color guaranteed to contrast with the slide background. The soft
+  // look comes from opacity on those parts, not from a baked-in alpha.
+  ':host{display:block;position:relative;' + '  font:13px/1.3 system-ui,-apple-system,sans-serif;' + '  width:100%;height:100%;aspect-ratio:3/2}' + '.empty .cap,.empty .sub{opacity:.75}' + '.frame{position:absolute;inset:0;overflow:hidden;background:rgba(127,127,127,.08)}' +
+  // .frame img (clipped) and .spill (unclipped ghost + handles) share the
+  // same left/top/width/height in frame-%, computed by _applyView(), so the
+  // inside-mask crop and the outside-mask spill stay pixel-aligned.
+  '.frame img{position:absolute;max-width:none;transform:translate(-50%,-50%);' + '  -webkit-user-drag:none;user-select:none;touch-action:none}' +
+  // Reframe mode (double-click): the full image spills past the mask. The
+  // spill layer is sized to the IMAGE bounds so its corners are where the
+  // resize handles belong. The ghost <img> inside is translucent; the real
+  // clipped <img> underneath shows the opaque in-mask crop.
+  // popover=manual promotes the spill to the top layer on reframe, so it is
+  // not clipped by any overflow:hidden / clip-path / scroll-container
+  // ancestor (a plain z-index can't escape overflow clipping). UA popover
+  // defaults (inset:0;margin:auto) are reset; _applyView sets viewport px.
+  '.spill{position:fixed;margin:0;inset:auto;border:0;padding:0;background:transparent;' + '  overflow:visible;transform:translate(-50%,-50%);z-index:1;cursor:grab;touch-action:none}' + ':host([data-panning]) .spill{cursor:grabbing}' + '.spill .ghost{position:absolute;inset:0;width:100%;height:100%;opacity:.35;' + '  pointer-events:none;-webkit-user-drag:none;user-select:none;' + '  box-shadow:0 0 0 1px rgba(0,0,0,.2),0 12px 32px rgba(0,0,0,.2)}' + '.spill .handle{position:absolute;width:12px;height:12px;border-radius:50%;' + '  background:#fff;box-shadow:0 0 0 1.5px #c96442,0 1px 3px rgba(0,0,0,.3);' + '  transform:translate(-50%,-50%)}' + '.spill .handle[data-c=nw]{left:0;top:0;cursor:nwse-resize}' + '.spill .handle[data-c=ne]{left:100%;top:0;cursor:nesw-resize}' + '.spill .handle[data-c=sw]{left:0;top:100%;cursor:nesw-resize}' + '.spill .handle[data-c=se]{left:100%;top:100%;cursor:nwse-resize}' + ':host([data-reframe]){z-index:10}' + ':host([data-reframe]) .frame{box-shadow:0 0 0 2px #c96442}' + '.empty{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;' + '  justify-content:center;gap:6px;text-align:center;padding:12px;box-sizing:border-box;' + '  cursor:pointer;user-select:none}' + '.empty svg{opacity:.45}' + '.empty .cap{max-width:90%;font-weight:500;letter-spacing:.01em}' + '.empty .sub{font-size:11px}' + '.empty .sub u{text-underline-offset:2px}' + '.empty:hover .sub{opacity:1}' + ':host([data-over]) .frame{outline:2px solid #c96442;outline-offset:-2px;' + '  background:rgba(201,100,66,.10)}' + '.ring{position:absolute;inset:0;pointer-events:none;border:1.5px dashed currentColor;' + '  opacity:.35;transition:border-color .12s,opacity .12s}' + ':host([data-over]) .ring{border-color:#c96442;opacity:1}' + ':host([data-filled]) .ring{display:none}' +
+  // Controls overlay INSIDE the frame, pinned to the top-right corner, so
+  // a full-bleed slot in an overflow:hidden container still shows them
+  // (the old below-mask placement got clipped). Credit sits bottom-left,
+  // so top-right avoids collision. The blurred pill background keeps them
+  // legible over the image.
+  // The UA [popover] base rule styles the element in EVERY state (only
+  // display:none is gated on :not(:popover-open), and the display:flex
+  // below overrides that) — so the UA resets live HERE, like .spill's,
+  // or the ordinary hover-state strip renders as a bordered Canvas box
+  // centered by margin:auto. inset:auto precedes top/right (shorthand).
+  '.ctl{position:absolute;inset:auto;top:8px;right:8px;margin:0;border:0;padding:0;' + '  background:transparent;overflow:visible;' + '  display:flex;gap:6px;opacity:0;pointer-events:none;transition:opacity .12s;z-index:2;' + '  white-space:nowrap}' +
+  // While reframing, the spill owns the top layer and would swallow every
+  // click on the in-frame controls. Promoting .ctl into the top layer
+  // ABOVE the spill (shown after it — later popovers stack higher) keeps
+  // Edit-as-toggle and Replace clickable mid-reframe. _applyView pins it
+  // to the frame's top-right in viewport px (translateX(-100%)
+  // right-aligns against the computed left edge); inset:auto clears the
+  // base rule's top/right so the inline left/top position it alone.
+  '.ctl:popover-open{position:fixed;inset:auto;transform:translateX(-100%)}' + ':host([data-filled][data-editable]:hover) .ctl,:host([data-reframe]) .ctl' + '  {opacity:1;pointer-events:auto}' + '.ctl button{appearance:none;border:0;border-radius:6px;padding:5px 10px;cursor:pointer;' + '  background:rgba(0,0,0,.65);color:#fff;font:11px/1 system-ui,-apple-system,sans-serif;' + '  backdrop-filter:blur(6px)}' + '.ctl button:hover{background:rgba(0,0,0,.8)}' + '.err{position:absolute;left:8px;bottom:8px;right:8px;color:#b3261e;font-size:11px;' + '  background:rgba(255,255,255,.85);padding:4px 6px;border-radius:5px;pointer-events:none}' +
+  // Replacement in flight: after a src swap the browser keeps painting
+  // the PREVIOUS image until the new one decodes, so a Replace would
+  // flash the old photo and then pop. Hide the stale frame (visibility,
+  // not display — _applyView geometry still applies) and spin until the
+  // new image reports in (load/error clears data-swapping).
+  ':host([data-swapping]) .frame img{visibility:hidden}' + '.loading{position:absolute;inset:0;display:none;align-items:center;' + '  justify-content:center;pointer-events:none}' + ':host([data-swapping]) .loading{display:flex}' + '.loading::after{content:"";width:22px;height:22px;border-radius:50%;' + '  border:2px solid rgba(127,127,127,.25);border-top-color:currentColor;' + '  animation:om-slot-spin .7s linear infinite}' + '@keyframes om-slot-spin{to{transform:rotate(360deg)}}' +
+  // Reduced motion: the static two-tone ring still reads as "working".
+  '@media (prefers-reduced-motion:reduce){.loading::after{animation:none}}' + '.credit{position:absolute;left:6px;bottom:6px;max-width:calc(100% - 12px);display:none;' + '  padding:3px 7px;border-radius:5px;background:rgba(0,0,0,.55);color:#fff;' + '  font:10px/1.2 system-ui,-apple-system,sans-serif;text-decoration:none;' + '  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;backdrop-filter:blur(6px)}' +
+  // The credit is a SPAN holding one or two <a>s (Unsplash's prescribed
+  // form links the photographer AND Unsplash) — anchors style inline so
+  // the overlay reads as one line of text.
+  '.credit a{color:inherit;text-decoration:none}' + '.credit a:hover,.credit a:focus-visible{text-decoration:underline}' + ':host([data-filled][data-credit]) .credit{display:block}' +
+  // Exports must ship JUST the image — no hover controls, no credit chip
+  // (the host marks <html data-om-exporting> for the capture window; the
+  // page-level hide script can't reach shadow DOM, this rule can).
+  ':host-context([data-om-exporting]) .ctl,' + ':host-context([data-om-exporting]) .credit{display:none !important}' +
+  // Print must ship just the image too: the hover-gated controls can be
+  // mid-hover when print() fires, and the credit chip is screen chrome —
+  // the same rule the capture window gets, keyed on print media instead
+  // of the host's data-om-exporting mark (the print path sets no mark).
+  '@media print{.ctl,.credit{display:none !important}}' +
+  // No export-window mask rules here on purpose: the export capture
+  // releases the replacement mask by REMOVING data-swapping (the
+  // shadow-root pass in pages/export/shared.ts HIDE_EXPORT_CHROME_SCRIPT)
+  // — attribute removal works in every engine (:host-context is
+  // Chromium-only), is scoped by construction to slots actually
+  // mid-swap, and hides the spinner through the same gate. A masked img
+  // would otherwise be silently dropped from PPTX decks (the capture
+  // walk skips visibility:hidden imgs).
+  // Attribution error tile: REPLACES the photo when an Unsplash src has
+  // no credit attribute — rendering the photo uncredited is the terms
+  // violation, so the photo must not appear at all.
+  // Calm and neutral on purpose (review feedback): the tile informs the
+  // user; the fix instructions are machine-facing (usage docblock, tool
+  // description, and the turn-end scan's bounce copy name the attributes
+  // for the agent).
+  '.attr-error{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;' + '  justify-content:center;gap:6px;text-align:center;padding:12px;box-sizing:border-box;' + '  background:#f2f1ef;color:#6e6c66;user-select:none;' + '  font:13px/1.45 system-ui,-apple-system,sans-serif}' + '.attr-error svg{opacity:.55}' + '.attr-error .cap{max-width:92%;font-weight:500;letter-spacing:.01em}' + ':host([data-attribution-error]) .attr-error{display:flex}' + ':host([data-attribution-error]) .ring{display:none}';
+  const icon = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' + 'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + '<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>' + '<path d="m21 15-5-5L5 21"/></svg>';
+  const warnIcon = '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' + 'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">' + '<path d="m21.73 18-8-14a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/>' + '<path d="M12 9v4"/><path d="M12 17h.01"/></svg>';
+  class ImageSlot extends HTMLElement {
+    static get observedAttributes() {
+      return ['shape', 'radius', 'mask', 'fit', 'placeholder', 'src', 'id', 'credit', 'credit-href'];
+    }
+
+    /** Duplicate-slide hook (called by deck-stage, see its
+     *  _remintDuplicateIds): copy this id's stored image, if any, under a
+     *  freshly minted key and return that key — so a duplicated slide's
+     *  slot keeps its dropped photo instead of reverting to the
+     *  placeholder. 'isFree' is the caller's uniqueness check (document
+     *  ids); candidates must ALSO be unused in the sidecar, which can
+     *  hold keys from other pages sharing the project root. (An EMPTY
+     *  slot on another page leaves no sidecar entry, so its id is not
+     *  detectable here — a minted key can collide with it and that slot
+     *  would show this photo. Same blast radius as two pages reusing an
+     *  id by hand, which the shared sidecar already permits.) Returns null
+     *  when no id could be minted (caller strips the id, today's
+     *  behavior). */
+    static cloneSlot(fromId, isFree) {
+      if (typeof fromId !== 'string' || !fromId) return null;
+      // Pre-hydration the store can't veto candidates or source the copy
+      // — degrade to the strip (today's behavior) rather than mint
+      // against keys we can't see yet. Any rendered (= droppable) slot
+      // means load() has already settled.
+      if (!loaded) return null;
+      const stem = fromId.replace(/-\d+$/, '') || fromId;
+      for (let n = 2; n < 100; n++) {
+        const toId = stem + '-' + n;
+        if (toId === fromId) continue;
+        if (slots[toId] !== undefined) {
+          // Reuse a key holding this exact value (bytes AND crop) if no
+          // live element here owns it — a duplicate op the host refused
+          // after minting leaves such a key behind, and reusing keeps
+          // refused retries from accumulating one orphaned copy per
+          // attempt. Full equality (not just bytes) so a byte-identical
+          // key another PAGE owns with its own crop is stepped past, not
+          // adopted or rewritten. (Entries without .u never match.)
+          const prev = getSlot(toId);
+          const cur = getSlot(fromId);
+          if (!(prev && cur && prev.u && prev.u === cur.u && prev.s === cur.s && prev.x === cur.x && prev.y === cur.y && (typeof isFree !== 'function' || isFree(toId)))) continue;
+          return toId;
+        }
+        if (typeof isFree === 'function' && !isFree(toId)) continue;
+        const v = getSlot(fromId);
+        if (v) setSlot(toId, Object.assign({}, v));
+        return toId;
+      }
+      return null;
+    }
+    constructor() {
+      super();
+      // clonable: rail thumbnails deep-clone slides and carry this shadow
+      // along; reuse an already-cloned root so upgrade-after-clone works.
+      // (Deliberately NOT serializable — a getHTML consumer would embed
+      // multi-MB sidecar data-URLs into serialized page HTML.)
+      const root = this.shadowRoot || this.attachShadow({
+        mode: 'open',
+        clonable: true
+      });
+      // .spill and .ctl sit OUTSIDE .frame so overflow:hidden + border-radius
+      // on the frame (circle, pill, rounded) can't clip them.
+      root.innerHTML = '<style>' + stylesheet + '</style>' + '<div class="frame" part="frame">' + '  <img part="image" alt="" draggable="false" style="display:none">' + '  <div class="empty" part="empty">' + icon + '    <div class="cap"></div>' + '    <div class="sub">or <u>browse files</u></div></div>' + '  <div class="attr-error" part="attribution-error">' + warnIcon + '    <div class="cap">This photo needs attribution</div></div>' + '  <div class="loading" part="loading"></div>' + '  <div class="ring" part="ring"></div>' + '</div>' +
+      // Outside .frame, like .spill/.ctl — the frame's overflow:hidden +
+      // border-radius/clip-path would cut the credit off on circle/pill/mask.
+      // A SPAN, not an <a>: the prescribed Unsplash credit holds two links
+      // (photographer + Unsplash), built per-render in _render().
+      '<span class="credit" part="credit"></span>' + '<div class="spill" popover="manual" data-dc-edit-transparent>' + '  <img class="ghost" alt="" draggable="false">' + '  <div class="handle" data-c="nw"></div><div class="handle" data-c="ne"></div>' + '  <div class="handle" data-c="sw"></div><div class="handle" data-c="se"></div>' + '</div>' +
+      // data-dc-edit-transparent: the DC editor's edit-mode picker lets
+      // clicks through for chrome marked with it (EDIT_TRANSPARENT_SEL)
+      // — without it, Replace/Edit clicks in Edit mode are swallowed by
+      // element selection and the controls look dead.
+      '<div class="ctl" popover="manual" data-dc-edit-transparent><button data-act="replace" title="Replace image">Replace</button>' + '  <button data-act="edit" title="Reframe image">Edit</button></div>' + '<input type="file" accept="' + ACCEPT.join(',') + '" hidden>';
+      this._frame = root.querySelector('.frame');
+      this._ring = root.querySelector('.ring');
+      this._img = root.querySelector('.frame img');
+      this._empty = root.querySelector('.empty');
+      this._cap = root.querySelector('.cap');
+      this._sub = root.querySelector('.sub');
+      this._spill = root.querySelector('.spill');
+      this._ctl = root.querySelector('.ctl');
+      this._credit = root.querySelector('.credit');
+      this._attrError = root.querySelector('.attr-error');
+      // Credit clicks open the link, not browse/reframe.
+      this._credit.addEventListener('click', e => e.stopPropagation());
+      this._credit.addEventListener('dblclick', e => e.stopPropagation());
+      this._ghost = root.querySelector('.ghost');
+      this._err = null;
+      this._input = root.querySelector('input');
+      this._depth = 0;
+      this._gen = 0;
+      // Encode-in-flight marker (the owning _ingest generation): while set,
+      // the same-src "nothing in flight" clear in _render must not fire —
+      // the stored value still points at the OLD image until the encode
+      // lands, so that clear would unmask the stale image mid-replace.
+      this._swapGen = 0;
+      // Render-owned swap in flight: set when _render assigns a new src,
+      // cleared only by the img's own load/error (or the empty branch).
+      // img.complete CANNOT stand in for this — setting src only QUEUES
+      // the current-request swap (a microtask), so synchronously after an
+      // assignment, complete still reports the OLD settled request. The
+      // pick path does exactly that: the host sets src, credit, and
+      // credit-href back-to-back in one task, and renders #2/#3 would
+      // read the stale complete === true and drop the mask one render
+      // after it was set.
+      this._loadPending = false;
+      // See _render's empty branch: a transient attribution-error wipe of a
+      // showing image must make the follow-up render a replacement (spinner),
+      // not a first fill (blank frame).
+      this._hidShowing = false;
+      this._view = {
+        s: 1,
+        x: 0,
+        y: 0
+      };
+      this._subFn = () => this._render();
+      // Shadow-DOM listeners live with the shadow DOM — bound once here so
+      // disconnect/reconnect (e.g. React remount) doesn't stack handlers.
+      this._empty.addEventListener('click', () => this._input.click());
+      root.addEventListener('click', e => {
+        const act = e.target && e.target.getAttribute && e.target.getAttribute('data-act');
+        if (!act) return;
+        // The hidden controls are opacity-0 but still tabbable — without
+        // this gate a keyboard user could drive them on a read-only share
+        // link (mirrors the dblclick handler's editable gate).
+        if (!this.hasAttribute('data-editable')) return;
+        if (act === 'replace') {
+          this._exitReframe(true);
+          // Host-owned picker (Unsplash modal; it also offers local import).
+          this.dispatchEvent(new CustomEvent('image-slot:pick', {
+            bubbles: true,
+            composed: true,
+            detail: {
+              id: this.id || null
+            }
+          }));
+        }
+        if (act === 'edit') {
+          if (!this._reframes()) return;
+          if (this.hasAttribute('data-reframe')) this._exitReframe(true);else this._enterReframe();
+        }
+      });
+      this._input.addEventListener('change', () => {
+        const f = this._input.files && this._input.files[0];
+        if (f) this._ingest(f);
+        this._input.value = '';
+      });
+      // naturalWidth/Height aren't known until load — re-apply so the cover
+      // baseline is computed from real dimensions, not the 100%×100% fallback.
+      // load/error also release the replacement-in-flight mask (via the
+      // single discipline in _releaseMask): the swap is only revealed once
+      // the new image can actually paint (on error the frame shows its
+      // background, same as a fresh slot with a broken src).
+      this._img.addEventListener('load', () => {
+        this._loadPending = false;
+        this._releaseMask(true);
+        this._applyView();
+      });
+      this._img.addEventListener('error', () => {
+        this._loadPending = false;
+        this._releaseMask(true);
+      });
+      // Gated only on editable — any filled slot can be repositioned/scaled,
+      // regardless of fit. Share links (no writeFile) stay static.
+      this.addEventListener('dblclick', e => {
+        if (!this.hasAttribute('data-editable') || !this._reframes()) return;
+        e.preventDefault();
+        if (this.hasAttribute('data-reframe')) this._exitReframe(true);else this._enterReframe();
+      });
+      // Pan + resize both originate on the spill layer. A handle pointerdown
+      // drives an aspect-locked resize anchored at the opposite corner; any
+      // other pointerdown on the spill pans. Offsets are frame-% so a
+      // reframed slot survives responsive resize / PPTX export.
+      this._spill.addEventListener('pointerdown', e => {
+        if (e.button !== 0 || !this.hasAttribute('data-reframe')) return;
+        e.preventDefault();
+        e.stopPropagation();
+        this._spill.setPointerCapture(e.pointerId);
+        const rect = this.getBoundingClientRect();
+        const fw = rect.width || 1,
+          fh = rect.height || 1;
+        const corner = e.target.getAttribute && e.target.getAttribute('data-c');
+        let move;
+        if (corner) {
+          // Resize about the OPPOSITE corner. Viewport-px throughout (rect
+          // fw/fh, not clientWidth) so the math survives a transform:scale()
+          // ancestor — deck_stage renders slides scaled-to-fit.
+          const iw = this._img.naturalWidth || 1,
+            ih = this._img.naturalHeight || 1;
+          const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+          const base = contain ? Math.min(fw / iw, fh / ih) : Math.max(fw / iw, fh / ih);
+          const sx = corner.includes('e') ? 1 : -1;
+          const sy = corner.includes('s') ? 1 : -1;
+          const s0 = this._view.s;
+          const w0 = iw * base * s0,
+            h0 = ih * base * s0;
+          const cx0 = (50 + this._view.x) / 100 * fw;
+          const cy0 = (50 + this._view.y) / 100 * fh;
+          const ox = cx0 - sx * w0 / 2,
+            oy = cy0 - sy * h0 / 2;
+          const diag0 = Math.hypot(w0, h0);
+          const ux = sx * w0 / diag0,
+            uy = sy * h0 / diag0;
+          move = ev => {
+            const proj = (ev.clientX - rect.left - ox) * ux + (ev.clientY - rect.top - oy) * uy;
+            const s = clampS(s0 * proj / diag0);
+            const d = diag0 * s / s0;
+            this._view.s = s;
+            this._view.x = (ox + ux * d / 2) / fw * 100 - 50;
+            this._view.y = (oy + uy * d / 2) / fh * 100 - 50;
+            this._clampView();
+            this._applyView();
+          };
+        } else {
+          this.setAttribute('data-panning', '');
+          const start = {
+            px: e.clientX,
+            py: e.clientY,
+            x: this._view.x,
+            y: this._view.y
+          };
+          move = ev => {
+            this._view.x = start.x + (ev.clientX - start.px) / fw * 100;
+            this._view.y = start.y + (ev.clientY - start.py) / fh * 100;
+            this._clampView();
+            this._applyView();
+          };
+        }
+        const up = () => {
+          try {
+            this._spill.releasePointerCapture(e.pointerId);
+          } catch {}
+          this._spill.removeEventListener('pointermove', move);
+          this._spill.removeEventListener('pointerup', up);
+          this._spill.removeEventListener('pointercancel', up);
+          this.removeAttribute('data-panning');
+          this._dragUp = null;
+        };
+        // Stashed so _exitReframe (Escape / outside-click mid-drag) can
+        // tear the capture + listeners down synchronously.
+        this._dragUp = up;
+        this._spill.addEventListener('pointermove', move);
+        this._spill.addEventListener('pointerup', up);
+        this._spill.addEventListener('pointercancel', up);
+      });
+      // Wheel zoom stays available inside reframe mode as a trackpad nicety —
+      // zooms toward the cursor (offset' = cursor·(1-k) + offset·k).
+      this.addEventListener('wheel', e => {
+        if (!this.hasAttribute('data-reframe')) return;
+        e.preventDefault();
+        const r = this.getBoundingClientRect();
+        const cx = (e.clientX - r.left) / r.width * 100 - 50;
+        const cy = (e.clientY - r.top) / r.height * 100 - 50;
+        const prev = this._view.s;
+        const next = clampS(prev * Math.pow(1.0015, -e.deltaY));
+        if (next === prev) return;
+        const k = next / prev;
+        this._view.s = next;
+        this._view.x = cx * (1 - k) + this._view.x * k;
+        this._view.y = cy * (1 - k) + this._view.y * k;
+        this._clampView();
+        this._applyView();
+      }, {
+        passive: false
+      });
+    }
+    connectedCallback() {
+      // Warn once per page — an id-less slot works for the session but
+      // cannot persist, and two id-less slots would share nothing.
+      if (!this.id && !ImageSlot._warned) {
+        ImageSlot._warned = true;
+        console.warn('<image-slot> without an id will not persist its dropped image.');
+      }
+      this.addEventListener('dragenter', this);
+      this.addEventListener('dragover', this);
+      this.addEventListener('dragleave', this);
+      this.addEventListener('drop', this);
+      subs.add(this._subFn);
+      // The host may inject window.omelette.writeFile AFTER the first render;
+      // re-render on hover so the editable-gated controls reliably appear.
+      this.addEventListener('pointerenter', this._subFn);
+      // width%/height% in _applyView encode the frame aspect at call time —
+      // a host resize (responsive grid, pane divider) would stretch the
+      // image until the next _render. Re-render on size change: _render()
+      // re-seeds _view from stored before clamp/apply, so a shrink→grow
+      // cycle round-trips instead of ratcheting x/y toward the narrower
+      // frame's clamp range.
+      this._ro = new ResizeObserver(() => this._render());
+      this._ro.observe(this);
+      load();
+      this._render();
+    }
+    disconnectedCallback() {
+      subs.delete(this._subFn);
+      this.removeEventListener('pointerenter', this._subFn);
+      this.removeEventListener('dragenter', this);
+      this.removeEventListener('dragover', this);
+      this.removeEventListener('dragleave', this);
+      this.removeEventListener('drop', this);
+      if (this._ro) {
+        this._ro.disconnect();
+        this._ro = null;
+      }
+      // commit=false: a disconnect is not a user intent — committing here
+      // would persist whatever half-finished drag a React remount or DOM
+      // splice happened to interrupt. Deliberate exits commit on their own
+      // paths (Escape/click-out/toggle), and unloads commit via pagehide.
+      this._exitReframe(false);
+    }
+    _enterReframe() {
+      if (this.hasAttribute('data-reframe')) return;
+      this.setAttribute('data-reframe', '');
+      this._signalReframe(true);
+      // Best-effort commit when the document unloads mid-reframe (a host
+      // navigation racing the enter signal, a manual reload, tab close):
+      // the sidecar write rides the host bridge, which outlives this
+      // document, so the crop survives even though the mode dies with the
+      // DOM. Held on the instance so _exitReframe detaches exactly what
+      // was attached.
+      this._pagehide = () => {
+        this._exitReframe(true);
+        flushNow();
+      };
+      window.addEventListener('pagehide', this._pagehide);
+      // Promote spill to the top layer, then keep it pinned over the frame:
+      // scroll/resize cover the common cases, and a per-frame rect check
+      // catches layout shifts that fire neither (an image above finishing
+      // load, streamed DOM pushing the slot down, an ancestor transform
+      // change) so the overlay can't detach from the frame.
+      try {
+        this._spill.showPopover();
+      } catch {}
+      // After the spill, so the controls stack above it in the top layer.
+      try {
+        this._ctl.showPopover();
+      } catch {}
+      this._reposition = () => {
+        if (this.hasAttribute('data-reframe')) this._applyView();
+      };
+      window.addEventListener('scroll', this._reposition, true);
+      window.addEventListener('resize', this._reposition);
+      this._lastRect = '';
+      this._watch = () => {
+        if (!this.hasAttribute('data-reframe')) return;
+        const r = this.getBoundingClientRect();
+        const key = r.left + ',' + r.top + ',' + r.width + ',' + r.height;
+        if (key !== this._lastRect) {
+          this._lastRect = key;
+          this._applyView();
+        }
+        this._watchId = requestAnimationFrame(this._watch);
+      };
+      this._watchId = requestAnimationFrame(this._watch);
+      this._applyView();
+      // Close on click outside (the spill handler stopPropagation()s so
+      // in-image drags don't reach this) and on Escape. Listeners are held
+      // on the instance so _exitReframe / disconnectedCallback can detach
+      // exactly what was attached.
+      this._outside = e => {
+        if (e.composedPath && e.composedPath().includes(this)) return;
+        this._exitReframe(true);
+      };
+      this._esc = e => {
+        if (e.key === 'Escape') this._exitReframe(true);
+      };
+      document.addEventListener('pointerdown', this._outside, true);
+      document.addEventListener('keydown', this._esc, true);
+    }
+    _exitReframe(commit) {
+      if (!this.hasAttribute('data-reframe')) return;
+      if (this._dragUp) this._dragUp();
+      this.removeAttribute('data-reframe');
+      this.removeAttribute('data-panning');
+      if (this._outside) document.removeEventListener('pointerdown', this._outside, true);
+      if (this._esc) document.removeEventListener('keydown', this._esc, true);
+      this._outside = this._esc = null;
+      if (this._reposition) {
+        window.removeEventListener('scroll', this._reposition, true);
+        window.removeEventListener('resize', this._reposition);
+        this._reposition = null;
+      }
+      if (this._watchId) {
+        cancelAnimationFrame(this._watchId);
+        this._watchId = 0;
+      }
+      if (this._pagehide) {
+        window.removeEventListener('pagehide', this._pagehide);
+        this._pagehide = null;
+      }
+      try {
+        this._spill.hidePopover();
+      } catch {}
+      try {
+        this._ctl.hidePopover();
+      } catch {}
+      this._ctl.style.left = '';
+      this._ctl.style.top = '';
+      if (commit) this._commitView();
+      this._signalReframe(false);
+    }
+
+    // Reframe state lives only in this DOM until commit, invisible to the
+    // host's dirty signals — announce enter/exit so the host can hold
+    // auto-reloads for exactly the gesture (the guest bundle forwards
+    // image-slot:reframe to the host as imageSlotReframe). Dispatched on
+    // the element (composed, so it escapes shadow roots) while connected;
+    // a disconnected exit (disconnectedCallback) falls back to document so
+    // the host still hears it.
+    _signalReframe(active) {
+      const target = this.isConnected ? this : document;
+      target.dispatchEvent(new CustomEvent('image-slot:reframe', {
+        bubbles: true,
+        composed: true,
+        detail: {
+          active: active,
+          id: this.id || null
+        }
+      }));
+    }
+
+    // Public: host's "Import from computer" calls this to run local browse.
+    openFilePicker() {
+      this._exitReframe(true);
+      this._input.click();
+    }
+
+    // A src write is a newer intent for this slot's content — the host
+    // pick path (setImageSlotImage) or an agent edit — so it must win
+    // over any encode still in flight from an earlier drop: left live,
+    // that encode lands later, passes _ingest's gen guard, and its
+    // setSlot silently overwrites the pick (the stored value shadows
+    // src in _render). Bumping _gen kills the encode before its own
+    // _swapGen clear runs, so clear the dead claim here too — otherwise
+    // _releaseMask (gated on !_swapGen) never fires and the pick's
+    // spinner is stranded. src ONLY: the pick sets credit/credit-href
+    // in the same task, and clearing _swapGen on those would let the
+    // same-src branch unmask the old image mid-encode.
+    attributeChangedCallback(name, oldVal, newVal) {
+      if (name === 'src' && oldVal !== newVal) {
+        this._gen++;
+        this._swapGen = 0;
+      }
+      if (this.shadowRoot) this._render();
+    }
+
+    // handleEvent — one listener object for all four drag events keeps the
+    // add/remove symmetric and the depth counter correct.
+    handleEvent(e) {
+      if (e.type === 'dragenter' || e.type === 'dragover') {
+        // Without preventDefault the browser never fires 'drop'.
+        e.preventDefault();
+        e.stopPropagation();
+        if (e.dataTransfer) e.dataTransfer.dropEffect = 'copy';
+        if (e.type === 'dragenter') this._depth++;
+        this.setAttribute('data-over', '');
+      } else if (e.type === 'dragleave') {
+        // dragenter/leave fire for every descendant crossing — count depth
+        // so hovering the icon inside the empty state doesn't flicker.
+        if (--this._depth <= 0) {
+          this._depth = 0;
+          this.removeAttribute('data-over');
+        }
+      } else if (e.type === 'drop') {
+        e.preventDefault();
+        e.stopPropagation();
+        this._depth = 0;
+        this.removeAttribute('data-over');
+        const f = e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0];
+        if (f) this._ingest(f);
+      }
+    }
+    async _ingest(file) {
+      this._setError(null);
+      if (!file || ACCEPT.indexOf(file.type) < 0) {
+        this._setError('Drop a PNG, JPEG, WebP, or AVIF image.');
+        return;
+      }
+      // toDataUrl can take hundreds of ms on a large photo. A Clear or a
+      // newer drop during that window would be clobbered when this await
+      // resumes — bump + capture a generation so stale encodes bail.
+      const gen = ++this._gen;
+      // Replacing a shown image: surface the swap through the encode too,
+      // not just the decode — otherwise the old photo sits there with no
+      // feedback while the canvas re-encode runs. An empty slot keeps its
+      // placeholder (no spinner) until the encode lands, as before.
+      // _swapGen guards the mask against re-renders DURING the encode
+      // (pointerenter, ResizeObserver, another slot's store write): the
+      // stored value still resolves to the old image there, so _render's
+      // same-src clear would otherwise unmask it mid-replace.
+      if (this.hasAttribute('data-filled')) {
+        this.setAttribute('data-swapping', '');
+        this._swapGen = gen;
+      }
+      try {
+        const w = this.clientWidth || this.offsetWidth || MAX_DIM;
+        const url = await toDataUrl(file, w);
+        if (gen !== this._gen) return;
+        // Only exit reframe once the new image is in hand — a rejected type
+        // or decode failure leaves the in-progress crop untouched.
+        this._exitReframe(false);
+        // Clear BEFORE setSlot: its synchronous re-render must see no
+        // pending encode, so a byte-identical re-upload (same data URL, no
+        // load event coming) still clears the mask via the complete branch.
+        this._swapGen = 0;
+        const val = {
+          u: url,
+          s: 1,
+          x: 0,
+          y: 0
+        };
+        setSlot(this.id || '', val);
+        // Keep a session-local copy for id-less slots so the drop still
+        // shows, even though it cannot persist.
+        if (!this.id) {
+          this._local = val;
+          this._render();
+        }
+      } catch (err) {
+        if (gen !== this._gen) return;
+        this._swapGen = 0;
+        // Reveal the kept old image — unless another replacement (a
+        // remote pick's src swap) is still in flight, in which case the
+        // mask stays until THAT image settles (its load/error releases).
+        this._releaseMask();
+        this._setError('Could not read that image.');
+        console.warn('<image-slot> ingest failed:', err);
+      }
+    }
+    _setError(msg) {
+      if (this._err) {
+        this._err.remove();
+        this._err = null;
+      }
+      if (!msg) return;
+      const d = document.createElement('div');
+      d.className = 'err';
+      d.textContent = msg;
+      this.shadowRoot.appendChild(d);
+      this._err = d;
+      setTimeout(() => {
+        if (this._err === d) {
+          d.remove();
+          this._err = null;
+        }
+      }, 3000);
+    }
+
+    // Reframing (pan/resize) is available on any filled slot — the user can
+    // always reposition/scale. `fit` only sets the initial baseline (see
+    // _geom): contain starts fully-visible, cover starts frame-filling.
+    _reframes() {
+      return this.hasAttribute('data-filled');
+    }
+
+    // The single release discipline for the replacement-in-flight mask
+    // (data-swapping). The mask comes off only when BOTH hold:
+    //  - no encode is pending (_swapGen) — mid-encode the stored value
+    //    still resolves to the old image, so any reveal paints it;
+    //  - the frame img has settled on its current src — an unsettled src
+    //    means some replacement is still in flight (e.g. a remote pick),
+    //    whoever started it, and revealing would paint the previous
+    //    frame. The load/error listeners pass settled=true (the event IS
+    //    the settlement signal, per spec complete is true by then);
+    //    other callers rely on the complete flag (covers loaded AND
+    //    failed).
+    // Every release path funnels through here EXCEPT _render's empty
+    // branch (the img is being cleared — nothing will ever settle).
+    _releaseMask(settled) {
+      if (!this._swapGen && !this._loadPending && (settled || this._img.complete)) {
+        this.removeAttribute('data-swapping');
+      }
+    }
+
+    // Baseline geometry, shared by clamp/apply/resize. `base` is the scale at
+    // view-scale s=1: cover = fill the frame (overflow on the looser axis),
+    // contain = fit fully inside (letterboxed). Zooming a contain image past
+    // s where it overflows naturally becomes a crop. Null until the img has
+    // loaded (naturalWidth is 0 before that) or when the slot has no layout
+    // box — ResizeObserver fires with a 0×0 rect under display:none, and
+    // clamping against a degenerate 1×1 frame would silently pull the stored
+    // pan toward zero.
+    _geom() {
+      const iw = this._img.naturalWidth,
+        ih = this._img.naturalHeight;
+      const fw = this.clientWidth,
+        fh = this.clientHeight;
+      if (!iw || !ih || !fw || !fh) return null;
+      const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+      const base = contain ? Math.min(fw / iw, fh / ih) : Math.max(fw / iw, fh / ih);
+      return {
+        iw,
+        ih,
+        fw,
+        fh,
+        base
+      };
+    }
+    _clampView() {
+      // Pan range on each axis is half the overflow past the frame edge.
+      const g = this._geom();
+      if (!g) return;
+      const mx = Math.max(0, (g.iw * g.base * this._view.s / g.fw - 1) * 50);
+      const my = Math.max(0, (g.ih * g.base * this._view.s / g.fh - 1) * 50);
+      this._view.x = Math.max(-mx, Math.min(mx, this._view.x));
+      this._view.y = Math.max(-my, Math.min(my, this._view.y));
+    }
+    _applyView() {
+      const g = this._geom();
+      // Top-layer controls: pin to the frame's top-right in viewport px
+      // (the same 8px inset as the in-frame layout; unscaled — top-layer UI
+      // reads as chrome, not page content). BEFORE the geometry branch:
+      // placement needs only the frame rect, and a not-yet-loaded or broken
+      // src must not leave the promoted strip floating unpositioned. Gated
+      // on the popover actually being open: without the Popover API,
+      // showPopover() threw (swallowed in _enterReframe), .ctl stays in
+      // its in-frame absolute layout, and viewport-px coordinates would
+      // shove it off-frame — and matches(':popover-open') itself throws
+      // there (unknown pseudo-class), hence the try/catch.
+      if (this.hasAttribute('data-reframe')) {
+        let onTop = false;
+        try {
+          onTop = this._ctl.matches(':popover-open');
+        } catch {}
+        if (onTop) {
+          const r = this.getBoundingClientRect();
+          this._ctl.style.left = r.right - 8 + 'px';
+          this._ctl.style.top = r.top + 8 + 'px';
+        }
+      }
+      if (!g) {
+        // Dimensions not known yet (before img load) — centered fit so there
+        // is no flash of an unpositioned image before the geometry lands.
+        const contain = (this.getAttribute('fit') || 'cover').toLowerCase() === 'contain';
+        this._img.style.width = '100%';
+        this._img.style.height = '100%';
+        this._img.style.left = '50%';
+        this._img.style.top = '50%';
+        this._img.style.objectFit = contain ? 'contain' : 'cover';
+        return;
+      }
+      // Baseline (cover-fill or contain-fit) × view scale. Width/height and
+      // left/top are all frame-% — depends only on the frame aspect ratio, so
+      // a responsive resize keeps the same crop. The spill layer mirrors the
+      // same box so its corners = image corners.
+      const k = g.base * this._view.s;
+      const w = g.iw * k / g.fw * 100 + '%';
+      const h = g.ih * k / g.fh * 100 + '%';
+      const l = 50 + this._view.x + '%';
+      const t = 50 + this._view.y + '%';
+      this._img.style.width = w;
+      this._img.style.height = h;
+      this._img.style.left = l;
+      this._img.style.top = t;
+      this._img.style.objectFit = '';
+      if (this.hasAttribute('data-reframe')) {
+        // Top-layer spill: position in viewport px over the frame. The top
+        // layer escapes ancestor transforms entirely, so EVERY term must be
+        // in viewport units: getBoundingClientRect gives the frame's scaled
+        // origin AND size, and the rect/layout ratio rescales the ghost —
+        // sizing from layout px alone renders it 1/scale too large under a
+        // scaled deck slide. Inner ghost + handles stay box-relative.
+        const r = this.getBoundingClientRect();
+        const sx = g.fw ? r.width / g.fw : 1;
+        const sy = g.fh ? r.height / g.fh : 1;
+        this._spill.style.width = g.iw * k * sx + 'px';
+        this._spill.style.height = g.ih * k * sy + 'px';
+        this._spill.style.left = r.left + (50 + this._view.x) / 100 * r.width + 'px';
+        this._spill.style.top = r.top + (50 + this._view.y) / 100 * r.height + 'px';
+      }
+    }
+    _commitView() {
+      const v = {
+        s: this._view.s,
+        x: this._view.x,
+        y: this._view.y
+      };
+      if (this._userUrl) v.u = this._userUrl;
+      // Framing-only (no u) persists too so an author-src slot remembers its
+      // crop; clearing the sidecar still falls through to src=.
+      if (this.id) setSlot(this.id, v);else {
+        this._local = v;
+      }
+    }
+    _render() {
+      // Shape / mask. Presets use border-radius so the dashed ring can
+      // follow the rounded outline; clip-path is only applied for an
+      // explicit `mask` (the ring is hidden there since a rectangle
+      // dashed border chopped by an arbitrary polygon looks broken).
+      const mask = this.getAttribute('mask');
+      const shape = (this.getAttribute('shape') || 'rounded').toLowerCase();
+      let radius = '';
+      if (shape === 'circle') radius = '50%';else if (shape === 'pill') radius = '9999px';else if (shape === 'rounded') {
+        const n = parseFloat(this.getAttribute('radius'));
+        radius = (Number.isFinite(n) ? n : 12) + 'px';
+      }
+      this._frame.style.borderRadius = mask ? '' : radius;
+      this._frame.style.clipPath = mask || '';
+      this._ring.style.borderRadius = mask ? '' : radius;
+      this._ring.style.display = mask ? 'none' : '';
+
+      // Controls and reframe entry gate on this so share links stay read-only.
+      const editable = !!(window.omelette && window.omelette.writeFile);
+      this.toggleAttribute('data-editable', editable);
+      this._sub.style.display = editable ? '' : 'none';
+
+      // Content. The sidecar is also writable by the agent's write_file
+      // tool, so its value isn't guaranteed canvas-originated — only accept
+      // data:image/ URLs from it. The `src` attribute is author-controlled
+      // (Claude wrote it into the HTML) so it passes through unchanged.
+      let stored = this.id ? getSlot(this.id) : this._local;
+      if (stored && stored.u && !/^data:image\//i.test(stored.u)) stored = null;
+      const srcAttr = this.getAttribute('src') || '';
+      this._userUrl = stored && stored.u || null;
+      const url = this._userUrl || srcAttr;
+      // Don't clobber an in-flight reframe with a store-triggered re-render.
+      if (!this.hasAttribute('data-reframe')) {
+        this._view = {
+          s: stored && Number.isFinite(stored.s) ? clampS(stored.s) : 1,
+          x: stored && Number.isFinite(stored.x) ? stored.x : 0,
+          y: stored && Number.isFinite(stored.y) ? stored.y : 0
+        };
+      }
+      this._cap.textContent = this.getAttribute('placeholder') || 'Drop an image';
+      // Toggle via style.display — the [hidden] attribute alone loses to
+      // the display:flex / display:block rules in the stylesheet above.
+      // An Unsplash src with no credit attribute must NOT render — showing
+      // the photo uncredited is the Unsplash-terms violation itself. The
+      // error tile replaces the photo until the credit is written. A
+      // user-dropped image is the user's own content and always renders.
+      // Trimmed: credit is agent/user-editable content, and a whitespace-
+      // only value must count as missing — otherwise it would suppress the
+      // error tile AND render an empty credit box (no text, no links),
+      // exactly the unattributed state this gate exists to prevent.
+      const credit = (this.getAttribute('credit') || '').trim();
+      const attrError = !!(!credit && !this._userUrl && srcAttr && isUnsplashHost(srcAttr));
+      this.toggleAttribute('data-attribution-error', attrError);
+      if (url && !attrError) {
+        const prev = this._img.getAttribute('src');
+        if (prev !== url) {
+          // Replacing an already-shown image: mark the swap BEFORE setting
+          // src so the stale frame is never revealed (see the data-swapping
+          // stylesheet rules). First fill (prev empty) keeps the existing
+          // placeholder-until-load behavior — no spinner. _hidShowing
+          // covers the pick path's transient attribution-error wipe: prev
+          // is gone, but an image WAS showing, so this is a replacement.
+          if (prev || this._hidShowing) this.setAttribute('data-swapping', '');
+          // Mark the swap BEFORE assigning src: complete keeps reporting
+          // the old settled request until the browser's
+          // update-the-image-data microtask runs, so same-task re-renders
+          // (the pick path's credit/credit-href setAttributes) need this
+          // flag, not complete, to know a load is in flight.
+          this._loadPending = true;
+          this._img.src = url;
+          this._ghost.src = url;
+        } else {
+          // Same-src re-render — release if settled, so an ingest-set
+          // spinner can't stick after a byte-identical re-upload (same
+          // data URL, no further load event ever fires).
+          this._releaseMask();
+        }
+        this._hidShowing = false;
+        this._img.style.display = 'block';
+        this._empty.style.display = 'none';
+        this.setAttribute('data-filled', '');
+        this._clampView();
+        this._applyView();
+      } else {
+        this.removeAttribute('data-swapping');
+        // The src is being removed — no load/error will ever fire for it.
+        this._loadPending = false;
+        // A transient attribution-error wipe of a showing image happens on
+        // the pick path: the host sets src one setAttribute before credit,
+        // so render N hides the old image (attrError) and render N+1
+        // restores a URL. Remember the wipe so that restore renders as a
+        // replacement (spinner), not a first fill (blank frame).
+        this._hidShowing = attrError && !!this._img.getAttribute('src');
+        this._img.style.display = 'none';
+        this._img.removeAttribute('src');
+        this._ghost.removeAttribute('src');
+        // The error tile owns the blocked-photo state; .empty stays for
+        // the genuinely-empty slot.
+        this._empty.style.display = attrError ? 'none' : 'flex';
+        this.removeAttribute('data-filled');
+      }
+
+      // Credit belongs to the author src, so a user drop hides it.
+      // textContent + the http(s)-only funnel keep external strings inert.
+      const showCredit = !!(url && credit && !this._userUrl && !attrError);
+      this._credit.textContent = '';
+      if (showCredit) {
+        // Validate once (resolved against the document, http(s) only),
+        // then append the terms-required utm referral params to links
+        // that point back at unsplash.com.
+        let href = '';
+        const rawHref = this.getAttribute('credit-href') || '';
+        if (rawHref) {
+          try {
+            const u = new URL(rawHref, document.baseURI);
+            if (u.protocol === 'http:' || u.protocol === 'https:') {
+              href = withReferral(u.href);
+            }
+          } catch {}
+        }
+        const mkLink = (text, linkHref) => {
+          const a = document.createElement('a');
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+          a.setAttribute('href', linkHref);
+          a.textContent = text;
+          return a;
+        };
+        // Unsplash's prescribed credit is TWO links — the photographer's
+        // name to their profile (credit-href) and 'Unsplash' to the
+        // homepage. Render that split whenever the text has the canonical
+        // shape; other text keeps the legacy single-link rendering.
+        const m = /^Photo by (.+) on Unsplash$/.exec(credit);
+        if (m) {
+          this._credit.appendChild(document.createTextNode('Photo by '));
+          this._credit.appendChild(href ? mkLink(m[1], href) : document.createTextNode(m[1]));
+          this._credit.appendChild(document.createTextNode(' on '));
+          this._credit.appendChild(mkLink('Unsplash', UNSPLASH_HOMEPAGE_HREF));
+        } else if (href) {
+          this._credit.appendChild(mkLink(credit, href));
+        } else {
+          this._credit.textContent = credit;
+        }
+      }
+      this.toggleAttribute('data-credit', showCredit);
+    }
+  }
+  if (!customElements.get('image-slot')) {
+    customElements.define('image-slot', ImageSlot);
+  }
+})();
+})(); } catch (e) { __ds_ns.__errors.push({ path: "ui_kits/portfolio/image-slot.js", error: String((e && e.message) || e) }); }
 
 // ui_kits/portfolio/tweaks-panel.jsx
 try { (() => {
