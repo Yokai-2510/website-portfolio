@@ -1,25 +1,8 @@
-# Eshaan Sharma — portfolio
+# Eshaan Sharma: portfolio
 
-Personal portfolio site: algorithmic trading and low-latency systems. A single-page static site deployed on Netlify from `main`.
+Static site, no build step. Deploy this folder as-is.
 
-## Run locally
-
-No build step. Serve the repo root with any static server:
-
-```sh
-npx serve .
-# or
-python3 -m http.server 8000
-```
-
-React 18 and Babel standalone load from unpkg, and the `.jsx` screens compile in the browser.
-
-## Where things live
-
-- `data.js`: all site content (`window.ES_DATA`). Edit copy, projects, products and writing here.
-- `Home.jsx`, `Work.jsx`, `Products.jsx`, `Writing.jsx`, `About.jsx`: the screens.
-- `index.html`: entry point, router and app shell.
-- `_ds_bundle.js`: the compiled design-system components. Vendored, don't edit.
-- `styles.css` imports `tokens/*.css` and `css/*.css`. `kit.css` holds page layouts.
-- `netlify.toml`: cache headers and the SPA fallback redirect.
-- `legacy/`: the previous version of the site.
+- Netlify: drag the folder onto app.netlify.com/drop, or push it to a repo and connect it (netlify.toml publishes the root).
+- Content lives in `data.js` (identity, work, products, about, personal interests, writing). Screens are in `screens/`; styles are `styles.css` (tokens + components) and `kit.css` (page layouts).
+- Deep links: `#Work`, `#About`, `#Personal`, `#Connect`, `#Case/<slug>`, `#Interest/<id>`.
+- Hidden: Alt/Option + Shift + K switches to the other ink iteration.
